@@ -74,7 +74,8 @@ class SpamDataset(object):
                  truncation_len=100,
                  encoded_files=['encoded_ham.txt', 'encoded_spam.txt'],
                  vocab_file='email_train_vocab.txt',
-                 random_seed=10):
+                 random_seed=10,
+                 spam_only=False):
         self.base_data_dir = base_data_dir
         self.splits = splits
         self.label_names = label_names

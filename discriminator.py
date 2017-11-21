@@ -3,7 +3,7 @@ discriminator.py - Discriminator classes.
 
 Classes:
     Discriminator: a general discriminator interface.
-    MultinomialNB: a multinomial NaiveBayes subclass.
+    MultinomialNBDiscriminator: a multinomial NaiveBayes subclass.
 """
 from __future__ import division
 
@@ -65,8 +65,6 @@ class MultinomialNBDiscriminator(Discriminator):
         num_terms = TRAINING_VOCAB_SIZE[self.truncation_len]
         all_row_inds = all_col_inds = all_data = None
         for row_ind, example in enumerate(examples):
-            if row_ind % 5000 == 0:
-                print "Generating term-docs matrix: %d of %d" %(row_ind, len(examples))
             itemfreqs = scipy.stats.itemfreq(example).T
             # Column indices: the term indices in that document.
             col_inds = itemfreqs[0]
@@ -124,6 +122,12 @@ class MultinomialNBDiscriminator(Discriminator):
         roc_auc = self.calculate_roc_auc(probs, labels)
         print "ROC AUC: %f" % roc_auc
     
+    def get_adversarial_probs(self, examples):
+        doc_terms = self.examples_to_term_doc(examples)
+        X_transformed = self.tf_transformer.transform(doc_terms)
+        probs = self.model.predict_proba(doc_terms)
+        return probs[:, 0]
+        
     def save_model(self, 
                    checkpoint_dir='/cvgl2/u/catwong/cs332_final_project/checkpoints',
                    checkpoint_name='multinomial_nb'):

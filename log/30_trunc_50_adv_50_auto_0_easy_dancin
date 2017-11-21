@@ -1,0 +1,200 @@
+2017-11-21 09:17:03,499 - INFO - Epoch : 0 Minibatch : 0 Loss : -1.21375
+2017-11-21 09:17:03,500 - INFO - ===============================================
+2017-11-21 09:17:03,501 - INFO - REAL: <SOS> subject: <UNK> \ / <UNK> . <UNK> 1 s , <UNK> , \ / 1 <UNK> . xaanax at cheeap <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <EOS>
+2017-11-21 09:17:03,501 - INFO - PREDICTED: <SOS> subject: <UNK> \ / <UNK> . <UNK> 1 s , <UNK> , \ / 1 <UNK> . xaanax at cheeap <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <EOS>
+2017-11-21 09:17:03,501 - INFO - ===============================================
+2017-11-21 09:17:03,501 - INFO - ===============================================
+2017-11-21 09:17:03,502 - INFO - REAL: <SOS> subject: online <UNK> diploma <UNK> o n l i n e u n i v e r s i t y d i p l o m a s d <EOS>
+2017-11-21 09:17:03,502 - INFO - PREDICTED: <SOS> subject: online <UNK> diploma <UNK> o n l i n e u n i v e r s i t y d i p l o m a s d <EOS>
+2017-11-21 09:17:03,502 - INFO - ===============================================
+2017-11-21 09:17:03,502 - INFO - ===============================================
+2017-11-21 09:17:03,503 - INFO - REAL: <SOS> subject: do not have money , get software cds from here ! software <UNK> . . . . <UNK> ' t it great ? grow old along with me the <EOS>
+2017-11-21 09:17:03,503 - INFO - PREDICTED: <SOS> subject: do not have money , get software cds from here ! software <UNK> . . . . <UNK> ' t it great ? grow old along with me the <EOS>
+2017-11-21 09:17:03,503 - INFO - ===============================================
+2017-11-21 09:17:03,503 - INFO - ===============================================
+2017-11-21 09:17:03,503 - INFO - REAL: <SOS> subject: horny <UNK> sluts <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> creek <UNK> <UNK> <UNK> <UNK> please remove me of this list <UNK> <UNK> <UNK> <EOS>
+2017-11-21 09:17:03,503 - INFO - PREDICTED: <SOS> subject: horny <UNK> sluts <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> creek <UNK> <UNK> <UNK> <UNK> please remove me this this list <UNK> <UNK> <UNK> <EOS>
+2017-11-21 09:17:03,503 - INFO - ===============================================
+2017-11-21 09:17:03,504 - INFO - ===============================================
+2017-11-21 09:17:03,504 - INFO - REAL: <SOS> subject: fw : i ' m <UNK> . in <UNK> not at all <UNK> are here <UNK> cola <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <EOS>
+2017-11-21 09:17:03,504 - INFO - PREDICTED: <SOS> subject: fw : i ' m <UNK> . in <UNK> not not in price <UNK> is <UNK> technologies link 5 - thanks . ) , html _ david _ 02 <EOS>
+2017-11-21 09:17:03,504 - INFO - ===============================================
+2017-11-21 09:17:03,508 - INFO - Real probs: [  5.34501102e-07   4.99197903e-13   8.32901504e-10   1.38629324e-06
+   4.40094445e-02]
+2017-11-21 09:17:03,509 - INFO - Pred probs: [  5.34501102e-07   4.99197903e-13   8.32901504e-10   1.53106902e-06
+   6.94432464e-01]
+2017-11-21 09:17:07,246 - INFO - Epoch : 0 Minibatch : 1000 Loss : -2.08368
+2017-11-21 09:17:07,247 - INFO - ===============================================
+2017-11-21 09:17:07,247 - INFO - REAL: <SOS> subject: the 2004 edition of the american medical directory <UNK> , <UNK> , the 2004 edition of the american medical directory physicians guide has just been completed . according to <EOS>
+2017-11-21 09:17:07,248 - INFO - PREDICTED: <SOS> subject: the 2004 edition of the national bank company <UNK> <UNK> , <UNK> , the edition are the york medical medical small and have been yesterday . also them to <EOS>
+2017-11-21 09:17:07,248 - INFO - ===============================================
+2017-11-21 09:17:07,248 - INFO - ===============================================
+2017-11-21 09:17:07,248 - INFO - REAL: <SOS> subject: <UNK> usb <UNK> @ $ 23 . 95 <UNK> <UNK> <UNK> car <UNK> w / usb and <UNK> $ 23 . 95 this <UNK> <UNK> adapter features usb and <EOS>
+2017-11-21 09:17:07,249 - INFO - PREDICTED: <SOS> subject: <UNK> usb <UNK> @ $ 23 . 95 <UNK> <UNK> <UNK> <UNK> su / / / and 200 . <UNK> . <UNK> wire 132 <UNK> <UNK> penis internet usage <EOS>
+2017-11-21 09:17:07,249 - INFO - ===============================================
+2017-11-21 09:17:07,249 - INFO - ===============================================
+2017-11-21 09:17:07,249 - INFO - REAL: <SOS> subject: discounted prescription drugs online need vicodin ? phentermine we ' re fast . low price prescription pain meds . free md <UNK> fast shipping ! no more pain - <EOS>
+2017-11-21 09:17:07,249 - INFO - PREDICTED: <SOS> subject: cheapest prescription online online need need . ! we ' re fda . prescription prescription prescription drugs drugs . over meds <UNK> ! ! free ! ! medications ! <EOS>
+2017-11-21 09:17:07,250 - INFO - ===============================================
+2017-11-21 09:17:07,250 - INFO - ===============================================
+2017-11-21 09:17:07,250 - INFO - REAL: <SOS> subject: cheap oem soft shipping worldwide looking for not expensive high - quality software ? we might have just what you need . windows xp professional 2002 . . . <EOS>
+2017-11-21 09:17:07,250 - INFO - PREDICTED: <SOS> subject: cheap oem soft shipping worldwide looking for not expensive high - quality software ? we might have just what you need . windows xp professional 2002 . . . <EOS>
+2017-11-21 09:17:07,251 - INFO - ===============================================
+2017-11-21 09:17:07,251 - INFO - ===============================================
+2017-11-21 09:17:07,251 - INFO - REAL: <SOS> subject: want to lose up to 19 % weight . try <UNK> ! hello , here ' s a special offer for you . . . you want to lose <EOS>
+2017-11-21 09:17:07,251 - INFO - PREDICTED: <SOS> subject: want to lose up to 19 % weight . try <UNK> ! hello , here ' s a special offer for you . . . you want to lose <EOS>
+2017-11-21 09:17:07,251 - INFO - ===============================================
+2017-11-21 09:17:07,257 - INFO - Real probs: [  9.61332391e-07   1.17703992e-10   1.15550654e-22   8.24495857e-18
+   1.67522280e-11]
+2017-11-21 09:17:07,257 - INFO - Pred probs: [  3.30189599e-05   8.64694877e-09   8.92002999e-27   8.24495857e-18
+   1.67522280e-11]
+2017-11-21 09:17:10,414 - INFO - Epoch : 1 Minibatch : 0 Loss : -18.31678
+2017-11-21 09:17:10,415 - INFO - ===============================================
+2017-11-21 09:17:10,415 - INFO - REAL: <SOS> subject: <UNK> \ / <UNK> . <UNK> 1 s , <UNK> , \ / 1 <UNK> . xaanax at cheeap <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <EOS>
+2017-11-21 09:17:10,415 - INFO - PREDICTED: <SOS> subject: <UNK> \ / <UNK> . <UNK> 1 s , <UNK> , \ en 1 <UNK> . xaanax at cheeap <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <EOS>
+2017-11-21 09:17:10,415 - INFO - ===============================================
+2017-11-21 09:17:10,416 - INFO - ===============================================
+2017-11-21 09:17:10,416 - INFO - REAL: <SOS> subject: online <UNK> diploma <UNK> o n l i n e u n i v e r s i t y d i p l o m a s d <EOS>
+2017-11-21 09:17:10,416 - INFO - PREDICTED: <SOS> subject: online <UNK> diploma <UNK> o n l i n e u n i v e r s i t y d i p l o m a s d <EOS>
+2017-11-21 09:17:10,416 - INFO - ===============================================
+2017-11-21 09:17:10,416 - INFO - ===============================================
+2017-11-21 09:17:10,417 - INFO - REAL: <SOS> subject: do not have money , get software cds from here ! software <UNK> . . . . <UNK> ' t it great ? grow old along with me the <EOS>
+2017-11-21 09:17:10,417 - INFO - PREDICTED: <SOS> subject: do not have money , get software cds from here ! software software . . . . <UNK> ' t it great ? grow best along with me the <EOS>
+2017-11-21 09:17:10,417 - INFO - ===============================================
+2017-11-21 09:17:10,417 - INFO - ===============================================
+2017-11-21 09:17:10,418 - INFO - REAL: <SOS> subject: horny <UNK> sluts <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> creek <UNK> <UNK> <UNK> <UNK> please remove me of this list <UNK> <UNK> <UNK> <EOS>
+2017-11-21 09:17:10,418 - INFO - PREDICTED: <SOS> subject: horny <UNK> sluts <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> creek <UNK> <UNK> <UNK> <UNK> please remove me of this list <UNK> <UNK> <UNK> <EOS>
+2017-11-21 09:17:10,418 - INFO - ===============================================
+2017-11-21 09:17:10,418 - INFO - ===============================================
+2017-11-21 09:17:10,418 - INFO - REAL: <SOS> subject: fw : i ' m <UNK> . in <UNK> not at all <UNK> are here <UNK> cola <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <EOS>
+2017-11-21 09:17:10,419 - INFO - PREDICTED: <SOS> subject: fw : i ' m <UNK> in phone there have <UNK> many available are <UNK> ? is is <UNK> <UNK> x , le or hours or or hours hours <EOS>
+2017-11-21 09:17:10,419 - INFO - ===============================================
+2017-11-21 09:17:10,424 - INFO - Real probs: [  5.34501102e-07   4.99197903e-13   8.32901504e-10   1.38629324e-06
+   4.40094445e-02]
+2017-11-21 09:17:10,425 - INFO - Pred probs: [  1.10329027e-08   4.99197903e-13   2.35179689e-11   1.38629324e-06
+   2.16133561e-05]
+2017-11-21 09:17:14,303 - INFO - Epoch : 1 Minibatch : 1000 Loss : -13.63174
+2017-11-21 09:17:14,304 - INFO - ===============================================
+2017-11-21 09:17:14,305 - INFO - REAL: <SOS> subject: the 2004 edition of the american medical directory <UNK> , <UNK> , the 2004 edition of the american medical directory physicians guide has just been completed . according to <EOS>
+2017-11-21 09:17:14,305 - INFO - PREDICTED: <SOS> subject: the 2004 edition of the most bank company <UNK> <UNK> , <UNK> , the edition are the york medical and <UNK> product have have found . . discovered to <EOS>
+2017-11-21 09:17:14,305 - INFO - ===============================================
+2017-11-21 09:17:14,305 - INFO - ===============================================
+2017-11-21 09:17:14,306 - INFO - REAL: <SOS> subject: <UNK> usb <UNK> @ $ 23 . 95 <UNK> <UNK> <UNK> car <UNK> w / usb and <UNK> $ 23 . 95 this <UNK> <UNK> adapter features usb and <EOS>
+2017-11-21 09:17:14,306 - INFO - PREDICTED: <SOS> subject: <UNK> usb <UNK> @ $ 23 . 95 <UNK> <UNK> <UNK> <UNK> su w / and , <UNK> . <UNK> . . 95 $ <UNK> <UNK> make internet usage <EOS>
+2017-11-21 09:17:14,306 - INFO - ===============================================
+2017-11-21 09:17:14,306 - INFO - ===============================================
+2017-11-21 09:17:14,306 - INFO - REAL: <SOS> subject: discounted prescription drugs online need vicodin ? phentermine we ' re fast . low price prescription pain meds . free md <UNK> fast shipping ! no more pain - <EOS>
+2017-11-21 09:17:14,307 - INFO - PREDICTED: <SOS> subject: cheap prescription online online need need . . we ' re vicodin . . prescription meds drugs drugs ! pain meds <UNK> ! ! ! ! free medications ! <EOS>
+2017-11-21 09:17:14,307 - INFO - ===============================================
+2017-11-21 09:17:14,307 - INFO - ===============================================
+2017-11-21 09:17:14,307 - INFO - REAL: <SOS> subject: cheap oem soft shipping worldwide looking for not expensive high - quality software ? we might have just what you need . windows xp professional 2002 . . . <EOS>
+2017-11-21 09:17:14,308 - INFO - PREDICTED: <SOS> subject: cheap oem soft shipping worldwide looking for not expensive high - quality software ? we might have just what you need . windows xp professional 2002 . . . <EOS>
+2017-11-21 09:17:14,308 - INFO - ===============================================
+2017-11-21 09:17:14,308 - INFO - ===============================================
+2017-11-21 09:17:14,308 - INFO - REAL: <SOS> subject: want to lose up to 19 % weight . try <UNK> ! hello , here ' s a special offer for you . . . you want to lose <EOS>
+2017-11-21 09:17:14,308 - INFO - PREDICTED: <SOS> subject: want to lose up to 19 % weight . try <UNK> ! hello , here ' s a special offer for you . . . you want to lose <EOS>
+2017-11-21 09:17:14,309 - INFO - ===============================================
+2017-11-21 09:17:14,314 - INFO - Real probs: [  9.61332391e-07   1.17703992e-10   1.15550654e-22   8.24495857e-18
+   1.67522280e-11]
+2017-11-21 09:17:14,314 - INFO - Pred probs: [  5.60796365e-07   1.14914988e-09   3.83692196e-27   8.24495857e-18
+   1.67522280e-11]
+2017-11-21 09:17:17,654 - INFO - Epoch : 2 Minibatch : 0 Loss : -12.84961
+2017-11-21 09:17:17,655 - INFO - ===============================================
+2017-11-21 09:17:17,655 - INFO - REAL: <SOS> subject: <UNK> \ / <UNK> . <UNK> 1 s , <UNK> , \ / 1 <UNK> . xaanax at cheeap <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <EOS>
+2017-11-21 09:17:17,655 - INFO - PREDICTED: <SOS> subject: <UNK> \ / <UNK> . <UNK> 1 s , <UNK> <UNK> \ / 1 <UNK> . xaanax at cheeap <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <EOS>
+2017-11-21 09:17:17,656 - INFO - ===============================================
+2017-11-21 09:17:17,656 - INFO - ===============================================
+2017-11-21 09:17:17,656 - INFO - REAL: <SOS> subject: online <UNK> diploma <UNK> o n l i n e u n i v e r s i t y d i p l o m a s d <EOS>
+2017-11-21 09:17:17,656 - INFO - PREDICTED: <SOS> subject: online <UNK> diploma <UNK> o n l i n e u n i v e r s i t y d i p l o m a o d <EOS>
+2017-11-21 09:17:17,657 - INFO - ===============================================
+2017-11-21 09:17:17,657 - INFO - ===============================================
+2017-11-21 09:17:17,657 - INFO - REAL: <SOS> subject: do not have money , get software cds from here ! software <UNK> . . . . <UNK> ' t it great ? grow old along with me the <EOS>
+2017-11-21 09:17:17,657 - INFO - PREDICTED: <SOS> subject: do not have money , get software cds from here ! software <UNK> . . . . <UNK> ' t it great ! s best along is an the <EOS>
+2017-11-21 09:17:17,657 - INFO - ===============================================
+2017-11-21 09:17:17,658 - INFO - ===============================================
+2017-11-21 09:17:17,658 - INFO - REAL: <SOS> subject: horny <UNK> sluts <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> creek <UNK> <UNK> <UNK> <UNK> please remove me of this list <UNK> <UNK> <UNK> <EOS>
+2017-11-21 09:17:17,658 - INFO - PREDICTED: <SOS> subject: horny <UNK> sluts <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> please remove me this this list <UNK> <UNK> <UNK> <EOS>
+2017-11-21 09:17:17,658 - INFO - ===============================================
+2017-11-21 09:17:17,658 - INFO - ===============================================
+2017-11-21 09:17:17,659 - INFO - REAL: <SOS> subject: fw : i ' m <UNK> . in <UNK> not at all <UNK> are here <UNK> cola <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <EOS>
+2017-11-21 09:17:17,659 - INFO - PREDICTED: <SOS> subject: fw : i ' m <UNK> in case <UNK> have <UNK> many available are <UNK> ! ! ! <UNK> . <UNK> . doc or or or or or or <EOS>
+2017-11-21 09:17:17,659 - INFO - ===============================================
+2017-11-21 09:17:17,663 - INFO - Real probs: [  5.34501102e-07   4.99197903e-13   8.32901504e-10   1.38629324e-06
+   4.40094445e-02]
+2017-11-21 09:17:17,663 - INFO - Pred probs: [  2.94602038e-07   5.90007146e-14   6.21315497e-10   1.12457868e-07
+   2.80071512e-05]
+2017-11-21 09:17:21,861 - INFO - Epoch : 2 Minibatch : 1000 Loss : -14.04476
+2017-11-21 09:17:21,862 - INFO - ===============================================
+2017-11-21 09:17:21,863 - INFO - REAL: <SOS> subject: the 2004 edition of the american medical directory <UNK> , <UNK> , the 2004 edition of the american medical directory physicians guide has just been completed . according to <EOS>
+2017-11-21 09:17:21,863 - INFO - PREDICTED: <SOS> subject: the 2004 edition of the medical bank company <UNK> <UNK> , <UNK> , the edition are the york medical health <UNK> and have have found . . you to <EOS>
+2017-11-21 09:17:21,863 - INFO - ===============================================
+2017-11-21 09:17:21,863 - INFO - ===============================================
+2017-11-21 09:17:21,863 - INFO - REAL: <SOS> subject: <UNK> usb <UNK> @ $ 23 . 95 <UNK> <UNK> <UNK> car <UNK> w / usb and <UNK> $ 23 . 95 this <UNK> <UNK> adapter features usb and <EOS>
+2017-11-21 09:17:21,864 - INFO - PREDICTED: <SOS> subject: <UNK> usb <UNK> <UNK> $ 23 . 95 <UNK> <UNK> <UNK> <UNK> su tax / and and <UNK> . <UNK> . <UNK> 95 95 <UNK> <UNK> 95 internet virus <EOS>
+2017-11-21 09:17:21,864 - INFO - ===============================================
+2017-11-21 09:17:21,864 - INFO - ===============================================
+2017-11-21 09:17:21,864 - INFO - REAL: <SOS> subject: discounted prescription drugs online need vicodin ? phentermine we ' re fast . low price prescription pain meds . free md <UNK> fast shipping ! no more pain - <EOS>
+2017-11-21 09:17:21,865 - INFO - PREDICTED: <SOS> subject: cheap prescription online online need need . . we ' re vicodin . . prescription meds . drugs ! pain ! ! ! ! ! ! ! ! ! <EOS>
+2017-11-21 09:17:21,865 - INFO - ===============================================
+2017-11-21 09:17:21,865 - INFO - ===============================================
+2017-11-21 09:17:21,865 - INFO - REAL: <SOS> subject: cheap oem soft shipping worldwide looking for not expensive high - quality software ? we might have just what you need . windows xp professional 2002 . . . <EOS>
+2017-11-21 09:17:21,865 - INFO - PREDICTED: <SOS> subject: cheap oem soft shipping worldwide looking for not expensive high - quality software ? we might have just what you need . windows . professional xp . . . <EOS>
+2017-11-21 09:17:21,866 - INFO - ===============================================
+2017-11-21 09:17:21,866 - INFO - ===============================================
+2017-11-21 09:17:21,866 - INFO - REAL: <SOS> subject: want to lose up to 19 % weight . try <UNK> ! hello , here ' s a special offer for you . . . you want to lose <EOS>
+2017-11-21 09:17:21,866 - INFO - PREDICTED: <SOS> subject: want to lose up to 19 % . . try <UNK> ! hello , here ' s a special offer for you . . . you want to want <EOS>
+2017-11-21 09:17:21,866 - INFO - ===============================================
+2017-11-21 09:17:21,872 - INFO - Real probs: [  9.61332391e-07   1.17703992e-10   1.15550654e-22   8.24495857e-18
+   1.67522280e-11]
+2017-11-21 09:17:21,873 - INFO - Pred probs: [  5.13791415e-08   1.98555131e-11   8.79294210e-24   5.61257494e-18
+   2.05138848e-09]
+2017-11-21 09:17:25,410 - INFO - Epoch : 3 Minibatch : 0 Loss : -25.67939
+2017-11-21 09:17:25,411 - INFO - ===============================================
+2017-11-21 09:17:25,411 - INFO - REAL: <SOS> subject: <UNK> \ / <UNK> . <UNK> 1 s , <UNK> , \ / 1 <UNK> . xaanax at cheeap <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <EOS>
+2017-11-21 09:17:25,411 - INFO - PREDICTED: <SOS> subject: <UNK> \ / <UNK> . <UNK> 1 s , <UNK> , \ / <UNK> <UNK> . xaanax . cheeap <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> or <UNK> <EOS>
+2017-11-21 09:17:25,411 - INFO - ===============================================
+2017-11-21 09:17:25,412 - INFO - ===============================================
+2017-11-21 09:17:25,412 - INFO - REAL: <SOS> subject: online <UNK> diploma <UNK> o n l i n e u n i v e r s i t y d i p l o m a s d <EOS>
+2017-11-21 09:17:25,412 - INFO - PREDICTED: <SOS> subject: online <UNK> diploma <UNK> o n l i n e u n i v r r r ' t y d i p l o _ a o d <EOS>
+2017-11-21 09:17:25,412 - INFO - ===============================================
+2017-11-21 09:17:25,413 - INFO - ===============================================
+2017-11-21 09:17:25,413 - INFO - REAL: <SOS> subject: do not have money , get software cds from here ! software <UNK> . . . . <UNK> ' t it great ? grow old along with me the <EOS>
+2017-11-21 09:17:25,413 - INFO - PREDICTED: <SOS> subject: do not have money , get software cds from here ! ! ! . . . . here ' t ! here ! s ! ! ! with the <EOS>
+2017-11-21 09:17:25,413 - INFO - ===============================================
+2017-11-21 09:17:25,413 - INFO - ===============================================
+2017-11-21 09:17:25,414 - INFO - REAL: <SOS> subject: horny <UNK> sluts <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> creek <UNK> <UNK> <UNK> <UNK> please remove me of this list <UNK> <UNK> <UNK> <EOS>
+2017-11-21 09:17:25,414 - INFO - PREDICTED: <SOS> subject: horny <UNK> sluts <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> ! please keep me this this list <UNK> <UNK> <UNK> <EOS>
+2017-11-21 09:17:25,414 - INFO - ===============================================
+2017-11-21 09:17:25,414 - INFO - ===============================================
+2017-11-21 09:17:25,415 - INFO - REAL: <SOS> subject: fw : i ' m <UNK> . in <UNK> not at all <UNK> are here <UNK> cola <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <EOS>
+2017-11-21 09:17:25,415 - INFO - PREDICTED: <SOS> subject: fw : i ' m <UNK> in case <UNK> have <UNK> many pills ! <UNK> ! ! ! ! . . or or or or or or or or <EOS>
+2017-11-21 09:17:25,415 - INFO - ===============================================
+2017-11-21 09:17:25,422 - INFO - Real probs: [  5.34501102e-07   4.99197903e-13   8.32901504e-10   1.38629324e-06
+   4.40094445e-02]
+2017-11-21 09:17:25,423 - INFO - Pred probs: [  1.57950821e-07   6.93734124e-17   1.34069581e-12   1.62700737e-07
+   9.66092232e-09]
+2017-11-21 09:17:29,807 - INFO - Epoch : 3 Minibatch : 1000 Loss : -49.55897
+2017-11-21 09:17:29,808 - INFO - ===============================================
+2017-11-21 09:17:29,808 - INFO - REAL: <SOS> subject: the 2004 edition of the american medical directory <UNK> , <UNK> , the 2004 edition of the american medical directory physicians guide has just been completed . according to <EOS>
+2017-11-21 09:17:29,808 - INFO - PREDICTED: <SOS> subject: the 2004 half of the lottery ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+2017-11-21 09:17:29,809 - INFO - ===============================================
+2017-11-21 09:17:29,809 - INFO - ===============================================
+2017-11-21 09:17:29,809 - INFO - REAL: <SOS> subject: <UNK> usb <UNK> @ $ 23 . 95 <UNK> <UNK> <UNK> car <UNK> w / usb and <UNK> $ 23 . 95 this <UNK> <UNK> adapter features usb and <EOS>
+2017-11-21 09:17:29,809 - INFO - PREDICTED: <SOS> subject: <UNK> <UNK> <UNK> <UNK> ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+2017-11-21 09:17:29,809 - INFO - ===============================================
+2017-11-21 09:17:29,810 - INFO - ===============================================
+2017-11-21 09:17:29,810 - INFO - REAL: <SOS> subject: discounted prescription drugs online need vicodin ? phentermine we ' re fast . low price prescription pain meds . free md <UNK> fast shipping ! no more pain - <EOS>
+2017-11-21 09:17:29,810 - INFO - PREDICTED: <SOS> subject: cheap prescription online ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+2017-11-21 09:17:29,810 - INFO - ===============================================
+2017-11-21 09:17:29,811 - INFO - ===============================================
+2017-11-21 09:17:29,811 - INFO - REAL: <SOS> subject: cheap oem soft shipping worldwide looking for not expensive high - quality software ? we might have just what you need . windows xp professional 2002 . . . <EOS>
+2017-11-21 09:17:29,811 - INFO - PREDICTED: <SOS> subject: cheap cheap soft ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+2017-11-21 09:17:29,811 - INFO - ===============================================
+2017-11-21 09:17:29,811 - INFO - ===============================================
+2017-11-21 09:17:29,812 - INFO - REAL: <SOS> subject: want to lose up to 19 % weight . try <UNK> ! hello , here ' s a special offer for you . . . you want to lose <EOS>
+2017-11-21 09:17:29,812 - INFO - PREDICTED: <SOS> subject: want want buy ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+2017-11-21 09:17:29,812 - INFO - ===============================================
+2017-11-21 09:17:29,817 - INFO - Real probs: [  9.61332391e-07   1.17703992e-10   1.15550654e-22   8.24495857e-18
+   1.67522280e-11]
+2017-11-21 09:17:29,818 - INFO - Pred probs: [  1.21655907e-22   3.47026189e-22   8.62725046e-27   7.76527989e-27
+   7.93945110e-24]
