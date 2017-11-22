@@ -216,6 +216,7 @@ class DancinSeq2SeqAdversarial():
                                                                                   real_probs,
                                                                                   pred_probs):
                         if pred_prob > real_prob:
+                            
                             decoded_real = dataset.vocab_encoder.decode_numpy(sentence_real[::-1])
                             decoded_pred = dataset.vocab_encoder.decode_numpy(sentence_pred)
 
@@ -223,6 +224,7 @@ class DancinSeq2SeqAdversarial():
                             logging.info("REAL: " + str(real_prob) + " " + decoded_real)
                             logging.info("PREDICTED: " + str(pred_prob) + " " + decoded_pred)
                             logging.info('===============================================')
+                            
                             del decoded_real, decoded_pred
                     # Evaluate the samples and print ones where the probability increased.
                     
@@ -257,7 +259,7 @@ class DancinSeq2SeqAdversarial():
 if __name__ == "__main__":
     adversarial_weights = [.5, .8, .9, .95]
     truncation_len=30
-    adversarial_weight = adversarial_weights[-1] # The weight to give to "fooling" the discriminator
+    adversarial_weight = adversarial_weights[1] # The weight to give to "fooling" the discriminator
     autoencoder_weight = 1 - adversarial_weight
     easy_dataset = True # Whether to use lower confidence spam.
     
@@ -314,5 +316,5 @@ if __name__ == "__main__":
         epochs=1000, 
         write_checkpoint=100,
         monitor_loss=100,
-        print_samples=100)
+        print_samples=10)
     #checkpoint = adversarial.save_model(checkpoint_name=experiment_name)

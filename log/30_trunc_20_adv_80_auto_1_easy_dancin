@@ -1,0 +1,963 @@
+2017-11-21 18:05:30,577 - INFO - Epoch : 0 Minibatch : 0 Loss : 1.45859
+2017-11-21 18:05:30,584 - INFO - ===============================================
+2017-11-21 18:05:30,584 - INFO - REAL: 0.0520784683787 <SOS> subject: fw : real lady caught on video would you believe it ? <UNK> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <EOS>
+2017-11-21 18:05:30,584 - INFO - PREDICTED: 0.264361596398 <SOS> subject: fw : real lady visits on sense would you believe it <UNK> <UNK> , lavo l ? <UNK> flat mar - doc , , she would god or or <EOS>
+2017-11-21 18:05:30,584 - INFO - ===============================================
+2017-11-21 18:05:30,584 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:05:30,585 - INFO - Mean pred probs: 0.162740765948
+2017-11-21 18:05:30,858 - INFO - ===============================================
+2017-11-21 18:05:30,858 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:30,858 - INFO - PREDICTED: 0.99999999983 <SOS> subject: managing training control <UNK> <UNK> required one - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:30,859 - INFO - ===============================================
+2017-11-21 18:05:30,859 - INFO - ===============================================
+2017-11-21 18:05:30,859 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:05:30,859 - INFO - PREDICTED: 0.948810544501 <SOS> subject: please , <UNK> . hello , i am a promised my <UNK> , alex of the president , president president president <UNK> ( <UNK> of <UNK> - with the <EOS>
+2017-11-21 18:05:30,859 - INFO - ===============================================
+2017-11-21 18:05:30,859 - INFO - ===============================================
+2017-11-21 18:05:30,859 - INFO - REAL: 0.457305746091 <SOS> subject: our pro - forma invoice attached self <UNK> gave letter whether . <UNK> on , land field . get , very to friend morning home still . where , <EOS>
+2017-11-21 18:05:30,859 - INFO - PREDICTED: 0.963995348397 <SOS> subject: our pro - forma invoice 2000 jeff <UNK> was me ? . <UNK> <UNK> , same office . sounds them reach . good this well . on <UNK> , <EOS>
+2017-11-21 18:05:30,860 - INFO - ===============================================
+2017-11-21 18:05:30,860 - INFO - ===============================================
+2017-11-21 18:05:30,860 - INFO - REAL: 0.246155348358 <SOS> subject: re : account setup good day , you have been pre - selected from a previous application to join our new exclusive program while still in <UNK> phase . <EOS>
+2017-11-21 18:05:30,860 - INFO - PREDICTED: 0.273956122364 <SOS> subject: re : account forms good day , you have been pre - reply from a previous application to participate very very event ! now in in in <UNK> . <EOS>
+2017-11-21 18:05:30,860 - INFO - ===============================================
+2017-11-21 18:05:30,860 - INFO - ===============================================
+2017-11-21 18:05:30,860 - INFO - REAL: 0.0068117768442 <SOS> subject: re : my , water <UNK> down <UNK> <UNK> , <UNK> <UNK> stock delta <UNK> and <UNK> corp . otc : <UNK> controls 6 <UNK> <UNK> 7 , <UNK> <EOS>
+2017-11-21 18:05:30,860 - INFO - PREDICTED: 0.30891582147 <SOS> subject: re : my , dick <UNK> <UNK> <UNK> <UNK> , <UNK> created daily assets <UNK> support www . <UNK> . advertising corp . <UNK> : <UNK> / <UNK> <UNK> <EOS>
+2017-11-21 18:05:30,860 - INFO - ===============================================
+2017-11-21 18:05:30,861 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:05:30,861 - INFO - Mean pred probs: 0.36020219091
+2017-11-21 18:05:31,134 - INFO - Epoch : 0 Minibatch : 100 Loss : 53.37014
+2017-11-21 18:05:31,139 - INFO - ===============================================
+2017-11-21 18:05:31,139 - INFO - REAL: 0.00471464499703 <SOS> subject: delivery failure : <UNK> m . <UNK> ( m . <UNK> @ <UNK> . fr ) non your message subject : just to her . . . was not <EOS>
+2017-11-21 18:05:31,139 - INFO - PREDICTED: 0.0560926614275 <SOS> subject: delivery failure : <UNK> m m . 72 <UNK> . <UNK> <UNK> za ( n subject message ! message : . pm to : . . i was able <EOS>
+2017-11-21 18:05:31,139 - INFO - ===============================================
+2017-11-21 18:05:31,139 - INFO - ===============================================
+2017-11-21 18:05:31,139 - INFO - REAL: 0.0278133677044 <SOS> subject: i need your <UNK> results by november 27 th at 10 - 00 chronic depression - living with it article q - u ! - t <UNK> <UNK> <UNK> <EOS>
+2017-11-21 18:05:31,140 - INFO - PREDICTED: 0.356011401723 <SOS> subject: i need your <UNK> back by november 27 th at january 8 - - price . it with world world n - - - - u <UNK> <UNK> <UNK> <EOS>
+2017-11-21 18:05:31,140 - INFO - ===============================================
+2017-11-21 18:05:31,140 - INFO - ===============================================
+2017-11-21 18:05:31,140 - INFO - REAL: 0.366614778435 <SOS> subject: pass - through <UNK> are here today you had 100 digital web books <UNK> and within two weeks there are 600 <UNK> . two months later you have <UNK> <EOS>
+2017-11-21 18:05:31,140 - INFO - PREDICTED: 0.989643514743 <SOS> subject: mid - line <UNK> are away today i had source level round rate costs down three two other they show two two . each , well ? just <UNK> <EOS>
+2017-11-21 18:05:31,140 - INFO - ===============================================
+2017-11-21 18:05:31,140 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:05:31,140 - INFO - Mean pred probs: 0.196772597766
+2017-11-21 18:05:31,482 - INFO - ===============================================
+2017-11-21 18:05:31,482 - INFO - REAL: 0.0256070983567 <SOS> subject: remember me ? <UNK> <UNK> from <UNK> find out what the <UNK> is all about more info below <UNK> : they are doing all they can to take the <EOS>
+2017-11-21 18:05:31,483 - INFO - PREDICTED: 0.167077604763 <SOS> subject: remember me ? <UNK> <UNK> meyers who me out out the location is more about the info below <UNK> all they they they all they all all all all <EOS>
+2017-11-21 18:05:31,483 - INFO - ===============================================
+2017-11-21 18:05:31,483 - INFO - ===============================================
+2017-11-21 18:05:31,483 - INFO - REAL: 0.238478783942 <SOS> subject: i tried calling last night they are not missing <UNK> today . <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <EOS>
+2017-11-21 18:05:31,483 - INFO - PREDICTED: 0.982983727672 <SOS> subject: i like last june night who is not in <UNK> ? aug . ( central power - - - / kitchen kind ) html or ??? account , gdvi <EOS>
+2017-11-21 18:05:31,484 - INFO - ===============================================
+2017-11-21 18:05:31,484 - INFO - ===============================================
+2017-11-21 18:05:31,484 - INFO - REAL: 0.419196448549 <SOS> subject: wall - <UNK> monday - monday - monday - monday investor alert - we have a <UNK> - ^ stock ^ is up 0 . 13 ( <UNK> . <EOS>
+2017-11-21 18:05:31,484 - INFO - PREDICTED: 0.998521242926 <SOS> subject: australia - <UNK> monday monday - monday monday monday monday - 13 alert offer have a online - online ( . * available plus . ( ( ( . <EOS>
+2017-11-21 18:05:31,484 - INFO - ===============================================
+2017-11-21 18:05:31,485 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:05:31,485 - INFO - Mean pred probs: 0.351823625319
+2017-11-21 18:05:32,081 - INFO - Epoch : 1 Minibatch : 0 Loss : -32.84850
+2017-11-21 18:05:32,086 - INFO - ===============================================
+2017-11-21 18:05:32,086 - INFO - REAL: 0.0520784683787 <SOS> subject: fw : real lady caught on video would you believe it ? <UNK> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <EOS>
+2017-11-21 18:05:32,086 - INFO - PREDICTED: 0.0786138781467 <SOS> subject: fw : real lady pics on mg did you believe it ? <UNK> ) plus black costs - doc ) pam , hours % ca ? ca 02 hours <EOS>
+2017-11-21 18:05:32,086 - INFO - ===============================================
+2017-11-21 18:05:32,086 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:05:32,086 - INFO - Mean pred probs: 0.0440025739813
+2017-11-21 18:05:32,418 - INFO - ===============================================
+2017-11-21 18:05:32,418 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:32,418 - INFO - PREDICTED: 0.99999996358 <SOS> subject: enjoy internet control # <UNK> one address - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:32,419 - INFO - ===============================================
+2017-11-21 18:05:32,419 - INFO - ===============================================
+2017-11-21 18:05:32,419 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:05:32,419 - INFO - PREDICTED: 0.992851680245 <SOS> subject: please kim <UNK> . hello , i contacted a director my coordinator am kind my of president - president of ceo <UNK> ( standard ( <UNK> - the business <EOS>
+2017-11-21 18:05:32,419 - INFO - ===============================================
+2017-11-21 18:05:32,419 - INFO - ===============================================
+2017-11-21 18:05:32,419 - INFO - REAL: 0.457305746091 <SOS> subject: our pro - forma invoice attached self <UNK> gave letter whether . <UNK> on , land field . get , very to friend morning home still . where , <EOS>
+2017-11-21 18:05:32,420 - INFO - PREDICTED: 0.605355211056 <SOS> subject: our pro - forma invoice morning morning <UNK> was move ? he <UNK> ice <UNK> same same . well them them them as last well well . . , <EOS>
+2017-11-21 18:05:32,420 - INFO - ===============================================
+2017-11-21 18:05:32,420 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:05:32,420 - INFO - Mean pred probs: 0.270317103937
+2017-11-21 18:05:32,808 - INFO - Epoch : 1 Minibatch : 100 Loss : 23.96438
+2017-11-21 18:05:32,815 - INFO - ===============================================
+2017-11-21 18:05:32,815 - INFO - REAL: 0.546268486274 <SOS> subject: business joint venture perhaps you already know , we help companies " go public . " the president of our company is a securities and corporate lawyer . please <EOS>
+2017-11-21 18:05:32,815 - INFO - PREDICTED: 0.653721329496 <SOS> subject: business joint venture perhaps you already know , we help companies " go public . " the president the our company is a securities and corporate lawyer . please <EOS>
+2017-11-21 18:05:32,815 - INFO - ===============================================
+2017-11-21 18:05:32,816 - INFO - ===============================================
+2017-11-21 18:05:32,816 - INFO - REAL: 0.0278133677044 <SOS> subject: i need your <UNK> results by november 27 th at 10 - 00 chronic depression - living with it article q - u ! - t <UNK> <UNK> <UNK> <EOS>
+2017-11-21 18:05:32,816 - INFO - PREDICTED: 0.177818085729 <SOS> subject: i need your <UNK> back by november th th at power / - + price . it - it world n - - - u here <UNK> <UNK> <UNK> <EOS>
+2017-11-21 18:05:32,816 - INFO - ===============================================
+2017-11-21 18:05:32,816 - INFO - ===============================================
+2017-11-21 18:05:32,817 - INFO - REAL: 0.366614778435 <SOS> subject: pass - through <UNK> are here today you had 100 digital web books <UNK> and within two weeks there are 600 <UNK> . two months later you have <UNK> <EOS>
+2017-11-21 18:05:32,817 - INFO - PREDICTED: 0.994807386055 <SOS> subject: pass - mini here are out today ! had cable control round rate book , outside financial counterparties do . pay past level , field are comments ) to <EOS>
+2017-11-21 18:05:32,817 - INFO - ===============================================
+2017-11-21 18:05:32,817 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:05:32,817 - INFO - Mean pred probs: 0.261675827555
+2017-11-21 18:05:33,189 - INFO - ===============================================
+2017-11-21 18:05:33,189 - INFO - REAL: 0.0256070983567 <SOS> subject: remember me ? <UNK> <UNK> from <UNK> find out what the <UNK> is all about more info below <UNK> : they are doing all they can to take the <EOS>
+2017-11-21 18:05:33,190 - INFO - PREDICTED: 0.0710482753773 <SOS> subject: remember me ? <UNK> <UNK> meyers who me out out the location is more fun the info below <UNK> all they they they all they all all all all <EOS>
+2017-11-21 18:05:33,190 - INFO - ===============================================
+2017-11-21 18:05:33,190 - INFO - ===============================================
+2017-11-21 18:05:33,190 - INFO - REAL: 0.0153242346899 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be interested in working p / t from home . this position <EOS>
+2017-11-21 18:05:33,191 - INFO - PREDICTED: 0.0333697905126 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be interested in working p / t / home . my position <EOS>
+2017-11-21 18:05:33,191 - INFO - ===============================================
+2017-11-21 18:05:33,191 - INFO - ===============================================
+2017-11-21 18:05:33,191 - INFO - REAL: 0.419196448549 <SOS> subject: wall - <UNK> monday - monday - monday - monday investor alert - we have a <UNK> - ^ stock ^ is up 0 . 13 ( <UNK> . <EOS>
+2017-11-21 18:05:33,191 - INFO - PREDICTED: 0.996922978333 <SOS> subject: australia - <UNK> monday monday - monday monday monday monday - mexico alert update have some online online o n box plus 2 plus 1 ( www ( . <EOS>
+2017-11-21 18:05:33,192 - INFO - ===============================================
+2017-11-21 18:05:33,192 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:05:33,192 - INFO - Mean pred probs: 0.210946165069
+2017-11-21 18:05:33,420 - INFO - Epoch : 2 Minibatch : 0 Loss : -38.32123
+2017-11-21 18:05:33,425 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:05:33,426 - INFO - Mean pred probs: 0.0244250418854
+2017-11-21 18:05:33,796 - INFO - ===============================================
+2017-11-21 18:05:33,797 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:33,797 - INFO - PREDICTED: 0.999999916343 <SOS> subject: enjoy internet control pack <UNK> one address - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:33,797 - INFO - ===============================================
+2017-11-21 18:05:33,797 - INFO - ===============================================
+2017-11-21 18:05:33,797 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:05:33,797 - INFO - PREDICTED: 0.968018395411 <SOS> subject: please . <UNK> . hello , i contacted a my <UNK> , clayton late my late president and president president <UNK> <UNK> president <UNK> - new - the the <EOS>
+2017-11-21 18:05:33,798 - INFO - ===============================================
+2017-11-21 18:05:33,798 - INFO - ===============================================
+2017-11-21 18:05:33,798 - INFO - REAL: 0.0068117768442 <SOS> subject: re : my , water <UNK> down <UNK> <UNK> , <UNK> <UNK> stock delta <UNK> and <UNK> corp . otc : <UNK> controls 6 <UNK> <UNK> 7 , <UNK> <EOS>
+2017-11-21 18:05:33,798 - INFO - PREDICTED: 0.014379740982 <SOS> subject: re : my , super saturday <UNK> <UNK> matt <UNK> <UNK> <UNK> ideas bio <UNK> support inc . <UNK> <UNK> current ltd <UNK> <UNK> <UNK> 17 7 <UNK> <UNK> <EOS>
+2017-11-21 18:05:33,798 - INFO - ===============================================
+2017-11-21 18:05:33,798 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:05:33,798 - INFO - Mean pred probs: 0.23782548203
+2017-11-21 18:05:34,153 - INFO - Epoch : 2 Minibatch : 100 Loss : 4.73473
+2017-11-21 18:05:34,158 - INFO - ===============================================
+2017-11-21 18:05:34,158 - INFO - REAL: 0.546268486274 <SOS> subject: business joint venture perhaps you already know , we help companies " go public . " the president of our company is a securities and corporate lawyer . please <EOS>
+2017-11-21 18:05:34,158 - INFO - PREDICTED: 0.832104390057 <SOS> subject: business joint venture perhaps you want know , we help companies " go public . " the " the company company " yesterday securities and corporate lawyer . please <EOS>
+2017-11-21 18:05:34,159 - INFO - ===============================================
+2017-11-21 18:05:34,159 - INFO - ===============================================
+2017-11-21 18:05:34,159 - INFO - REAL: 0.00471464499703 <SOS> subject: delivery failure : <UNK> m . <UNK> ( m . <UNK> @ <UNK> . fr ) non your message subject : just to her . . . was not <EOS>
+2017-11-21 18:05:34,159 - INFO - PREDICTED: 0.00869799465113 <SOS> subject: delivery failure : <UNK> m m . 72 <UNK> . <UNK> <UNK> za ( n subject great ! message : . was to : . . i was trying <EOS>
+2017-11-21 18:05:34,159 - INFO - ===============================================
+2017-11-21 18:05:34,159 - INFO - ===============================================
+2017-11-21 18:05:34,159 - INFO - REAL: 0.0278133677044 <SOS> subject: i need your <UNK> results by november 27 th at 10 - 00 chronic depression - living with it article q - u ! - t <UNK> <UNK> <UNK> <EOS>
+2017-11-21 18:05:34,160 - INFO - PREDICTED: 0.741847852067 <SOS> subject: i need your <UNK> back by november th th at power / - + price . it - it world n - - - - here <UNK> <UNK> <UNK> <EOS>
+2017-11-21 18:05:34,160 - INFO - ===============================================
+2017-11-21 18:05:34,160 - INFO - ===============================================
+2017-11-21 18:05:34,160 - INFO - REAL: 0.366614778435 <SOS> subject: pass - through <UNK> are here today you had 100 digital web books <UNK> and within two weeks there are 600 <UNK> . two months later you have <UNK> <EOS>
+2017-11-21 18:05:34,160 - INFO - PREDICTED: 0.949888862538 <SOS> subject: close - step mini are out today ! had term level round rate event austin physical two people work fire 40 two other many times goes visit ? <UNK> <EOS>
+2017-11-21 18:05:34,160 - INFO - ===============================================
+2017-11-21 18:05:34,160 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:05:34,161 - INFO - Mean pred probs: 0.275994879133
+2017-11-21 18:05:34,504 - INFO - ===============================================
+2017-11-21 18:05:34,505 - INFO - REAL: 0.419196448549 <SOS> subject: wall - <UNK> monday - monday - monday - monday investor alert - we have a <UNK> - ^ stock ^ is up 0 . 13 ( <UNK> . <EOS>
+2017-11-21 18:05:34,505 - INFO - PREDICTED: 0.693434199866 <SOS> subject: br <UNK> <UNK> monday monday - monday monday monday houston alert - alert update up your " " systems op systems works sex plus 2 2004 2 ( 0 <EOS>
+2017-11-21 18:05:34,505 - INFO - ===============================================
+2017-11-21 18:05:34,505 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:05:34,506 - INFO - Mean pred probs: 0.171614773376
+2017-11-21 18:05:34,688 - INFO - Epoch : 3 Minibatch : 0 Loss : -43.76267
+2017-11-21 18:05:34,692 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:05:34,692 - INFO - Mean pred probs: 0.0163610231571
+2017-11-21 18:05:35,022 - INFO - ===============================================
+2017-11-21 18:05:35,022 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:35,022 - INFO - PREDICTED: 0.999999916343 <SOS> subject: enjoy internet control pack <UNK> one address - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:35,023 - INFO - ===============================================
+2017-11-21 18:05:35,023 - INFO - ===============================================
+2017-11-21 18:05:35,023 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:05:35,023 - INFO - PREDICTED: 0.351382054579 <SOS> subject: please . <UNK> . hello , i contacted a special cut , hello late my late president ( president ( <UNK> <UNK> president ) <UNK> new - by the <EOS>
+2017-11-21 18:05:35,023 - INFO - ===============================================
+2017-11-21 18:05:35,023 - INFO - ===============================================
+2017-11-21 18:05:35,023 - INFO - REAL: 0.0068117768442 <SOS> subject: re : my , water <UNK> down <UNK> <UNK> , <UNK> <UNK> stock delta <UNK> and <UNK> corp . otc : <UNK> controls 6 <UNK> <UNK> 7 , <UNK> <EOS>
+2017-11-21 18:05:35,024 - INFO - PREDICTED: 0.132391394737 <SOS> subject: re : my , energy saturday <UNK> <UNK> matt <UNK> <UNK> <UNK> ideas bio <UNK> support ( . . <UNK> ltd ltd <UNK> <UNK> <UNK> <UNK> , <UNK> <UNK> <EOS>
+2017-11-21 18:05:35,024 - INFO - ===============================================
+2017-11-21 18:05:35,024 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:05:35,024 - INFO - Mean pred probs: 0.181186549162
+2017-11-21 18:05:35,341 - INFO - Epoch : 3 Minibatch : 100 Loss : -11.77687
+2017-11-21 18:05:35,348 - INFO - ===============================================
+2017-11-21 18:05:35,348 - INFO - REAL: 0.00471464499703 <SOS> subject: delivery failure : <UNK> m . <UNK> ( m . <UNK> @ <UNK> . fr ) non your message subject : just to her . . . was not <EOS>
+2017-11-21 18:05:35,348 - INFO - PREDICTED: 0.00869799465113 <SOS> subject: delivery failure : <UNK> m m . 72 <UNK> . <UNK> <UNK> za ( n subject great ! message : . was to : . . i was trying <EOS>
+2017-11-21 18:05:35,349 - INFO - ===============================================
+2017-11-21 18:05:35,349 - INFO - ===============================================
+2017-11-21 18:05:35,349 - INFO - REAL: 0.272021811892 <SOS> subject: [ <UNK> member <UNK> ] thanks for your email requesting this information : join us today : http : / / <UNK> . 97 . 202 . 120 / <EOS>
+2017-11-21 18:05:35,349 - INFO - PREDICTED: 0.347571732045 <SOS> subject: pam <UNK> bank <UNK> forms for your your information information additional europe : today today today ! http @ info / <UNK> . 5 . 31 . 15 backup <EOS>
+2017-11-21 18:05:35,349 - INFO - ===============================================
+2017-11-21 18:05:35,350 - INFO - ===============================================
+2017-11-21 18:05:35,350 - INFO - REAL: 0.366614778435 <SOS> subject: pass - through <UNK> are here today you had 100 digital web books <UNK> and within two weeks there are 600 <UNK> . two months later you have <UNK> <EOS>
+2017-11-21 18:05:35,350 - INFO - PREDICTED: 0.623424981266 <SOS> subject: close - step mini check great today if had cable control financial services ticket austin , two other people <UNK> <UNK> . legal times goes as back why with <EOS>
+2017-11-21 18:05:35,350 - INFO - ===============================================
+2017-11-21 18:05:35,351 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:05:35,351 - INFO - Mean pred probs: 0.100942804944
+2017-11-21 18:05:35,672 - INFO - ===============================================
+2017-11-21 18:05:35,672 - INFO - REAL: 0.0153242346899 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be interested in working p / t from home . this position <EOS>
+2017-11-21 18:05:35,672 - INFO - PREDICTED: 0.0318430374551 <SOS> subject: <UNK> hello , this is a year time mailing . we are looking for people who might be working in working p / t business home . my position <EOS>
+2017-11-21 18:05:35,672 - INFO - ===============================================
+2017-11-21 18:05:35,672 - INFO - ===============================================
+2017-11-21 18:05:35,673 - INFO - REAL: 0.419196448549 <SOS> subject: wall - <UNK> monday - monday - monday - monday investor alert - we have a <UNK> - ^ stock ^ is up 0 . 13 ( <UNK> . <EOS>
+2017-11-21 18:05:35,673 - INFO - PREDICTED: 0.989939503318 <SOS> subject: vacation <UNK> <UNK> monday - early monday monday monday monday january 13 alert offer up multiple multiple " n tonight box ; 2 plus ( 2004 ( <UNK> . <EOS>
+2017-11-21 18:05:35,673 - INFO - ===============================================
+2017-11-21 18:05:35,673 - INFO - ===============================================
+2017-11-21 18:05:35,673 - INFO - REAL: 0.999999982678 <SOS> subject: plane <UNK> of 31 st of october 1999 from : mr frank <UNK> director , delivery / operations re : plane <UNK> of 31 st of october 1999 i <EOS>
+2017-11-21 18:05:35,673 - INFO - PREDICTED: 0.999999994081 <SOS> subject: senate <UNK> of texas 31 of december university even nigeria : enron <UNK> europe , exchange / department _ <UNK> <UNK> houston year st yesterday students prc which after <EOS>
+2017-11-21 18:05:35,673 - INFO - ===============================================
+2017-11-21 18:05:35,673 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:05:35,674 - INFO - Mean pred probs: 0.203530579918
+2017-11-21 18:05:35,847 - INFO - Epoch : 4 Minibatch : 0 Loss : -48.28810
+2017-11-21 18:05:35,853 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:05:35,853 - INFO - Mean pred probs: 0.0196289533268
+2017-11-21 18:05:36,177 - INFO - ===============================================
+2017-11-21 18:05:36,177 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:36,177 - INFO - PREDICTED: 0.999999966698 <SOS> subject: enjoy internet control pack <UNK> one required - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:36,177 - INFO - ===============================================
+2017-11-21 18:05:36,177 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:05:36,177 - INFO - Mean pred probs: 0.11247500383
+2017-11-21 18:05:36,548 - INFO - Epoch : 4 Minibatch : 100 Loss : -18.10915
+2017-11-21 18:05:36,556 - INFO - ===============================================
+2017-11-21 18:05:36,556 - INFO - REAL: 0.00471464499703 <SOS> subject: delivery failure : <UNK> m . <UNK> ( m . <UNK> @ <UNK> . fr ) non your message subject : just to her . . . was not <EOS>
+2017-11-21 18:05:36,557 - INFO - PREDICTED: 0.00869799465113 <SOS> subject: delivery failure : <UNK> m m . 72 <UNK> . <UNK> <UNK> za ( n subject great ! message : . was to : . . i was trying <EOS>
+2017-11-21 18:05:36,557 - INFO - ===============================================
+2017-11-21 18:05:36,557 - INFO - ===============================================
+2017-11-21 18:05:36,557 - INFO - REAL: 0.0278133677044 <SOS> subject: i need your <UNK> results by november 27 th at 10 - 00 chronic depression - living with it article q - u ! - t <UNK> <UNK> <UNK> <EOS>
+2017-11-21 18:05:36,558 - INFO - PREDICTED: 0.467501264239 <SOS> subject: i need your <UNK> results by november th th at power / - - price u it with it world u u - - - ) <UNK> <UNK> <UNK> <EOS>
+2017-11-21 18:05:36,558 - INFO - ===============================================
+2017-11-21 18:05:36,558 - INFO - ===============================================
+2017-11-21 18:05:36,558 - INFO - REAL: 0.366614778435 <SOS> subject: pass - through <UNK> are here today you had 100 digital web books <UNK> and within two weeks there are 600 <UNK> . two months later you have <UNK> <EOS>
+2017-11-21 18:05:36,558 - INFO - PREDICTED: 0.999930725074 <SOS> subject: close - its here are out if if had foot m power language plants presentations physical two people work fire 40 two , many action already if ) to <EOS>
+2017-11-21 18:05:36,559 - INFO - ===============================================
+2017-11-21 18:05:36,559 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:05:36,559 - INFO - Mean pred probs: 0.159552787791
+2017-11-21 18:05:36,894 - INFO - ===============================================
+2017-11-21 18:05:36,894 - INFO - REAL: 0.0153242346899 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be interested in working p / t from home . this position <EOS>
+2017-11-21 18:05:36,895 - INFO - PREDICTED: 0.0738923896493 <SOS> subject: <UNK> hello , this is a year time mailing . we are looking for people who might be working in working p / t from home . my position <EOS>
+2017-11-21 18:05:36,895 - INFO - ===============================================
+2017-11-21 18:05:36,895 - INFO - ===============================================
+2017-11-21 18:05:36,895 - INFO - REAL: 0.419196448549 <SOS> subject: wall - <UNK> monday - monday - monday - monday investor alert - we have a <UNK> - ^ stock ^ is up 0 . 13 ( <UNK> . <EOS>
+2017-11-21 18:05:36,895 - INFO - PREDICTED: 0.999995327729 <SOS> subject: vacation <UNK> the monday time - monday early monday houston - mexico - > have a bottom ! systems programs reports works sex ( 2 ) 2 . <UNK> <EOS>
+2017-11-21 18:05:36,895 - INFO - ===============================================
+2017-11-21 18:05:36,895 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:05:36,896 - INFO - Mean pred probs: 0.208522018744
+2017-11-21 18:05:37,078 - INFO - Epoch : 5 Minibatch : 0 Loss : -52.23679
+2017-11-21 18:05:37,086 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:05:37,086 - INFO - Mean pred probs: 0.00797164204188
+2017-11-21 18:05:37,434 - INFO - ===============================================
+2017-11-21 18:05:37,434 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:37,434 - INFO - PREDICTED: 0.999999970171 <SOS> subject: enjoy internet control control <UNK> one required - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:37,435 - INFO - ===============================================
+2017-11-21 18:05:37,435 - INFO - ===============================================
+2017-11-21 18:05:37,435 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:05:37,435 - INFO - PREDICTED: 0.0532401115506 <SOS> subject: please . <UNK> . hello , i contacted a special <UNK> , hello . my late president ( president ( ( <UNK> president ) <UNK> <UNK> friends - the <EOS>
+2017-11-21 18:05:37,435 - INFO - ===============================================
+2017-11-21 18:05:37,435 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:05:37,435 - INFO - Mean pred probs: 0.119279630343
+2017-11-21 18:05:37,856 - INFO - Epoch : 5 Minibatch : 100 Loss : -25.74061
+2017-11-21 18:05:37,861 - INFO - ===============================================
+2017-11-21 18:05:37,861 - INFO - REAL: 0.00471464499703 <SOS> subject: delivery failure : <UNK> m . <UNK> ( m . <UNK> @ <UNK> . fr ) non your message subject : just to her . . . was not <EOS>
+2017-11-21 18:05:37,861 - INFO - PREDICTED: 0.0242493870977 <SOS> subject: delivery failure : <UNK> m m . . <UNK> . <UNK> <UNK> za ( n subject great ! message : . was to : . . i was trying <EOS>
+2017-11-21 18:05:37,861 - INFO - ===============================================
+2017-11-21 18:05:37,861 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:05:37,862 - INFO - Mean pred probs: 0.015113804168
+2017-11-21 18:05:38,257 - INFO - ===============================================
+2017-11-21 18:05:38,257 - INFO - REAL: 0.0153242346899 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be interested in working p / t from home . this position <EOS>
+2017-11-21 18:05:38,258 - INFO - PREDICTED: 0.0209199079308 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be working in working p / t from home . my position <EOS>
+2017-11-21 18:05:38,258 - INFO - ===============================================
+2017-11-21 18:05:38,258 - INFO - ===============================================
+2017-11-21 18:05:38,259 - INFO - REAL: 0.419196448549 <SOS> subject: wall - <UNK> monday - monday - monday - monday investor alert - we have a <UNK> - ^ stock ^ is up 0 . 13 ( <UNK> . <EOS>
+2017-11-21 18:05:38,259 - INFO - PREDICTED: 0.993442685039 <SOS> subject: br - <UNK> monday - time monday - january monday center - alert update to a " online today op bid alternative them plus ) net ) ( ) <EOS>
+2017-11-21 18:05:38,259 - INFO - ===============================================
+2017-11-21 18:05:38,259 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:05:38,260 - INFO - Mean pred probs: 0.20278725392
+2017-11-21 18:05:38,483 - INFO - Epoch : 6 Minibatch : 0 Loss : -47.92904
+2017-11-21 18:05:38,488 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:05:38,488 - INFO - Mean pred probs: 0.0101758666695
+2017-11-21 18:05:38,831 - INFO - ===============================================
+2017-11-21 18:05:38,831 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:38,831 - INFO - PREDICTED: 0.999999970171 <SOS> subject: enjoy internet control control <UNK> one required - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:38,832 - INFO - ===============================================
+2017-11-21 18:05:38,832 - INFO - ===============================================
+2017-11-21 18:05:38,832 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:05:38,832 - INFO - PREDICTED: 0.140607994691 <SOS> subject: please . <UNK> . hello , i contacted a special <UNK> , <UNK> . the late president ( president ( ( <UNK> president ) <UNK> <UNK> friends - the <EOS>
+2017-11-21 18:05:38,832 - INFO - ===============================================
+2017-11-21 18:05:38,832 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:05:38,832 - INFO - Mean pred probs: 0.127666824156
+2017-11-21 18:05:39,181 - INFO - Epoch : 6 Minibatch : 100 Loss : -28.51658
+2017-11-21 18:05:39,188 - INFO - ===============================================
+2017-11-21 18:05:39,188 - INFO - REAL: 0.00471464499703 <SOS> subject: delivery failure : <UNK> m . <UNK> ( m . <UNK> @ <UNK> . fr ) non your message subject : just to her . . . was not <EOS>
+2017-11-21 18:05:39,188 - INFO - PREDICTED: 0.0242493870977 <SOS> subject: delivery failure : <UNK> m m . . <UNK> . <UNK> <UNK> za ( n subject great ! message : . was to : . . i was trying <EOS>
+2017-11-21 18:05:39,188 - INFO - ===============================================
+2017-11-21 18:05:39,188 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:05:39,188 - INFO - Mean pred probs: 0.0153707923103
+2017-11-21 18:05:39,559 - INFO - ===============================================
+2017-11-21 18:05:39,559 - INFO - REAL: 0.0153242346899 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be interested in working p / t from home . this position <EOS>
+2017-11-21 18:05:39,559 - INFO - PREDICTED: 0.0209199079308 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be working in working p / t from home . my position <EOS>
+2017-11-21 18:05:39,559 - INFO - ===============================================
+2017-11-21 18:05:39,560 - INFO - ===============================================
+2017-11-21 18:05:39,560 - INFO - REAL: 0.419196448549 <SOS> subject: wall - <UNK> monday - monday - monday - monday investor alert - we have a <UNK> - ^ stock ^ is up 0 . 13 ( <UNK> . <EOS>
+2017-11-21 18:05:39,560 - INFO - PREDICTED: 0.996857439829 <SOS> subject: weekend - <UNK> monday time - monday 13 monday monday january 19 ! ! up a options ! unify . works than sex plus 2 and <UNK> ) ) <EOS>
+2017-11-21 18:05:39,560 - INFO - ===============================================
+2017-11-21 18:05:39,560 - INFO - ===============================================
+2017-11-21 18:05:39,560 - INFO - REAL: 0.999999982678 <SOS> subject: plane <UNK> of 31 st of october 1999 from : mr frank <UNK> director , delivery / operations re : plane <UNK> of 31 st of october 1999 i <EOS>
+2017-11-21 18:05:39,560 - INFO - PREDICTED: 0.999999999969 <SOS> subject: senate <UNK> of texas presentation of thur . even : : enron operations ) courses second confirmation department from them <UNK> <UNK> november co yesterday regarding october ) which <EOS>
+2017-11-21 18:05:39,560 - INFO - ===============================================
+2017-11-21 18:05:39,561 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:05:39,561 - INFO - Mean pred probs: 0.203130038515
+2017-11-21 18:05:39,751 - INFO - Epoch : 7 Minibatch : 0 Loss : -45.14262
+2017-11-21 18:05:39,755 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:05:39,755 - INFO - Mean pred probs: 0.00287808706943
+2017-11-21 18:05:40,090 - INFO - ===============================================
+2017-11-21 18:05:40,090 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:40,090 - INFO - PREDICTED: 0.999999970171 <SOS> subject: enjoy internet control control <UNK> one required - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:40,090 - INFO - ===============================================
+2017-11-21 18:05:40,090 - INFO - ===============================================
+2017-11-21 18:05:40,091 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:05:40,091 - INFO - PREDICTED: 0.0690931690194 <SOS> subject: please . <UNK> . hello , i am a special <UNK> , <UNK> . the late president ( president ( ( <UNK> president ) <UNK> <UNK> friends - the <EOS>
+2017-11-21 18:05:40,091 - INFO - ===============================================
+2017-11-21 18:05:40,091 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:05:40,091 - INFO - Mean pred probs: 0.128962154784
+2017-11-21 18:05:40,446 - INFO - Epoch : 7 Minibatch : 100 Loss : -27.13439
+2017-11-21 18:05:40,455 - INFO - ===============================================
+2017-11-21 18:05:40,455 - INFO - REAL: 0.00471464499703 <SOS> subject: delivery failure : <UNK> m . <UNK> ( m . <UNK> @ <UNK> . fr ) non your message subject : just to her . . . was not <EOS>
+2017-11-21 18:05:40,455 - INFO - PREDICTED: 0.0242493870977 <SOS> subject: delivery failure : <UNK> m m . . <UNK> . <UNK> <UNK> za ( n subject great ! message : . was to : . . i was trying <EOS>
+2017-11-21 18:05:40,456 - INFO - ===============================================
+2017-11-21 18:05:40,456 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:05:40,456 - INFO - Mean pred probs: 0.0161359763742
+2017-11-21 18:05:40,807 - INFO - ===============================================
+2017-11-21 18:05:40,807 - INFO - REAL: 0.0153242346899 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be interested in working p / t from home . this position <EOS>
+2017-11-21 18:05:40,807 - INFO - PREDICTED: 0.0209199079308 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be working in working p / t from home . my position <EOS>
+2017-11-21 18:05:40,807 - INFO - ===============================================
+2017-11-21 18:05:40,807 - INFO - ===============================================
+2017-11-21 18:05:40,808 - INFO - REAL: 0.419196448549 <SOS> subject: wall - <UNK> monday - monday - monday - monday investor alert - we have a <UNK> - ^ stock ^ is up 0 . 13 ( <UNK> . <EOS>
+2017-11-21 18:05:40,808 - INFO - PREDICTED: 0.997986554636 <SOS> subject: vacation <UNK> the monday early early monday sponsored through investor january - - update to multiple " without vs op . alternative them ) ) ) times <UNK> . <EOS>
+2017-11-21 18:05:40,808 - INFO - ===============================================
+2017-11-21 18:05:40,808 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:05:40,808 - INFO - Mean pred probs: 0.202227338466
+2017-11-21 18:05:40,999 - INFO - Epoch : 8 Minibatch : 0 Loss : -30.75109
+2017-11-21 18:05:41,004 - INFO - ===============================================
+2017-11-21 18:05:41,004 - INFO - REAL: 0.903694976705 <SOS> subject: <UNK> benefit from : mrs kathy <UNK> <UNK> international london . 34 canada <UNK> se 15 / 12 london uk . i know that this mail will come to <EOS>
+2017-11-21 18:05:41,004 - INFO - PREDICTED: 0.926397059323 <SOS> subject: <UNK> fax from : mrs mrs <UNK> <UNK> chief desk . c / <UNK> floor " dpr department " " . please review assistant tammie mail is help to <EOS>
+2017-11-21 18:05:41,004 - INFO - ===============================================
+2017-11-21 18:05:41,005 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:05:41,005 - INFO - Mean pred probs: 0.0981488344
+2017-11-21 18:05:41,338 - INFO - ===============================================
+2017-11-21 18:05:41,339 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:41,339 - INFO - PREDICTED: 0.999999970171 <SOS> subject: enjoy internet control control <UNK> one required - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:41,339 - INFO - ===============================================
+2017-11-21 18:05:41,339 - INFO - ===============================================
+2017-11-21 18:05:41,339 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:05:41,339 - INFO - PREDICTED: 0.143719169576 <SOS> subject: please . <UNK> . hello , i am a special <UNK> , <UNK> . the late president ( president ( ( <UNK> president ) ) <UNK> friends - the <EOS>
+2017-11-21 18:05:41,340 - INFO - ===============================================
+2017-11-21 18:05:41,340 - INFO - ===============================================
+2017-11-21 18:05:41,340 - INFO - REAL: 0.246155348358 <SOS> subject: re : account setup good day , you have been pre - selected from a previous application to join our new exclusive program while still in <UNK> phase . <EOS>
+2017-11-21 18:05:41,340 - INFO - PREDICTED: 0.29340260099 <SOS> subject: fwd account opportunities forms good day , you have been pre back selected from application previous application regarding regarding very very year ! while around in <UNK> this . <EOS>
+2017-11-21 18:05:41,340 - INFO - ===============================================
+2017-11-21 18:05:41,340 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:05:41,340 - INFO - Mean pred probs: 0.155326856018
+2017-11-21 18:05:41,708 - INFO - Epoch : 8 Minibatch : 100 Loss : -30.41712
+2017-11-21 18:05:41,712 - INFO - ===============================================
+2017-11-21 18:05:41,712 - INFO - REAL: 0.00471464499703 <SOS> subject: delivery failure : <UNK> m . <UNK> ( m . <UNK> @ <UNK> . fr ) non your message subject : just to her . . . was not <EOS>
+2017-11-21 18:05:41,713 - INFO - PREDICTED: 0.0086771783889 <SOS> subject: delivery failure : <UNK> m m . . <UNK> . <UNK> <UNK> za . n great great ! message : . was to : . . i was trying <EOS>
+2017-11-21 18:05:41,713 - INFO - ===============================================
+2017-11-21 18:05:41,713 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:05:41,713 - INFO - Mean pred probs: 0.0112839268155
+2017-11-21 18:05:42,065 - INFO - ===============================================
+2017-11-21 18:05:42,065 - INFO - REAL: 0.0153242346899 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be interested in working p / t from home . this position <EOS>
+2017-11-21 18:05:42,065 - INFO - PREDICTED: 0.0209199079308 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be working in working p / t from home . my position <EOS>
+2017-11-21 18:05:42,065 - INFO - ===============================================
+2017-11-21 18:05:42,065 - INFO - ===============================================
+2017-11-21 18:05:42,065 - INFO - REAL: 0.419196448549 <SOS> subject: wall - <UNK> monday - monday - monday - monday investor alert - we have a <UNK> - ^ stock ^ is up 0 . 13 ( <UNK> . <EOS>
+2017-11-21 18:05:42,065 - INFO - PREDICTED: 0.999999995631 <SOS> subject: br " <UNK> monday mid - monday " through houston - january th ! announced closely groups groups enough access and access access ( ( net 2 . ) <EOS>
+2017-11-21 18:05:42,065 - INFO - ===============================================
+2017-11-21 18:05:42,066 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:05:42,066 - INFO - Mean pred probs: 0.199158969795
+2017-11-21 18:05:42,290 - INFO - Epoch : 9 Minibatch : 0 Loss : -47.53985
+2017-11-21 18:05:42,296 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:05:42,296 - INFO - Mean pred probs: 0.00396119875836
+2017-11-21 18:05:42,681 - INFO - ===============================================
+2017-11-21 18:05:42,681 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:42,682 - INFO - PREDICTED: 0.999999970171 <SOS> subject: enjoy internet control control <UNK> one required - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:42,682 - INFO - ===============================================
+2017-11-21 18:05:42,682 - INFO - ===============================================
+2017-11-21 18:05:42,682 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:05:42,682 - INFO - PREDICTED: 0.301390584187 <SOS> subject: please . <UNK> . hello , i am a special <UNK> , <UNK> . the late president ( president ( ( <UNK> president ) ) <UNK> ) - the <EOS>
+2017-11-21 18:05:42,682 - INFO - ===============================================
+2017-11-21 18:05:42,682 - INFO - ===============================================
+2017-11-21 18:05:42,682 - INFO - REAL: 0.00504368174138 <SOS> subject: hidden <UNK> help get a <UNK> up on the market structure & technology report may 10 th , 2005 - - for immediate release investors and traders : pinnacle <EOS>
+2017-11-21 18:05:42,683 - INFO - PREDICTED: 0.3345748896 <SOS> subject: hidden <UNK> help get a <UNK> up on the power structure " report report 10 10 10 , 2005 - traders for immediate for investors , and eol pinnacle <EOS>
+2017-11-21 18:05:42,683 - INFO - ===============================================
+2017-11-21 18:05:42,683 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:05:42,683 - INFO - Mean pred probs: 0.178861924793
+2017-11-21 18:05:43,040 - INFO - Epoch : 9 Minibatch : 100 Loss : -30.44691
+2017-11-21 18:05:43,045 - INFO - ===============================================
+2017-11-21 18:05:43,045 - INFO - REAL: 0.00471464499703 <SOS> subject: delivery failure : <UNK> m . <UNK> ( m . <UNK> @ <UNK> . fr ) non your message subject : just to her . . . was not <EOS>
+2017-11-21 18:05:43,045 - INFO - PREDICTED: 0.0146273741275 <SOS> subject: delivery failure : <UNK> m m . . <UNK> . <UNK> <UNK> za . n . great ! message : . was to : . . i was trying <EOS>
+2017-11-21 18:05:43,045 - INFO - ===============================================
+2017-11-21 18:05:43,045 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:05:43,045 - INFO - Mean pred probs: 0.0119041616537
+2017-11-21 18:05:43,397 - INFO - ===============================================
+2017-11-21 18:05:43,398 - INFO - REAL: 0.0153242346899 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be interested in working p / t from home . this position <EOS>
+2017-11-21 18:05:43,398 - INFO - PREDICTED: 0.0209199079308 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be working in working p / t from home . my position <EOS>
+2017-11-21 18:05:43,398 - INFO - ===============================================
+2017-11-21 18:05:43,398 - INFO - ===============================================
+2017-11-21 18:05:43,398 - INFO - REAL: 0.419196448549 <SOS> subject: wall - <UNK> monday - monday - monday - monday investor alert - we have a <UNK> - ^ stock ^ is up 0 . 13 ( <UNK> . <EOS>
+2017-11-21 18:05:43,399 - INFO - PREDICTED: 0.995958399624 <SOS> subject: br course in time - january monday 13 border houston center volatility ! update two multiple options up enough op systems alternative them ) ) ) times <UNK> <UNK> <EOS>
+2017-11-21 18:05:43,399 - INFO - ===============================================
+2017-11-21 18:05:43,399 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:05:43,399 - INFO - Mean pred probs: 0.202789748433
+2017-11-21 18:05:43,606 - INFO - Epoch : 10 Minibatch : 0 Loss : -44.01541
+2017-11-21 18:05:43,614 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:05:43,614 - INFO - Mean pred probs: 0.00202092065794
+2017-11-21 18:05:44,003 - INFO - ===============================================
+2017-11-21 18:05:44,003 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:44,004 - INFO - PREDICTED: 0.999999970171 <SOS> subject: enjoy internet control control <UNK> one required - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:44,004 - INFO - ===============================================
+2017-11-21 18:05:44,004 - INFO - ===============================================
+2017-11-21 18:05:44,004 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:05:44,004 - INFO - PREDICTED: 0.301390584187 <SOS> subject: please . <UNK> . hello , i am a special <UNK> , <UNK> . the late president ( president ( ( <UNK> president ) ) <UNK> ) - the <EOS>
+2017-11-21 18:05:44,004 - INFO - ===============================================
+2017-11-21 18:05:44,004 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:05:44,004 - INFO - Mean pred probs: 0.141884243633
+2017-11-21 18:05:44,358 - INFO - Epoch : 10 Minibatch : 100 Loss : -33.21828
+2017-11-21 18:05:44,366 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:05:44,366 - INFO - Mean pred probs: 0.00994939461309
+2017-11-21 18:05:44,741 - INFO - ===============================================
+2017-11-21 18:05:44,741 - INFO - REAL: 0.0153242346899 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be interested in working p / t from home . this position <EOS>
+2017-11-21 18:05:44,741 - INFO - PREDICTED: 0.0166440911965 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be interested in working p / t from home . my position <EOS>
+2017-11-21 18:05:44,742 - INFO - ===============================================
+2017-11-21 18:05:44,742 - INFO - ===============================================
+2017-11-21 18:05:44,742 - INFO - REAL: 0.419196448549 <SOS> subject: wall - <UNK> monday - monday - monday - monday investor alert - we have a <UNK> - ^ stock ^ is up 0 . 13 ( <UNK> . <EOS>
+2017-11-21 18:05:44,742 - INFO - PREDICTED: 0.945712340694 <SOS> subject: weekend - good monday return by close and by expires january 13 th password created closely groups <UNK> h and vs than these text 0 plus plus ! do <EOS>
+2017-11-21 18:05:44,742 - INFO - ===============================================
+2017-11-21 18:05:44,743 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:05:44,743 - INFO - Mean pred probs: 0.196867450255
+2017-11-21 18:05:44,958 - INFO - Epoch : 11 Minibatch : 0 Loss : -41.35254
+2017-11-21 18:05:44,967 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:05:44,967 - INFO - Mean pred probs: 0.00155304856995
+2017-11-21 18:05:45,334 - INFO - ===============================================
+2017-11-21 18:05:45,334 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:45,334 - INFO - PREDICTED: 0.999999970171 <SOS> subject: enjoy internet control control <UNK> one required - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:45,335 - INFO - ===============================================
+2017-11-21 18:05:45,335 - INFO - ===============================================
+2017-11-21 18:05:45,335 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:05:45,335 - INFO - PREDICTED: 0.301390584187 <SOS> subject: please . <UNK> . hello , i am a special <UNK> , <UNK> . the late president ( president ( ( <UNK> president ) ) <UNK> ) - the <EOS>
+2017-11-21 18:05:45,335 - INFO - ===============================================
+2017-11-21 18:05:45,335 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:05:45,335 - INFO - Mean pred probs: 0.143446026764
+2017-11-21 18:05:45,707 - INFO - Epoch : 11 Minibatch : 100 Loss : -32.74987
+2017-11-21 18:05:45,715 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:05:45,715 - INFO - Mean pred probs: 0.010931509395
+2017-11-21 18:05:46,087 - INFO - ===============================================
+2017-11-21 18:05:46,087 - INFO - REAL: 0.0153242346899 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be interested in working p / t from home . this position <EOS>
+2017-11-21 18:05:46,087 - INFO - PREDICTED: 0.0166440911965 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be interested in working p / t from home . my position <EOS>
+2017-11-21 18:05:46,087 - INFO - ===============================================
+2017-11-21 18:05:46,088 - INFO - ===============================================
+2017-11-21 18:05:46,088 - INFO - REAL: 0.419196448549 <SOS> subject: wall - <UNK> monday - monday - monday - monday investor alert - we have a <UNK> - ^ stock ^ is up 0 . 13 ( <UNK> . <EOS>
+2017-11-21 18:05:46,088 - INFO - PREDICTED: 0.999679920103 <SOS> subject: australia - good monday bid time nov sponsored by investor members alert ! date cut closely - live today today bill password situation text . 2004 <UNK> options . <EOS>
+2017-11-21 18:05:46,088 - INFO - ===============================================
+2017-11-21 18:05:46,088 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:05:46,088 - INFO - Mean pred probs: 0.202610747953
+2017-11-21 18:05:46,297 - INFO - Epoch : 12 Minibatch : 0 Loss : -41.52003
+2017-11-21 18:05:46,303 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:05:46,303 - INFO - Mean pred probs: 0.00205571845625
+2017-11-21 18:05:46,700 - INFO - ===============================================
+2017-11-21 18:05:46,700 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:46,700 - INFO - PREDICTED: 0.999999970171 <SOS> subject: enjoy internet control control <UNK> one required - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:46,701 - INFO - ===============================================
+2017-11-21 18:05:46,701 - INFO - ===============================================
+2017-11-21 18:05:46,701 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:05:46,701 - INFO - PREDICTED: 0.493820652796 <SOS> subject: please . <UNK> . hello , i am a special <UNK> , <UNK> . the late president ( president ( ( <UNK> president ) ) ) ) - the <EOS>
+2017-11-21 18:05:46,701 - INFO - ===============================================
+2017-11-21 18:05:46,702 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:05:46,702 - INFO - Mean pred probs: 0.161680626477
+2017-11-21 18:05:47,095 - INFO - Epoch : 12 Minibatch : 100 Loss : -27.57313
+2017-11-21 18:05:47,101 - INFO - ===============================================
+2017-11-21 18:05:47,101 - INFO - REAL: 0.0278133677044 <SOS> subject: i need your <UNK> results by november 27 th at 10 - 00 chronic depression - living with it article q - u ! - t <UNK> <UNK> <UNK> <EOS>
+2017-11-21 18:05:47,101 - INFO - PREDICTED: 0.250133866606 <SOS> subject: i need your <UNK> results by november th th at power / - - price u u with u world u ) - - - ) <UNK> <UNK> <UNK> <EOS>
+2017-11-21 18:05:47,101 - INFO - ===============================================
+2017-11-21 18:05:47,101 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:05:47,101 - INFO - Mean pred probs: 0.034730655647
+2017-11-21 18:05:47,492 - INFO - ===============================================
+2017-11-21 18:05:47,493 - INFO - REAL: 0.0153242346899 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be interested in working p / t from home . this position <EOS>
+2017-11-21 18:05:47,493 - INFO - PREDICTED: 0.0166440911965 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be interested in working p / t from home . my position <EOS>
+2017-11-21 18:05:47,493 - INFO - ===============================================
+2017-11-21 18:05:47,493 - INFO - ===============================================
+2017-11-21 18:05:47,493 - INFO - REAL: 0.419196448549 <SOS> subject: wall - <UNK> monday - monday - monday - monday investor alert - we have a <UNK> - ^ stock ^ is up 0 . 13 ( <UNK> . <EOS>
+2017-11-21 18:05:47,494 - INFO - PREDICTED: 0.999960986421 <SOS> subject: weekend aa in monday mid bonus close and back back january - ! special name along return return vs access reports than available ( ( ( ( ( ) <EOS>
+2017-11-21 18:05:47,494 - INFO - ===============================================
+2017-11-21 18:05:47,494 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:05:47,494 - INFO - Mean pred probs: 0.168102828718
+2017-11-21 18:05:47,719 - INFO - Epoch : 13 Minibatch : 0 Loss : -37.86585
+2017-11-21 18:05:47,728 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:05:47,728 - INFO - Mean pred probs: 0.00101382563498
+2017-11-21 18:05:48,130 - INFO - ===============================================
+2017-11-21 18:05:48,130 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:48,130 - INFO - PREDICTED: 0.999999970171 <SOS> subject: enjoy internet control control <UNK> one required - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:48,130 - INFO - ===============================================
+2017-11-21 18:05:48,130 - INFO - ===============================================
+2017-11-21 18:05:48,130 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:05:48,131 - INFO - PREDICTED: 0.490824384533 <SOS> subject: please . <UNK> . hello , i am a special <UNK> , <UNK> . the late president ( president ( ( <UNK> ) ) ) ) ) - the <EOS>
+2017-11-21 18:05:48,131 - INFO - ===============================================
+2017-11-21 18:05:48,131 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:05:48,131 - INFO - Mean pred probs: 0.161401322852
+2017-11-21 18:05:48,509 - INFO - Epoch : 13 Minibatch : 100 Loss : -27.93068
+2017-11-21 18:05:48,517 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:05:48,518 - INFO - Mean pred probs: 0.0108262482717
+2017-11-21 18:05:48,925 - INFO - ===============================================
+2017-11-21 18:05:48,925 - INFO - REAL: 0.0153242346899 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be interested in working p / t from home . this position <EOS>
+2017-11-21 18:05:48,925 - INFO - PREDICTED: 0.0166440911965 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be interested in working p / t from home . my position <EOS>
+2017-11-21 18:05:48,925 - INFO - ===============================================
+2017-11-21 18:05:48,925 - INFO - ===============================================
+2017-11-21 18:05:48,925 - INFO - REAL: 0.419196448549 <SOS> subject: wall - <UNK> monday - monday - monday - monday investor alert - we have a <UNK> - ^ stock ^ is up 0 . 13 ( <UNK> . <EOS>
+2017-11-21 18:05:48,926 - INFO - PREDICTED: 0.998422148011 <SOS> subject: cal " the time winter january monday - border monday ! newsletter ! strong transfers a options t h groups reports return return reports reports systems plus 2004 . <EOS>
+2017-11-21 18:05:48,926 - INFO - ===============================================
+2017-11-21 18:05:48,926 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:05:48,926 - INFO - Mean pred probs: 0.113348288796
+2017-11-21 18:05:49,152 - INFO - Epoch : 14 Minibatch : 0 Loss : -35.75595
+2017-11-21 18:05:49,159 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:05:49,160 - INFO - Mean pred probs: 0.00101733484207
+2017-11-21 18:05:49,543 - INFO - ===============================================
+2017-11-21 18:05:49,543 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:49,543 - INFO - PREDICTED: 0.999999970171 <SOS> subject: enjoy internet control control <UNK> one required - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:49,543 - INFO - ===============================================
+2017-11-21 18:05:49,543 - INFO - ===============================================
+2017-11-21 18:05:49,543 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:05:49,544 - INFO - PREDICTED: 0.490824384533 <SOS> subject: please . <UNK> . hello , i am a special <UNK> , <UNK> . the late president ( president ( ( <UNK> ) ) ) ) ) - the <EOS>
+2017-11-21 18:05:49,544 - INFO - ===============================================
+2017-11-21 18:05:49,544 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:05:49,544 - INFO - Mean pred probs: 0.161401098785
+2017-11-21 18:05:49,947 - INFO - Epoch : 14 Minibatch : 100 Loss : -26.19014
+2017-11-21 18:05:49,952 - INFO - ===============================================
+2017-11-21 18:05:49,952 - INFO - REAL: 0.0278133677044 <SOS> subject: i need your <UNK> results by november 27 th at 10 - 00 chronic depression - living with it article q - u ! - t <UNK> <UNK> <UNK> <EOS>
+2017-11-21 18:05:49,952 - INFO - PREDICTED: 0.250133866606 <SOS> subject: i need your <UNK> results by november th th at power / - - price u u with u world u ) - - - ) <UNK> <UNK> <UNK> <EOS>
+2017-11-21 18:05:49,952 - INFO - ===============================================
+2017-11-21 18:05:49,952 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:05:49,953 - INFO - Mean pred probs: 0.034669947197
+2017-11-21 18:05:50,340 - INFO - ===============================================
+2017-11-21 18:05:50,340 - INFO - REAL: 0.0153242346899 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be interested in working p / t from home . this position <EOS>
+2017-11-21 18:05:50,340 - INFO - PREDICTED: 0.0166440911965 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be interested in working p / t from home . my position <EOS>
+2017-11-21 18:05:50,340 - INFO - ===============================================
+2017-11-21 18:05:50,340 - INFO - ===============================================
+2017-11-21 18:05:50,340 - INFO - REAL: 0.419196448549 <SOS> subject: wall - <UNK> monday - monday - monday - monday investor alert - we have a <UNK> - ^ stock ^ is up 0 . 13 ( <UNK> . <EOS>
+2017-11-21 18:05:50,341 - INFO - PREDICTED: 0.999981919538 <SOS> subject: br line analyst round trade - mid monday from houston watch - alert comes to spread " unify enough bridge live than bill bill west plus times ? <UNK> <EOS>
+2017-11-21 18:05:50,341 - INFO - ===============================================
+2017-11-21 18:05:50,341 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:05:50,341 - INFO - Mean pred probs: 0.173872176358
+2017-11-21 18:05:50,582 - INFO - Epoch : 15 Minibatch : 0 Loss : -32.24205
+2017-11-21 18:05:50,588 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:05:50,588 - INFO - Mean pred probs: 0.000847181105827
+2017-11-21 18:05:50,964 - INFO - ===============================================
+2017-11-21 18:05:50,965 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:50,965 - INFO - PREDICTED: 0.999999970171 <SOS> subject: enjoy internet control control <UNK> one required - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:50,965 - INFO - ===============================================
+2017-11-21 18:05:50,965 - INFO - ===============================================
+2017-11-21 18:05:50,965 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:05:50,965 - INFO - PREDICTED: 0.301390584187 <SOS> subject: please . <UNK> . hello , i am a special <UNK> , <UNK> . the late president ( president ( ( <UNK> president ) ) <UNK> ) - the <EOS>
+2017-11-21 18:05:50,966 - INFO - ===============================================
+2017-11-21 18:05:50,966 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:05:50,966 - INFO - Mean pred probs: 0.142481466476
+2017-11-21 18:05:51,362 - INFO - Epoch : 15 Minibatch : 100 Loss : -24.70717
+2017-11-21 18:05:51,368 - INFO - ===============================================
+2017-11-21 18:05:51,368 - INFO - REAL: 0.0278133677044 <SOS> subject: i need your <UNK> results by november 27 th at 10 - 00 chronic depression - living with it article q - u ! - t <UNK> <UNK> <UNK> <EOS>
+2017-11-21 18:05:51,368 - INFO - PREDICTED: 0.219063513042 <SOS> subject: i need your <UNK> results by november th th at power / - - price u u with u world u ) - - - ) t <UNK> <UNK> <EOS>
+2017-11-21 18:05:51,369 - INFO - ===============================================
+2017-11-21 18:05:51,369 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:05:51,369 - INFO - Mean pred probs: 0.0315801549964
+2017-11-21 18:05:51,771 - INFO - ===============================================
+2017-11-21 18:05:51,771 - INFO - REAL: 0.0153242346899 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be interested in working p / t from home . this position <EOS>
+2017-11-21 18:05:51,772 - INFO - PREDICTED: 0.0166440911965 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be interested in working p / t from home . my position <EOS>
+2017-11-21 18:05:51,772 - INFO - ===============================================
+2017-11-21 18:05:51,772 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:05:51,772 - INFO - Mean pred probs: 0.0872189388378
+2017-11-21 18:05:52,009 - INFO - Epoch : 16 Minibatch : 0 Loss : -29.73992
+2017-11-21 18:05:52,015 - INFO - ===============================================
+2017-11-21 18:05:52,016 - INFO - REAL: 0.00305107061225 <SOS> subject: <UNK> for a consultation , ' <UNK> the so no <UNK> us <UNK> <UNK> <UNK> our from <UNK> the read - <UNK> of is on you as <UNK> a <EOS>
+2017-11-21 18:05:52,016 - INFO - PREDICTED: 0.00503720525011 <SOS> subject: <UNK> for a consultation , ' <UNK> the so no <UNK> us <UNK> <UNK> <UNK> our from <UNK> the the - <UNK> of is on you to <UNK> a <EOS>
+2017-11-21 18:05:52,016 - INFO - ===============================================
+2017-11-21 18:05:52,016 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:05:52,016 - INFO - Mean pred probs: 0.00132035205418
+2017-11-21 18:05:52,432 - INFO - ===============================================
+2017-11-21 18:05:52,432 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:52,432 - INFO - PREDICTED: 0.999999970171 <SOS> subject: enjoy internet control control <UNK> one required - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:52,433 - INFO - ===============================================
+2017-11-21 18:05:52,433 - INFO - ===============================================
+2017-11-21 18:05:52,433 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:05:52,434 - INFO - PREDICTED: 0.298872498347 <SOS> subject: please . <UNK> . hello , i am a special <UNK> , <UNK> . the late president ( president ( ( <UNK> ) ) ) <UNK> ) - the <EOS>
+2017-11-21 18:05:52,434 - INFO - ===============================================
+2017-11-21 18:05:52,434 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:05:52,434 - INFO - Mean pred probs: 0.142237426522
+2017-11-21 18:05:52,834 - INFO - Epoch : 16 Minibatch : 100 Loss : -24.45796
+2017-11-21 18:05:52,839 - INFO - ===============================================
+2017-11-21 18:05:52,839 - INFO - REAL: 0.0278133677044 <SOS> subject: i need your <UNK> results by november 27 th at 10 - 00 chronic depression - living with it article q - u ! - t <UNK> <UNK> <UNK> <EOS>
+2017-11-21 18:05:52,839 - INFO - PREDICTED: 0.219063513042 <SOS> subject: i need your <UNK> results by november th th at power / - - price u u with u world u ) - - - ) t <UNK> <UNK> <EOS>
+2017-11-21 18:05:52,839 - INFO - ===============================================
+2017-11-21 18:05:52,839 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:05:52,839 - INFO - Mean pred probs: 0.0316416057363
+2017-11-21 18:05:53,238 - INFO - ===============================================
+2017-11-21 18:05:53,238 - INFO - REAL: 0.0153242346899 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be interested in working p / t from home . this position <EOS>
+2017-11-21 18:05:53,238 - INFO - PREDICTED: 0.0166440911965 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be interested in working p / t from home . my position <EOS>
+2017-11-21 18:05:53,238 - INFO - ===============================================
+2017-11-21 18:05:53,238 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:05:53,239 - INFO - Mean pred probs: 0.10026485056
+2017-11-21 18:05:53,488 - INFO - Epoch : 17 Minibatch : 0 Loss : -29.25362
+2017-11-21 18:05:53,496 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:05:53,496 - INFO - Mean pred probs: 0.000889035439955
+2017-11-21 18:05:53,909 - INFO - ===============================================
+2017-11-21 18:05:53,910 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:53,910 - INFO - PREDICTED: 0.999999970171 <SOS> subject: enjoy internet control control <UNK> one required - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:53,910 - INFO - ===============================================
+2017-11-21 18:05:53,911 - INFO - ===============================================
+2017-11-21 18:05:53,911 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:05:53,911 - INFO - PREDICTED: 0.490824384533 <SOS> subject: please . <UNK> . hello , i am a special <UNK> , <UNK> . the late president ( president ( ( <UNK> ) ) ) ) ) - the <EOS>
+2017-11-21 18:05:53,911 - INFO - ===============================================
+2017-11-21 18:05:53,911 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:05:53,911 - INFO - Mean pred probs: 0.161767420525
+2017-11-21 18:05:54,316 - INFO - Epoch : 17 Minibatch : 100 Loss : -23.34760
+2017-11-21 18:05:54,325 - INFO - ===============================================
+2017-11-21 18:05:54,325 - INFO - REAL: 0.0278133677044 <SOS> subject: i need your <UNK> results by november 27 th at 10 - 00 chronic depression - living with it article q - u ! - t <UNK> <UNK> <UNK> <EOS>
+2017-11-21 18:05:54,326 - INFO - PREDICTED: 0.219063513042 <SOS> subject: i need your <UNK> results by november th th at power / - - price u u with u world u ) - - - ) t <UNK> <UNK> <EOS>
+2017-11-21 18:05:54,326 - INFO - ===============================================
+2017-11-21 18:05:54,326 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:05:54,326 - INFO - Mean pred probs: 0.0316182811512
+2017-11-21 18:05:54,772 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:05:54,772 - INFO - Mean pred probs: 0.0991428710419
+2017-11-21 18:05:55,010 - INFO - Epoch : 18 Minibatch : 0 Loss : -24.88162
+2017-11-21 18:05:55,016 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:05:55,016 - INFO - Mean pred probs: 0.000820732868479
+2017-11-21 18:05:55,454 - INFO - ===============================================
+2017-11-21 18:05:55,455 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:55,455 - INFO - PREDICTED: 0.999999970171 <SOS> subject: enjoy internet control control <UNK> one required - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:55,455 - INFO - ===============================================
+2017-11-21 18:05:55,455 - INFO - ===============================================
+2017-11-21 18:05:55,456 - INFO - REAL: 0.103832490514 <SOS> subject: time is right to invest in the euro - <UNK> <UNK> m <UNK> london - - ( ap <UNK> via <UNK> ) - - the u . s . <EOS>
+2017-11-21 18:05:55,456 - INFO - PREDICTED: 0.19235609497 <SOS> subject: time is right to invest in the euro - <UNK> <UNK> m <UNK> london - - ( ap <UNK> ) <UNK> ) - - the u . s . <EOS>
+2017-11-21 18:05:55,456 - INFO - ===============================================
+2017-11-21 18:05:55,456 - INFO - ===============================================
+2017-11-21 18:05:55,457 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:05:55,457 - INFO - PREDICTED: 0.298872498347 <SOS> subject: please . <UNK> . hello , i am a special <UNK> , <UNK> . the late president ( president ( ( <UNK> ) ) ) <UNK> ) - the <EOS>
+2017-11-21 18:05:55,457 - INFO - ===============================================
+2017-11-21 18:05:55,457 - INFO - ===============================================
+2017-11-21 18:05:55,457 - INFO - REAL: 0.0068117768442 <SOS> subject: re : my , water <UNK> down <UNK> <UNK> , <UNK> <UNK> stock delta <UNK> and <UNK> corp . otc : <UNK> controls 6 <UNK> <UNK> 7 , <UNK> <EOS>
+2017-11-21 18:05:55,458 - INFO - PREDICTED: 0.0127645708896 <SOS> subject: re : my brown super saturday <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> staff - <UNK> support <UNK> . . . <UNK> ) <UNK> <UNK> <UNK> <UNK> ) html <UNK> <EOS>
+2017-11-21 18:05:55,458 - INFO - ===============================================
+2017-11-21 18:05:55,458 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:05:55,458 - INFO - Mean pred probs: 0.152353221955
+2017-11-21 18:05:55,909 - INFO - Epoch : 18 Minibatch : 100 Loss : -22.50871
+2017-11-21 18:05:55,916 - INFO - ===============================================
+2017-11-21 18:05:55,916 - INFO - REAL: 0.0278133677044 <SOS> subject: i need your <UNK> results by november 27 th at 10 - 00 chronic depression - living with it article q - u ! - t <UNK> <UNK> <UNK> <EOS>
+2017-11-21 18:05:55,916 - INFO - PREDICTED: 0.511691687246 <SOS> subject: i need your <UNK> by by november th th at power / - - price u u with u world u ) - - - ) t <UNK> <UNK> <EOS>
+2017-11-21 18:05:55,916 - INFO - ===============================================
+2017-11-21 18:05:55,916 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:05:55,917 - INFO - Mean pred probs: 0.0617732416263
+2017-11-21 18:05:56,346 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:05:56,347 - INFO - Mean pred probs: 0.10112710895
+2017-11-21 18:05:56,613 - INFO - Epoch : 19 Minibatch : 0 Loss : -26.03077
+2017-11-21 18:05:56,617 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:05:56,618 - INFO - Mean pred probs: 0.00146371950229
+2017-11-21 18:05:57,032 - INFO - ===============================================
+2017-11-21 18:05:57,032 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:57,032 - INFO - PREDICTED: 0.999999970171 <SOS> subject: enjoy internet control control <UNK> one required - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:57,032 - INFO - ===============================================
+2017-11-21 18:05:57,033 - INFO - ===============================================
+2017-11-21 18:05:57,033 - INFO - REAL: 0.103832490514 <SOS> subject: time is right to invest in the euro - <UNK> <UNK> m <UNK> london - - ( ap <UNK> via <UNK> ) - - the u . s . <EOS>
+2017-11-21 18:05:57,033 - INFO - PREDICTED: 0.19235609497 <SOS> subject: time is right to invest in the euro - <UNK> <UNK> m <UNK> london - - ( ap <UNK> ) <UNK> ) - - the u . s . <EOS>
+2017-11-21 18:05:57,033 - INFO - ===============================================
+2017-11-21 18:05:57,033 - INFO - ===============================================
+2017-11-21 18:05:57,033 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:05:57,033 - INFO - PREDICTED: 0.490824384533 <SOS> subject: please . <UNK> . hello , i am a special <UNK> , <UNK> . the late president ( president ( ( <UNK> ) ) ) ) ) - the <EOS>
+2017-11-21 18:05:57,034 - INFO - ===============================================
+2017-11-21 18:05:57,034 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:05:57,034 - INFO - Mean pred probs: 0.170258098992
+2017-11-21 18:05:57,476 - INFO - Epoch : 19 Minibatch : 100 Loss : -22.92948
+2017-11-21 18:05:57,481 - INFO - ===============================================
+2017-11-21 18:05:57,481 - INFO - REAL: 0.0278133677044 <SOS> subject: i need your <UNK> results by november 27 th at 10 - 00 chronic depression - living with it article q - u ! - t <UNK> <UNK> <UNK> <EOS>
+2017-11-21 18:05:57,481 - INFO - PREDICTED: 0.219063513042 <SOS> subject: i need your <UNK> results by november th th at power / - - price u u with u world u ) - - - ) t <UNK> <UNK> <EOS>
+2017-11-21 18:05:57,481 - INFO - ===============================================
+2017-11-21 18:05:57,481 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:05:57,482 - INFO - Mean pred probs: 0.0321648279851
+2017-11-21 18:05:57,907 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:05:57,907 - INFO - Mean pred probs: 0.10079281902
+2017-11-21 18:05:58,171 - INFO - Epoch : 20 Minibatch : 0 Loss : -16.29720
+2017-11-21 18:05:58,179 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:05:58,180 - INFO - Mean pred probs: 0.00146535812124
+2017-11-21 18:05:58,638 - INFO - ===============================================
+2017-11-21 18:05:58,638 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:58,639 - INFO - PREDICTED: 0.999999970171 <SOS> subject: enjoy internet control control <UNK> one required - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:05:58,639 - INFO - ===============================================
+2017-11-21 18:05:58,639 - INFO - ===============================================
+2017-11-21 18:05:58,639 - INFO - REAL: 0.103832490514 <SOS> subject: time is right to invest in the euro - <UNK> <UNK> m <UNK> london - - ( ap <UNK> via <UNK> ) - - the u . s . <EOS>
+2017-11-21 18:05:58,639 - INFO - PREDICTED: 0.19235609497 <SOS> subject: time is right to invest in the euro - <UNK> <UNK> m <UNK> london - - ( ap <UNK> ) <UNK> ) - - the u . s . <EOS>
+2017-11-21 18:05:58,639 - INFO - ===============================================
+2017-11-21 18:05:58,639 - INFO - ===============================================
+2017-11-21 18:05:58,639 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:05:58,640 - INFO - PREDICTED: 0.249501510763 <SOS> subject: please . <UNK> . hello , i am a special <UNK> , <UNK> . the late president and president ( ( <UNK> ) ) ) <UNK> ) - the <EOS>
+2017-11-21 18:05:58,640 - INFO - ===============================================
+2017-11-21 18:05:58,640 - INFO - ===============================================
+2017-11-21 18:05:58,640 - INFO - REAL: 0.0068117768442 <SOS> subject: re : my , water <UNK> down <UNK> <UNK> , <UNK> <UNK> stock delta <UNK> and <UNK> corp . otc : <UNK> controls 6 <UNK> <UNK> 7 , <UNK> <EOS>
+2017-11-21 18:05:58,640 - INFO - PREDICTED: 0.0395696795798 <SOS> subject: reply : my kids energy saturday <UNK> <UNK> 6 <UNK> <UNK> <UNK> gas - <UNK> <UNK> www . <UNK> . <UNK> office services : <UNK> : , html <UNK> <EOS>
+2017-11-21 18:05:58,640 - INFO - ===============================================
+2017-11-21 18:05:58,640 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:05:58,640 - INFO - Mean pred probs: 0.15007293458
+2017-11-21 18:05:59,076 - INFO - Epoch : 20 Minibatch : 100 Loss : -19.12131
+2017-11-21 18:05:59,084 - INFO - ===============================================
+2017-11-21 18:05:59,084 - INFO - REAL: 0.0278133677044 <SOS> subject: i need your <UNK> results by november 27 th at 10 - 00 chronic depression - living with it article q - u ! - t <UNK> <UNK> <UNK> <EOS>
+2017-11-21 18:05:59,084 - INFO - PREDICTED: 0.219063513042 <SOS> subject: i need your <UNK> results by november th th at power / - - price u u with u world u ) - - - ) t <UNK> <UNK> <EOS>
+2017-11-21 18:05:59,084 - INFO - ===============================================
+2017-11-21 18:05:59,085 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:05:59,085 - INFO - Mean pred probs: 0.0320951903211
+2017-11-21 18:05:59,550 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:05:59,550 - INFO - Mean pred probs: 0.101121125549
+2017-11-21 18:05:59,787 - INFO - Epoch : 21 Minibatch : 0 Loss : -9.50103
+2017-11-21 18:05:59,793 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:05:59,793 - INFO - Mean pred probs: 0.000812859397303
+2017-11-21 18:06:00,267 - INFO - ===============================================
+2017-11-21 18:06:00,267 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:06:00,267 - INFO - PREDICTED: 0.999999970171 <SOS> subject: enjoy internet control control <UNK> one required - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:06:00,267 - INFO - ===============================================
+2017-11-21 18:06:00,267 - INFO - ===============================================
+2017-11-21 18:06:00,267 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:06:00,268 - INFO - PREDICTED: 0.249501510763 <SOS> subject: please . <UNK> . hello , i am a special <UNK> , <UNK> . the late president and president ( ( <UNK> ) ) ) <UNK> ) - the <EOS>
+2017-11-21 18:06:00,268 - INFO - ===============================================
+2017-11-21 18:06:00,268 - INFO - ===============================================
+2017-11-21 18:06:00,268 - INFO - REAL: 0.0068117768442 <SOS> subject: re : my , water <UNK> down <UNK> <UNK> , <UNK> <UNK> stock delta <UNK> and <UNK> corp . otc : <UNK> controls 6 <UNK> <UNK> 7 , <UNK> <EOS>
+2017-11-21 18:06:00,268 - INFO - PREDICTED: 0.0292520714164 <SOS> subject: reply : my brown energy saturday <UNK> <UNK> <UNK> <UNK> news <UNK> <UNK> - <UNK> <UNK> www . <UNK> . <UNK> price ) : <UNK> : 7 6 <UNK> <EOS>
+2017-11-21 18:06:00,268 - INFO - ===============================================
+2017-11-21 18:06:00,268 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:06:00,268 - INFO - Mean pred probs: 0.134086633904
+2017-11-21 18:06:00,701 - INFO - Epoch : 21 Minibatch : 100 Loss : -18.18856
+2017-11-21 18:06:00,710 - INFO - ===============================================
+2017-11-21 18:06:00,710 - INFO - REAL: 0.0278133677044 <SOS> subject: i need your <UNK> results by november 27 th at 10 - 00 chronic depression - living with it article q - u ! - t <UNK> <UNK> <UNK> <EOS>
+2017-11-21 18:06:00,710 - INFO - PREDICTED: 0.817179396083 <SOS> subject: i need your <UNK> results by november th th at power / - - price u u with u - u ) - - - ) t <UNK> <UNK> <EOS>
+2017-11-21 18:06:00,710 - INFO - ===============================================
+2017-11-21 18:06:00,711 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:06:00,711 - INFO - Mean pred probs: 0.0923389038195
+2017-11-21 18:06:01,200 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:06:01,201 - INFO - Mean pred probs: 0.100498844672
+2017-11-21 18:06:01,475 - INFO - Epoch : 22 Minibatch : 0 Loss : -18.44887
+2017-11-21 18:06:01,483 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:06:01,483 - INFO - Mean pred probs: 0.000810249940849
+2017-11-21 18:06:01,954 - INFO - ===============================================
+2017-11-21 18:06:01,954 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:06:01,954 - INFO - PREDICTED: 0.999999970171 <SOS> subject: enjoy internet control control <UNK> one required - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:06:01,954 - INFO - ===============================================
+2017-11-21 18:06:01,955 - INFO - ===============================================
+2017-11-21 18:06:01,955 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:06:01,955 - INFO - PREDICTED: 0.249501510763 <SOS> subject: please . <UNK> . hello , i am a special <UNK> , <UNK> . the late president and president ( ( <UNK> ) ) ) <UNK> ) - the <EOS>
+2017-11-21 18:06:01,955 - INFO - ===============================================
+2017-11-21 18:06:01,955 - INFO - ===============================================
+2017-11-21 18:06:01,956 - INFO - REAL: 0.0068117768442 <SOS> subject: re : my , water <UNK> down <UNK> <UNK> , <UNK> <UNK> stock delta <UNK> and <UNK> corp . otc : <UNK> controls 6 <UNK> <UNK> 7 , <UNK> <EOS>
+2017-11-21 18:06:01,956 - INFO - PREDICTED: 0.82389119856 <SOS> subject: reply : my brown energy friday <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> gas development <UNK> <UNK> team . . <UNK> <UNK> ltd <UNK> : <UNK> : , 6 <UNK> <EOS>
+2017-11-21 18:06:01,956 - INFO - ===============================================
+2017-11-21 18:06:01,956 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:06:01,956 - INFO - Mean pred probs: 0.213178475697
+2017-11-21 18:06:02,397 - INFO - Epoch : 22 Minibatch : 100 Loss : -23.39736
+2017-11-21 18:06:02,406 - INFO - ===============================================
+2017-11-21 18:06:02,406 - INFO - REAL: 0.0278133677044 <SOS> subject: i need your <UNK> results by november 27 th at 10 - 00 chronic depression - living with it article q - u ! - t <UNK> <UNK> <UNK> <EOS>
+2017-11-21 18:06:02,406 - INFO - PREDICTED: 0.981823728855 <SOS> subject: i need your <UNK> results by november th th at cera / - - price - u with u world u ) - - - - <UNK> <UNK> <UNK> <EOS>
+2017-11-21 18:06:02,408 - INFO - ===============================================
+2017-11-21 18:06:02,408 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:06:02,408 - INFO - Mean pred probs: 0.105709618563
+2017-11-21 18:06:02,876 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:06:02,876 - INFO - Mean pred probs: 0.0997997929815
+2017-11-21 18:06:03,149 - INFO - Epoch : 23 Minibatch : 0 Loss : -23.58794
+2017-11-21 18:06:03,153 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:06:03,154 - INFO - Mean pred probs: 0.00111921370797
+2017-11-21 18:06:03,617 - INFO - ===============================================
+2017-11-21 18:06:03,618 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:06:03,618 - INFO - PREDICTED: 0.999999994081 <SOS> subject: enjoy internet control control <UNK> required required - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:06:03,618 - INFO - ===============================================
+2017-11-21 18:06:03,618 - INFO - ===============================================
+2017-11-21 18:06:03,619 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:06:03,619 - INFO - PREDICTED: 0.243420032638 <SOS> subject: please . <UNK> . hello , i am a special <UNK> , <UNK> . the late president and president ( ( <UNK> ) ) ) ) ) ) the <EOS>
+2017-11-21 18:06:03,619 - INFO - ===============================================
+2017-11-21 18:06:03,619 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:06:03,619 - INFO - Mean pred probs: 0.129302443677
+2017-11-21 18:06:04,099 - INFO - Epoch : 23 Minibatch : 100 Loss : -25.70639
+2017-11-21 18:06:04,107 - INFO - ===============================================
+2017-11-21 18:06:04,107 - INFO - REAL: 0.0278133677044 <SOS> subject: i need your <UNK> results by november 27 th at 10 - 00 chronic depression - living with it article q - u ! - t <UNK> <UNK> <UNK> <EOS>
+2017-11-21 18:06:04,107 - INFO - PREDICTED: 0.0608462540997 <SOS> subject: i need your <UNK> results by november 27 th at : / - - 2005 ! u with it world - - - - ! ) ) <UNK> <UNK> <EOS>
+2017-11-21 18:06:04,107 - INFO - ===============================================
+2017-11-21 18:06:04,107 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:06:04,108 - INFO - Mean pred probs: 0.0157672802535
+2017-11-21 18:06:04,566 - INFO - ===============================================
+2017-11-21 18:06:04,567 - INFO - REAL: 0.0153242346899 <SOS> subject: <UNK> hello , this is a one time mailing . we are looking for people who might be interested in working p / t from home . this position <EOS>
+2017-11-21 18:06:04,567 - INFO - PREDICTED: 0.0352265181985 <SOS> subject: <UNK> , , this is a one time mailing . . are looking for people who could be your in working <UNK> . ) ) ) ) ) ) <EOS>
+2017-11-21 18:06:04,567 - INFO - ===============================================
+2017-11-21 18:06:04,567 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:06:04,567 - INFO - Mean pred probs: 0.103729662324
+2017-11-21 18:06:04,826 - INFO - Epoch : 24 Minibatch : 0 Loss : -22.14832
+2017-11-21 18:06:04,832 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:06:04,832 - INFO - Mean pred probs: 0.00237604952964
+2017-11-21 18:06:05,294 - INFO - ===============================================
+2017-11-21 18:06:05,295 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:06:05,295 - INFO - PREDICTED: 0.999999994081 <SOS> subject: enjoy internet control control <UNK> required required - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:06:05,295 - INFO - ===============================================
+2017-11-21 18:06:05,295 - INFO - ===============================================
+2017-11-21 18:06:05,295 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:06:05,295 - INFO - PREDICTED: 0.0594137551543 <SOS> subject: please . <UNK> . hello , i am a special <UNK> , <UNK> . the late president and president ( ( <UNK> ) ) ) ) ) ) its <EOS>
+2017-11-21 18:06:05,295 - INFO - ===============================================
+2017-11-21 18:06:05,296 - INFO - ===============================================
+2017-11-21 18:06:05,296 - INFO - REAL: 0.0068117768442 <SOS> subject: re : my , water <UNK> down <UNK> <UNK> , <UNK> <UNK> stock delta <UNK> and <UNK> corp . otc : <UNK> controls 6 <UNK> <UNK> 7 , <UNK> <EOS>
+2017-11-21 18:06:05,296 - INFO - PREDICTED: 0.994447210897 <SOS> subject: what my wednesday , energy saturday <UNK> <UNK> 40 <UNK> news <UNK> energy and <UNK> <UNK> business <UNK> <UNK> <UNK> <UNK> data methodology west west west 7 7 . <EOS>
+2017-11-21 18:06:05,296 - INFO - ===============================================
+2017-11-21 18:06:05,296 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:06:05,296 - INFO - Mean pred probs: 0.209828187056
+2017-11-21 18:06:05,750 - INFO - Epoch : 24 Minibatch : 100 Loss : -20.89628
+2017-11-21 18:06:05,757 - INFO - ===============================================
+2017-11-21 18:06:05,757 - INFO - REAL: 0.0278133677044 <SOS> subject: i need your <UNK> results by november 27 th at 10 - 00 chronic depression - living with it article q - u ! - t <UNK> <UNK> <UNK> <EOS>
+2017-11-21 18:06:05,757 - INFO - PREDICTED: 0.98625702956 <SOS> subject: i need your <UNK> results by november 27 th at power / - - article ! u with it world ! - - - - ) ) <UNK> ) <EOS>
+2017-11-21 18:06:05,757 - INFO - ===============================================
+2017-11-21 18:06:05,757 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:06:05,757 - INFO - Mean pred probs: 0.108365140856
+2017-11-21 18:06:06,235 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:06:06,235 - INFO - Mean pred probs: 0.100936195632
+2017-11-21 18:06:06,506 - INFO - Epoch : 25 Minibatch : 0 Loss : -23.68197
+2017-11-21 18:06:06,510 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:06:06,510 - INFO - Mean pred probs: 0.000843212850668
+2017-11-21 18:06:07,027 - INFO - ===============================================
+2017-11-21 18:06:07,027 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:06:07,027 - INFO - PREDICTED: 0.999999994081 <SOS> subject: enjoy internet control control <UNK> required required - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:06:07,028 - INFO - ===============================================
+2017-11-21 18:06:07,028 - INFO - ===============================================
+2017-11-21 18:06:07,028 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:06:07,028 - INFO - PREDICTED: 0.170447712488 <SOS> subject: please . <UNK> . hello , i am a special <UNK> , <UNK> . the late president ( president ( ( ( ) ) ) ) ) ) its <EOS>
+2017-11-21 18:06:07,028 - INFO - ===============================================
+2017-11-21 18:06:07,028 - INFO - ===============================================
+2017-11-21 18:06:07,028 - INFO - REAL: 0.0068117768442 <SOS> subject: re : my , water <UNK> down <UNK> <UNK> , <UNK> <UNK> stock delta <UNK> and <UNK> corp . otc : <UNK> controls 6 <UNK> <UNK> 7 , <UNK> <EOS>
+2017-11-21 18:06:07,029 - INFO - PREDICTED: 0.999631654336 <SOS> subject: reply : houston well saturday friday <UNK> <UNK> ho power table fed strategy call <UNK> support team prices <UNK> ltd <UNK> price 19 : ) : , , <UNK> <EOS>
+2017-11-21 18:06:07,029 - INFO - ===============================================
+2017-11-21 18:06:07,029 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:06:07,029 - INFO - Mean pred probs: 0.224440350186
+2017-11-21 18:06:07,525 - INFO - Epoch : 25 Minibatch : 100 Loss : -27.22951
+2017-11-21 18:06:07,532 - INFO - ===============================================
+2017-11-21 18:06:07,532 - INFO - REAL: 0.0278133677044 <SOS> subject: i need your <UNK> results by november 27 th at 10 - 00 chronic depression - living with it article q - u ! - t <UNK> <UNK> <UNK> <EOS>
+2017-11-21 18:06:07,533 - INFO - PREDICTED: 0.0304424437253 <SOS> subject: i need your <UNK> results by november 27 th at : / - - 2005 article u - it world - <UNK> ) ' ! ' <UNK> <UNK> <UNK> <EOS>
+2017-11-21 18:06:07,533 - INFO - ===============================================
+2017-11-21 18:06:07,533 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:06:07,533 - INFO - Mean pred probs: 0.0167853692927
+2017-11-21 18:06:08,158 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:06:08,159 - INFO - Mean pred probs: 0.101899282158
+2017-11-21 18:06:08,479 - INFO - Epoch : 26 Minibatch : 0 Loss : -31.93081
+2017-11-21 18:06:08,483 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:06:08,484 - INFO - Mean pred probs: 0.000636164635328
+2017-11-21 18:06:08,947 - INFO - ===============================================
+2017-11-21 18:06:08,947 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:06:08,948 - INFO - PREDICTED: 0.999999994081 <SOS> subject: enjoy internet control control <UNK> required required - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:06:08,948 - INFO - ===============================================
+2017-11-21 18:06:08,948 - INFO - ===============================================
+2017-11-21 18:06:08,948 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:06:08,948 - INFO - PREDICTED: 0.336001751326 <SOS> subject: please . <UNK> . hello , i am a special <UNK> , <UNK> . the late president ( president ( ( ( ) ) ) ) ) ) expand <EOS>
+2017-11-21 18:06:08,948 - INFO - ===============================================
+2017-11-21 18:06:08,948 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:06:08,949 - INFO - Mean pred probs: 0.141223717995
+2017-11-21 18:06:09,408 - INFO - Epoch : 26 Minibatch : 100 Loss : -35.23319
+2017-11-21 18:06:09,412 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:06:09,413 - INFO - Mean pred probs: 0.0014938967835
+2017-11-21 18:06:09,907 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:06:09,907 - INFO - Mean pred probs: 0.000251538358144
+2017-11-21 18:06:10,190 - INFO - Epoch : 27 Minibatch : 0 Loss : -29.97092
+2017-11-21 18:06:10,195 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:06:10,195 - INFO - Mean pred probs: 0.000648259591472
+2017-11-21 18:06:10,682 - INFO - ===============================================
+2017-11-21 18:06:10,682 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:06:10,682 - INFO - PREDICTED: 0.999999994081 <SOS> subject: enjoy internet control control <UNK> required required - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:06:10,682 - INFO - ===============================================
+2017-11-21 18:06:10,683 - INFO - ===============================================
+2017-11-21 18:06:10,683 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:06:10,683 - INFO - PREDICTED: 0.408963843896 <SOS> subject: please . <UNK> . hello , i am a special <UNK> , <UNK> . the late president ( president ( ( ( ) ) ) ) ) ) ) <EOS>
+2017-11-21 18:06:10,683 - INFO - ===============================================
+2017-11-21 18:06:10,684 - INFO - ===============================================
+2017-11-21 18:06:10,684 - INFO - REAL: 0.0068117768442 <SOS> subject: re : my , water <UNK> down <UNK> <UNK> , <UNK> <UNK> stock delta <UNK> and <UNK> corp . otc : <UNK> controls 6 <UNK> <UNK> 7 , <UNK> <EOS>
+2017-11-21 18:06:10,684 - INFO - PREDICTED: 0.180778841553 <SOS> subject: cc my many well energy cut <UNK> <UNK> <UNK> people ice <UNK> power and live live commercial team ! expense <UNK> prices quote quote service quote upgrade upgrade from <EOS>
+2017-11-21 18:06:10,684 - INFO - ===============================================
+2017-11-21 18:06:10,685 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:06:10,685 - INFO - Mean pred probs: 0.173971528751
+2017-11-21 18:06:11,185 - INFO - Epoch : 27 Minibatch : 100 Loss : -40.05103
+2017-11-21 18:06:11,190 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:06:11,190 - INFO - Mean pred probs: 0.00143836419499
+2017-11-21 18:06:11,680 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:06:11,681 - INFO - Mean pred probs: 0.0904482951369
+2017-11-21 18:06:11,969 - INFO - Epoch : 28 Minibatch : 0 Loss : -27.94362
+2017-11-21 18:06:11,977 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:06:11,978 - INFO - Mean pred probs: 0.00181607363331
+2017-11-21 18:06:12,472 - INFO - ===============================================
+2017-11-21 18:06:12,472 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:06:12,472 - INFO - PREDICTED: 0.999999994081 <SOS> subject: enjoy internet control control <UNK> required required - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:06:12,472 - INFO - ===============================================
+2017-11-21 18:06:12,473 - INFO - ===============================================
+2017-11-21 18:06:12,473 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:06:12,473 - INFO - PREDICTED: 0.350498115016 <SOS> subject: please . <UNK> . hello , i am a special <UNK> , <UNK> . the late president and president ( ( ( ) ) ) ) ) ) ) <EOS>
+2017-11-21 18:06:12,473 - INFO - ===============================================
+2017-11-21 18:06:12,474 - INFO - ===============================================
+2017-11-21 18:06:12,474 - INFO - REAL: 0.0068117768442 <SOS> subject: re : my , water <UNK> down <UNK> <UNK> , <UNK> <UNK> stock delta <UNK> and <UNK> corp . otc : <UNK> controls 6 <UNK> <UNK> 7 , <UNK> <EOS>
+2017-11-21 18:06:12,474 - INFO - PREDICTED: 0.999460367015 <SOS> subject: re institute many australia energy <UNK> <UNK> <UNK> 10 ? table " power matrix original original commercial team prices expense h overview structure age ring records upgrade records records <EOS>
+2017-11-21 18:06:12,474 - INFO - ===============================================
+2017-11-21 18:06:12,474 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:06:12,475 - INFO - Mean pred probs: 0.256360616424
+2017-11-21 18:06:12,966 - INFO - Epoch : 28 Minibatch : 100 Loss : -35.78278
+2017-11-21 18:06:12,975 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:06:12,975 - INFO - Mean pred probs: 0.00121029031051
+2017-11-21 18:06:13,500 - INFO - ===============================================
+2017-11-21 18:06:13,500 - INFO - REAL: 0.419196448549 <SOS> subject: wall - <UNK> monday - monday - monday - monday investor alert - we have a <UNK> - ^ stock ^ is up 0 . 13 ( <UNK> . <EOS>
+2017-11-21 18:06:13,500 - INFO - PREDICTED: 0.995326146506 <SOS> subject: vacation - good time winter mid july - - ets january outlook ! ! ! ! return return options implementation plus plus options ! ! 2004 live vs ) <EOS>
+2017-11-21 18:06:13,500 - INFO - ===============================================
+2017-11-21 18:06:13,500 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:06:13,501 - INFO - Mean pred probs: 0.19977630749
+2017-11-21 18:06:13,781 - INFO - Epoch : 29 Minibatch : 0 Loss : -29.45360
+2017-11-21 18:06:13,789 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:06:13,790 - INFO - Mean pred probs: 0.000633701179389
+2017-11-21 18:06:14,297 - INFO - ===============================================
+2017-11-21 18:06:14,297 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:06:14,297 - INFO - PREDICTED: 0.999999994081 <SOS> subject: enjoy internet control control <UNK> required required - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 18:06:14,297 - INFO - ===============================================
+2017-11-21 18:06:14,298 - INFO - ===============================================
+2017-11-21 18:06:14,298 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:06:14,298 - INFO - PREDICTED: 0.494714746983 <SOS> subject: please . <UNK> . hello , i am a special <UNK> , , . the late president and president ( ( ( ) ) ) ) ) ) ) <EOS>
+2017-11-21 18:06:14,298 - INFO - ===============================================
+2017-11-21 18:06:14,298 - INFO - ===============================================
+2017-11-21 18:06:14,298 - INFO - REAL: 0.0068117768442 <SOS> subject: re : my , water <UNK> down <UNK> <UNK> , <UNK> <UNK> stock delta <UNK> and <UNK> corp . otc : <UNK> controls 6 <UNK> <UNK> 7 , <UNK> <EOS>
+2017-11-21 18:06:14,298 - INFO - PREDICTED: 0.999986149931 <SOS> subject: reply my two australia energy down <UNK> <UNK> <UNK> people news " " matrix and team plan team transactions expense return expense overview age records : return upgrade from <EOS>
+2017-11-21 18:06:14,298 - INFO - ===============================================
+2017-11-21 18:06:14,299 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:06:14,299 - INFO - Mean pred probs: 0.270834671855
+2017-11-21 18:06:14,782 - INFO - Epoch : 29 Minibatch : 100 Loss : -43.57632
+2017-11-21 18:06:14,790 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:06:14,790 - INFO - Mean pred probs: 0.000132406311025
+2017-11-21 18:06:15,317 - INFO - ===============================================
+2017-11-21 18:06:15,318 - INFO - REAL: 0.419196448549 <SOS> subject: wall - <UNK> monday - monday - monday - monday investor alert - we have a <UNK> - ^ stock ^ is up 0 . 13 ( <UNK> . <EOS>
+2017-11-21 18:06:15,318 - INFO - PREDICTED: 0.893423718791 <SOS> subject: br <UNK> <UNK> spring move off close up dow trade trade ets date ets date nominated nominated options picture bill drive implementation fax fax or 2004 2004 2004 2004 <EOS>
+2017-11-21 18:06:15,318 - INFO - ===============================================
+2017-11-21 18:06:15,318 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:06:15,318 - INFO - Mean pred probs: 0.189347663527
+2017-11-21 18:06:15,603 - INFO - Epoch : 30 Minibatch : 0 Loss : -39.32790
+2017-11-21 18:06:15,609 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:06:15,609 - INFO - Mean pred probs: 2.37574245971e-05
+2017-11-21 18:06:16,133 - INFO - ===============================================
+2017-11-21 18:06:16,134 - INFO - REAL: 0.00846517995309 <SOS> subject: please , <UNK> . hello , i am a citizen of <UNK> , son of the late former president of <UNK> ( president <UNK> <UNK> seko ) since the <EOS>
+2017-11-21 18:06:16,134 - INFO - PREDICTED: 0.854294885307 <SOS> subject: please . <UNK> . hello , i am a special <UNK> , , , the late president and president ( ( ( ( ) ) ) . post facility <EOS>
+2017-11-21 18:06:16,134 - INFO - ===============================================
+2017-11-21 18:06:16,134 - INFO - ===============================================
+2017-11-21 18:06:16,134 - INFO - REAL: 0.0068117768442 <SOS> subject: re : my , water <UNK> down <UNK> <UNK> , <UNK> <UNK> stock delta <UNK> and <UNK> corp . otc : <UNK> controls 6 <UNK> <UNK> 7 , <UNK> <EOS>
+2017-11-21 18:06:16,135 - INFO - PREDICTED: 0.999999957871 <SOS> subject: cc trip these economic energy saturday <UNK> <UNK> html <UNK> comments <UNK> " and and news carol ! ! text track contracts track track : contracts contracts contracts outlook <EOS>
+2017-11-21 18:06:16,135 - INFO - ===============================================
+2017-11-21 18:06:16,135 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:06:16,135 - INFO - Mean pred probs: 0.285429332353
+2017-11-21 18:06:16,694 - INFO - Epoch : 30 Minibatch : 100 Loss : -55.86277
+2017-11-21 18:06:16,699 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:06:16,699 - INFO - Mean pred probs: 1.6516946565e-07
+2017-11-21 18:06:17,213 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:06:17,213 - INFO - Mean pred probs: 0.00148843246425
+2017-11-21 18:06:17,518 - INFO - Epoch : 31 Minibatch : 0 Loss : -86.50152
+2017-11-21 18:06:17,522 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:06:17,522 - INFO - Mean pred probs: 5.59455076848e-13
+2017-11-21 18:06:18,040 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:06:18,041 - INFO - Mean pred probs: 0.000594945017543
+2017-11-21 18:06:18,556 - INFO - Epoch : 31 Minibatch : 100 Loss : -139.60698
+2017-11-21 18:06:18,560 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:06:18,560 - INFO - Mean pred probs: 1.78268997956e-18
+2017-11-21 18:06:19,066 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:06:19,066 - INFO - Mean pred probs: 2.66872325545e-17
+2017-11-21 18:06:19,373 - INFO - Epoch : 32 Minibatch : 0 Loss : -254.33296
+2017-11-21 18:06:19,377 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:06:19,377 - INFO - Mean pred probs: 1.31827869438e-20
+2017-11-21 18:06:19,976 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:06:19,976 - INFO - Mean pred probs: 3.19878971596e-22
+2017-11-21 18:06:20,511 - INFO - Epoch : 32 Minibatch : 100 Loss : -233.72654
+2017-11-21 18:06:20,515 - INFO - Mean real probs: 0.324525909599
+2017-11-21 18:06:20,515 - INFO - Mean pred probs: 4.90129327427e-23
+2017-11-21 18:06:21,041 - INFO - Mean real probs: 0.275742412495
+2017-11-21 18:06:21,042 - INFO - Mean pred probs: 7.17714050989e-23
+2017-11-21 18:06:21,353 - INFO - Epoch : 33 Minibatch : 0 Loss : -296.87540
+2017-11-21 18:06:21,358 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:06:21,358 - INFO - Mean pred probs: 1.53676755068e-05
+2017-11-21 18:06:21,883 - INFO - Mean real probs: 0.211896775952
+2017-11-21 18:06:21,883 - INFO - Mean pred probs: 4.18933846238e-08

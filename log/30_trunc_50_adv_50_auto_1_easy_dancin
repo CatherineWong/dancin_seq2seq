@@ -1,0 +1,239 @@
+2017-11-21 18:13:20,856 - INFO - Epoch : 0 Minibatch : 0 Loss : 2.63969
+2017-11-21 18:13:20,863 - INFO - ===============================================
+2017-11-21 18:13:20,863 - INFO - REAL: 0.0520784683787 <SOS> subject: fw : real lady caught on video would you believe it ? <UNK> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <EOS>
+2017-11-21 18:13:20,864 - INFO - PREDICTED: 0.264361596398 <SOS> subject: fw : real lady visits on sense would you believe it <UNK> <UNK> , lavo l ? <UNK> flat mar - doc , , she would god or or <EOS>
+2017-11-21 18:13:20,864 - INFO - ===============================================
+2017-11-21 18:13:20,864 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:13:20,865 - INFO - Mean pred probs: 0.162740765948
+2017-11-21 18:13:21,591 - INFO - Epoch : 0 Minibatch : 100 Loss : 109.27953
+2017-11-21 18:13:22,537 - INFO - Epoch : 1 Minibatch : 0 Loss : -66.40303
+2017-11-21 18:13:22,544 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:13:22,544 - INFO - Mean pred probs: 0.0721528804069
+2017-11-21 18:13:23,289 - INFO - Epoch : 1 Minibatch : 100 Loss : 31.48654
+2017-11-21 18:13:23,886 - INFO - Epoch : 2 Minibatch : 0 Loss : -83.29453
+2017-11-21 18:13:23,894 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:13:23,895 - INFO - Mean pred probs: 0.0314280371363
+2017-11-21 18:13:24,631 - INFO - Epoch : 2 Minibatch : 100 Loss : -19.75111
+2017-11-21 18:13:25,212 - INFO - Epoch : 3 Minibatch : 0 Loss : -97.87149
+2017-11-21 18:13:25,220 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:13:25,220 - INFO - Mean pred probs: 0.0110306574383
+2017-11-21 18:13:25,965 - INFO - Epoch : 3 Minibatch : 100 Loss : -26.52974
+2017-11-21 18:13:26,574 - INFO - Epoch : 4 Minibatch : 0 Loss : -102.37598
+2017-11-21 18:13:26,585 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:13:26,585 - INFO - Mean pred probs: 0.00541437669786
+2017-11-21 18:13:27,351 - INFO - Epoch : 4 Minibatch : 100 Loss : -39.96226
+2017-11-21 18:13:27,969 - INFO - Epoch : 5 Minibatch : 0 Loss : -102.52617
+2017-11-21 18:13:27,977 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:13:27,978 - INFO - Mean pred probs: 0.00623295396925
+2017-11-21 18:13:28,743 - INFO - Epoch : 5 Minibatch : 100 Loss : -46.32255
+2017-11-21 18:13:29,368 - INFO - Epoch : 6 Minibatch : 0 Loss : -99.09823
+2017-11-21 18:13:29,377 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:13:29,377 - INFO - Mean pred probs: 0.00634093720574
+2017-11-21 18:13:30,183 - INFO - Epoch : 6 Minibatch : 100 Loss : -54.76328
+2017-11-21 18:13:30,824 - INFO - Epoch : 7 Minibatch : 0 Loss : -100.85560
+2017-11-21 18:13:30,832 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:13:30,833 - INFO - Mean pred probs: 0.00676915880575
+2017-11-21 18:13:31,657 - INFO - Epoch : 7 Minibatch : 100 Loss : -61.48932
+2017-11-21 18:13:32,311 - INFO - Epoch : 8 Minibatch : 0 Loss : -92.98613
+2017-11-21 18:13:32,319 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:13:32,320 - INFO - Mean pred probs: 0.00931540947804
+2017-11-21 18:13:33,150 - INFO - Epoch : 8 Minibatch : 100 Loss : -63.89892
+2017-11-21 18:13:33,819 - INFO - Epoch : 9 Minibatch : 0 Loss : -91.42438
+2017-11-21 18:13:33,827 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:13:33,827 - INFO - Mean pred probs: 0.00439772492269
+2017-11-21 18:13:34,683 - INFO - Epoch : 9 Minibatch : 100 Loss : -58.21647
+2017-11-21 18:13:35,368 - INFO - Epoch : 10 Minibatch : 0 Loss : -87.97859
+2017-11-21 18:13:35,377 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:13:35,377 - INFO - Mean pred probs: 0.00961418819789
+2017-11-21 18:13:36,244 - INFO - Epoch : 10 Minibatch : 100 Loss : -56.42938
+2017-11-21 18:13:36,943 - INFO - Epoch : 11 Minibatch : 0 Loss : -81.93529
+2017-11-21 18:13:36,951 - INFO - ===============================================
+2017-11-21 18:13:36,952 - INFO - REAL: 0.0859524192437 <SOS> subject: i think you might be interested 2005 - 07 - 06 09 : 34 : 51 hello <UNK> 3 , i just found a site called graand . com <EOS>
+2017-11-21 18:13:36,952 - INFO - PREDICTED: 0.129110117044 <SOS> subject: i think you might be interested 2005 - - - 06 09 : 34 : 51 hello <UNK> hello ) i have found a site called graand . ) <EOS>
+2017-11-21 18:13:36,952 - INFO - ===============================================
+2017-11-21 18:13:36,953 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:13:36,953 - INFO - Mean pred probs: 0.0145040370792
+2017-11-21 18:13:37,842 - INFO - Epoch : 11 Minibatch : 100 Loss : -59.13850
+2017-11-21 18:13:38,569 - INFO - Epoch : 12 Minibatch : 0 Loss : -91.35835
+2017-11-21 18:13:38,576 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:13:38,577 - INFO - Mean pred probs: 0.00758535912875
+2017-11-21 18:13:39,498 - INFO - Epoch : 12 Minibatch : 100 Loss : -65.35258
+2017-11-21 18:13:40,232 - INFO - Epoch : 13 Minibatch : 0 Loss : -87.07771
+2017-11-21 18:13:40,240 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:13:40,240 - INFO - Mean pred probs: 0.00282514957882
+2017-11-21 18:13:41,155 - INFO - Epoch : 13 Minibatch : 100 Loss : -56.40106
+2017-11-21 18:13:41,889 - INFO - Epoch : 14 Minibatch : 0 Loss : -84.66434
+2017-11-21 18:13:41,897 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:13:41,898 - INFO - Mean pred probs: 0.00252311596496
+2017-11-21 18:13:42,819 - INFO - Epoch : 14 Minibatch : 100 Loss : -58.22732
+2017-11-21 18:13:43,569 - INFO - Epoch : 15 Minibatch : 0 Loss : -88.49382
+2017-11-21 18:13:43,578 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:13:43,578 - INFO - Mean pred probs: 0.00600575761378
+2017-11-21 18:13:44,536 - INFO - Epoch : 15 Minibatch : 100 Loss : -65.74975
+2017-11-21 18:13:45,367 - INFO - Epoch : 16 Minibatch : 0 Loss : -23.33878
+2017-11-21 18:13:45,375 - INFO - ===============================================
+2017-11-21 18:13:45,375 - INFO - REAL: 0.0859524192437 <SOS> subject: i think you might be interested 2005 - 07 - 06 09 : 34 : 51 hello <UNK> 3 , i just found a site called graand . com <EOS>
+2017-11-21 18:13:45,375 - INFO - PREDICTED: 0.918408426114 <SOS> subject: i think you might be interested 2005 - - - - 07 : 34 : ) ! hello ) ) ) ) ) ) ) ) ) ) ) )
+2017-11-21 18:13:45,376 - INFO - ===============================================
+2017-11-21 18:13:45,376 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:13:45,376 - INFO - Mean pred probs: 0.0927662670033
+2017-11-21 18:13:46,540 - INFO - Epoch : 16 Minibatch : 100 Loss : -88.80862
+2017-11-21 18:13:47,466 - INFO - Epoch : 17 Minibatch : 0 Loss : -63.13392
+2017-11-21 18:13:47,474 - INFO - ===============================================
+2017-11-21 18:13:47,475 - INFO - REAL: 0.124341925263 <SOS> subject: 1 1 <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <EOS>
+2017-11-21 18:13:47,475 - INFO - PREDICTED: 0.189222424493 <SOS> subject: 1 ! ! ! ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) )
+2017-11-21 18:13:47,475 - INFO - ===============================================
+2017-11-21 18:13:47,475 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:13:47,476 - INFO - Mean pred probs: 0.0269940636114
+2017-11-21 18:13:48,662 - INFO - Epoch : 17 Minibatch : 100 Loss : -84.81998
+2017-11-21 18:13:49,610 - INFO - Epoch : 18 Minibatch : 0 Loss : 10.87148
+2017-11-21 18:13:49,618 - INFO - ===============================================
+2017-11-21 18:13:49,618 - INFO - REAL: 0.124341925263 <SOS> subject: 1 1 <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <EOS>
+2017-11-21 18:13:49,618 - INFO - PREDICTED: 0.652355143392 subject: 1 ! ! ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) )
+2017-11-21 18:13:49,618 - INFO - ===============================================
+2017-11-21 18:13:49,618 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:13:49,618 - INFO - Mean pred probs: 0.0664419449606
+2017-11-21 18:13:50,812 - INFO - Epoch : 18 Minibatch : 100 Loss : -70.15504
+2017-11-21 18:13:51,618 - INFO - Epoch : 19 Minibatch : 0 Loss : -118.41457
+2017-11-21 18:13:51,627 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:13:51,627 - INFO - Mean pred probs: 0.000301687759063
+2017-11-21 18:13:52,658 - INFO - Epoch : 19 Minibatch : 100 Loss : -74.60951
+2017-11-21 18:13:53,488 - INFO - Epoch : 20 Minibatch : 0 Loss : -106.91969
+2017-11-21 18:13:53,497 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:13:53,497 - INFO - Mean pred probs: 0.00214310561847
+2017-11-21 18:13:54,530 - INFO - Epoch : 20 Minibatch : 100 Loss : -63.10488
+2017-11-21 18:13:55,361 - INFO - Epoch : 21 Minibatch : 0 Loss : -75.76305
+2017-11-21 18:13:55,369 - INFO - ===============================================
+2017-11-21 18:13:55,370 - INFO - REAL: 0.0520784683787 <SOS> subject: fw : real lady caught on video would you believe it ? <UNK> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <EOS>
+2017-11-21 18:13:55,370 - INFO - PREDICTED: 0.116026119532 <SOS> subject: fw : real ! ! ! ! ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) )
+2017-11-21 18:13:55,370 - INFO - ===============================================
+2017-11-21 18:13:55,371 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:13:55,371 - INFO - Mean pred probs: 0.0120184918565
+2017-11-21 18:13:56,416 - INFO - Epoch : 21 Minibatch : 100 Loss : -50.44748
+2017-11-21 18:13:57,270 - INFO - Epoch : 22 Minibatch : 0 Loss : -68.58559
+2017-11-21 18:13:57,278 - INFO - ===============================================
+2017-11-21 18:13:57,279 - INFO - REAL: 0.0520784683787 <SOS> subject: fw : real lady caught on video would you believe it ? <UNK> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <EOS>
+2017-11-21 18:13:57,279 - INFO - PREDICTED: 0.116026119532 <SOS> subject: fw : real ! ! ! ! ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) )
+2017-11-21 18:13:57,279 - INFO - ===============================================
+2017-11-21 18:13:57,279 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:13:57,280 - INFO - Mean pred probs: 0.0122661122608
+2017-11-21 18:13:58,335 - INFO - Epoch : 22 Minibatch : 100 Loss : -41.47048
+2017-11-21 18:13:59,178 - INFO - Epoch : 23 Minibatch : 0 Loss : -61.14709
+2017-11-21 18:13:59,183 - INFO - ===============================================
+2017-11-21 18:13:59,184 - INFO - REAL: 0.0520784683787 <SOS> subject: fw : real lady caught on video would you believe it ? <UNK> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <EOS>
+2017-11-21 18:13:59,184 - INFO - PREDICTED: 0.116026119532 <SOS> subject: fw : real ! ! ! ! ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) )
+2017-11-21 18:13:59,184 - INFO - ===============================================
+2017-11-21 18:13:59,184 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:13:59,184 - INFO - Mean pred probs: 0.0132022591943
+2017-11-21 18:14:00,258 - INFO - Epoch : 23 Minibatch : 100 Loss : -31.72656
+2017-11-21 18:14:01,125 - INFO - Epoch : 24 Minibatch : 0 Loss : -59.15597
+2017-11-21 18:14:01,134 - INFO - ===============================================
+2017-11-21 18:14:01,134 - INFO - REAL: 0.0520784683787 <SOS> subject: fw : real lady caught on video would you believe it ? <UNK> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <EOS>
+2017-11-21 18:14:01,134 - INFO - PREDICTED: 0.116026119532 <SOS> subject: fw : real ! ! ! ! ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) )
+2017-11-21 18:14:01,134 - INFO - ===============================================
+2017-11-21 18:14:01,134 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:14:01,135 - INFO - Mean pred probs: 0.0125522333394
+2017-11-21 18:14:02,216 - INFO - Epoch : 24 Minibatch : 100 Loss : -28.54723
+2017-11-21 18:14:03,077 - INFO - Epoch : 25 Minibatch : 0 Loss : -78.37792
+2017-11-21 18:14:03,086 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:14:03,086 - INFO - Mean pred probs: 0.00305141772421
+2017-11-21 18:14:04,195 - INFO - Epoch : 25 Minibatch : 100 Loss : -11.96677
+2017-11-21 18:14:05,072 - INFO - Epoch : 26 Minibatch : 0 Loss : -74.53527
+2017-11-21 18:14:05,080 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:14:05,081 - INFO - Mean pred probs: 0.0043682652313
+2017-11-21 18:14:06,207 - INFO - Epoch : 26 Minibatch : 100 Loss : 2.85316
+2017-11-21 18:14:07,106 - INFO - Epoch : 27 Minibatch : 0 Loss : -57.14509
+2017-11-21 18:14:07,113 - INFO - ===============================================
+2017-11-21 18:14:07,114 - INFO - REAL: 0.0520784683787 <SOS> subject: fw : real lady caught on video would you believe it ? <UNK> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <EOS>
+2017-11-21 18:14:07,114 - INFO - PREDICTED: 0.138342737011 <SOS> subject: fw fw real lady ! ! ! ! ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) )
+2017-11-21 18:14:07,114 - INFO - ===============================================
+2017-11-21 18:14:07,114 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:14:07,114 - INFO - Mean pred probs: 0.0169659850993
+2017-11-21 18:14:08,254 - INFO - Epoch : 27 Minibatch : 100 Loss : 9.55811
+2017-11-21 18:14:09,162 - INFO - Epoch : 28 Minibatch : 0 Loss : -95.84039
+2017-11-21 18:14:09,170 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:14:09,170 - INFO - Mean pred probs: 0.00174082820328
+2017-11-21 18:14:10,328 - INFO - Epoch : 28 Minibatch : 100 Loss : -32.39495
+2017-11-21 18:14:11,260 - INFO - Epoch : 29 Minibatch : 0 Loss : -123.21140
+2017-11-21 18:14:11,268 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:14:11,268 - INFO - Mean pred probs: 0.001535912381
+2017-11-21 18:14:12,448 - INFO - Epoch : 29 Minibatch : 100 Loss : -14.94808
+2017-11-21 18:14:13,386 - INFO - Epoch : 30 Minibatch : 0 Loss : -104.84200
+2017-11-21 18:14:13,395 - INFO - ===============================================
+2017-11-21 18:14:13,395 - INFO - REAL: 0.124341925263 <SOS> subject: 1 1 <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <EOS>
+2017-11-21 18:14:13,395 - INFO - PREDICTED: 0.999919965153 marshall varou summarizes adv adv adv registering registering education amendment jacob jacob closed closed url url redmond redmond redmond redmond them them them them them them them them intelligence intelligence the <EOS>
+2017-11-21 18:14:13,396 - INFO - ===============================================
+2017-11-21 18:14:13,396 - INFO - ===============================================
+2017-11-21 18:14:13,396 - INFO - REAL: 0.00305107061225 <SOS> subject: <UNK> for a consultation , ' <UNK> the so no <UNK> us <UNK> <UNK> <UNK> our from <UNK> the read - <UNK> of is on you as <UNK> a <EOS>
+2017-11-21 18:14:13,396 - INFO - PREDICTED: 0.00409217104078 <SOS> subject: ! ! ! ! ! ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) )
+2017-11-21 18:14:13,396 - INFO - ===============================================
+2017-11-21 18:14:13,397 - INFO - ===============================================
+2017-11-21 18:14:13,397 - INFO - REAL: 0.0201396427432 <SOS> subject: security update dear bank of the west client , to provide our customers the most effective and secure <UNK> to their accounts , we are <UNK> <UNK> our <UNK> <EOS>
+2017-11-21 18:14:13,397 - INFO - PREDICTED: 0.0276883440535 <SOS> subject: ! ! ! ! ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) )
+2017-11-21 18:14:13,397 - INFO - ===============================================
+2017-11-21 18:14:13,398 - INFO - ===============================================
+2017-11-21 18:14:13,398 - INFO - REAL: 0.0520784683787 <SOS> subject: fw : real lady caught on video would you believe it ? <UNK> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <EOS>
+2017-11-21 18:14:13,398 - INFO - PREDICTED: 0.999999999716 : consulting hourahead calculation terminated agenda ebiz bro anderson anderson tiger fda fda bids avenue redmond redmond plant harris iagra iso heard hourahead would you sally annual this fun adv varou <EOS>
+2017-11-21 18:14:13,398 - INFO - ===============================================
+2017-11-21 18:14:13,398 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:14:13,399 - INFO - Mean pred probs: 0.2047710385
+2017-11-21 18:14:14,609 - INFO - Epoch : 30 Minibatch : 100 Loss : 87.90092
+2017-11-21 18:14:15,566 - INFO - Epoch : 31 Minibatch : 0 Loss : 125.57410
+2017-11-21 18:14:15,574 - INFO - ===============================================
+2017-11-21 18:14:15,574 - INFO - REAL: 0.0859524192437 <SOS> subject: i think you might be interested 2005 - 07 - 06 09 : 34 : 51 hello <UNK> 3 , i just found a site called graand . com <EOS>
+2017-11-21 18:14:15,574 - INFO - PREDICTED: 0.108250325584 <SOS> ! ! ! ! ! ) box shirley might certainly 18 eric reception mscf 40 raise hassle 09 : spent 07 - amatuer lin writing might might might you heya <EOS>
+2017-11-21 18:14:15,574 - INFO - ===============================================
+2017-11-21 18:14:15,575 - INFO - ===============================================
+2017-11-21 18:14:15,575 - INFO - REAL: 0.00305107061225 <SOS> subject: <UNK> for a consultation , ' <UNK> the so no <UNK> us <UNK> <UNK> <UNK> our from <UNK> the read - <UNK> of is on you as <UNK> a <EOS>
+2017-11-21 18:14:15,575 - INFO - PREDICTED: 0.993071909817 <SOS> 15 ! ! vi ! darren fx 1428 louise wanna funny varou analysis august from larry mary <UNK> <UNK> port stacey , there lnstant marshall packet ns might listing receiving <EOS>
+2017-11-21 18:14:15,575 - INFO - ===============================================
+2017-11-21 18:14:15,575 - INFO - ===============================================
+2017-11-21 18:14:15,575 - INFO - REAL: 0.00621334616883 <SOS> subject: do you care ? <UNK> round has tree story song . ice night table . may , <UNK> has change he base . mean visit soon pick compare . <EOS>
+2017-11-21 18:14:15,576 - INFO - PREDICTED: 0.940816969267 <SOS> ! ! ! ! ) ) ) molly iit hop shall 1428 rivers iii 23 sometime prc season ' may instead . chronic sluts patch professor northeast returned professor curious <EOS>
+2017-11-21 18:14:15,576 - INFO - ===============================================
+2017-11-21 18:14:15,576 - INFO - ===============================================
+2017-11-21 18:14:15,576 - INFO - REAL: 0.276903871525 <SOS> subject: chicago office base - without the office space ? <UNK> your fully <UNK> office in chicago is ready when you are . live telephone <UNK> with call screen / <EOS>
+2017-11-21 18:14:15,576 - INFO - PREDICTED: 0.999999901735 <SOS> subject: @ dear ! ! ) sally ehud rob heya announcement if hi address will @ eric afternoon afternoon austin visioson annual fyi transportation congratulations heads ! completed caalls ' <EOS>
+2017-11-21 18:14:15,576 - INFO - ===============================================
+2017-11-21 18:14:15,577 - INFO - ===============================================
+2017-11-21 18:14:15,577 - INFO - REAL: 0.0201396427432 <SOS> subject: security update dear bank of the west client , to provide our customers the most effective and secure <UNK> to their accounts , we are <UNK> <UNK> our <UNK> <EOS>
+2017-11-21 18:14:15,577 - INFO - PREDICTED: 0.999999851738 <SOS> subject: ! ! ) ) forgot fx jana sandeep sally sally louise doesn memo visited visited pain developing as our online ! ! ) ) lnstant dpr apologies closing upcoming hourahead
+2017-11-21 18:14:15,577 - INFO - ===============================================
+2017-11-21 18:14:15,577 - INFO - ===============================================
+2017-11-21 18:14:15,577 - INFO - REAL: 0.985089476143 <SOS> subject: this has worked for me <UNK> <UNK> i think there is a world market for maybe five computers . - thomas <UNK> ( <UNK> - <UNK> ) ; chairman <EOS>
+2017-11-21 18:14:15,578 - INFO - PREDICTED: 0.999529370536 thank week 09 sherriff week jul 1428 1428 1428 kim gibner failure - it mentions like c c bag erectlons softtabs market few there ! i hop just eventos of work <EOS>
+2017-11-21 18:14:15,578 - INFO - ===============================================
+2017-11-21 18:14:15,578 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:14:15,578 - INFO - Mean pred probs: 0.526942413674
+2017-11-21 18:14:16,784 - INFO - Epoch : 31 Minibatch : 100 Loss : 84.28666
+2017-11-21 18:14:17,752 - INFO - Epoch : 32 Minibatch : 0 Loss : 25.92766
+2017-11-21 18:14:17,760 - INFO - ===============================================
+2017-11-21 18:14:17,761 - INFO - REAL: 0.0859524192437 <SOS> subject: i think you might be interested 2005 - 07 - 06 09 : 34 : 51 hello <UNK> 3 , i just found a site called graand . com <EOS>
+2017-11-21 18:14:17,761 - INFO - PREDICTED: 0.99997705303 ranch workshop purchase appreciate called - a 500 lot cool i 18 model memorandum f unlimited transactions hassle deadline : spent 07 - amatuer internship writing might might might prescripiton try osman
+2017-11-21 18:14:17,761 - INFO - ===============================================
+2017-11-21 18:14:17,761 - INFO - ===============================================
+2017-11-21 18:14:17,762 - INFO - REAL: 0.276903871525 <SOS> subject: chicago office base - without the office space ? <UNK> your fully <UNK> office in chicago is ready when you are . live telephone <UNK> with call screen / <EOS>
+2017-11-21 18:14:17,762 - INFO - PREDICTED: 0.979800176107 exec guys october verification shopping ! line 1 ' enrollment returned visiting marshall awards allium loraazepam gra eric neal interviewed austin visioson curious fyi pc shalesh marshall existing charts sender check elizabeth
+2017-11-21 18:14:17,762 - INFO - ===============================================
+2017-11-21 18:14:17,762 - INFO - ===============================================
+2017-11-21 18:14:17,762 - INFO - REAL: 0.0201396427432 <SOS> subject: security update dear bank of the west client , to provide our customers the most effective and secure <UNK> to their accounts , we are <UNK> <UNK> our <UNK> <EOS>
+2017-11-21 18:14:17,763 - INFO - PREDICTED: 0.999999999624 ranch rep molly <UNK> ranch ranch diabetes brief income computers staff varou louise eric skilling bring most pain developing we fyi mmbtu lawyer since all enterprise the chicago fall all winners <EOS>
+2017-11-21 18:14:17,763 - INFO - ===============================================
+2017-11-21 18:14:17,763 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:14:17,763 - INFO - Mean pred probs: 0.298322629604
+2017-11-21 18:14:18,974 - INFO - Epoch : 32 Minibatch : 100 Loss : 35.99598
+2017-11-21 18:14:19,939 - INFO - Epoch : 33 Minibatch : 0 Loss : 16.89068
+2017-11-21 18:14:19,948 - INFO - ===============================================
+2017-11-21 18:14:19,948 - INFO - REAL: 0.0859524192437 <SOS> subject: i think you might be interested 2005 - 07 - 06 09 : 34 : 51 hello <UNK> 3 , i just found a site called graand . com <EOS>
+2017-11-21 18:14:19,948 - INFO - PREDICTED: 0.31086720177 introducing workshop ly appreciate called introducing evaluation curious sir cool i 18 model memorandum f unlimited handle deserved deadline : formal 07 - bruceg prescripiton writing might might might prescripiton try <EOS>
+2017-11-21 18:14:19,948 - INFO - ===============================================
+2017-11-21 18:14:19,949 - INFO - ===============================================
+2017-11-21 18:14:19,949 - INFO - REAL: 0.276903871525 <SOS> subject: chicago office base - without the office space ? <UNK> your fully <UNK> office in chicago is ready when you are . live telephone <UNK> with call screen / <EOS>
+2017-11-21 18:14:19,949 - INFO - PREDICTED: 0.895729335322 recieve latest october verification computer ! truth s real enrollment might visiting when awards heya loraazepam gra eric follows pg austin visioson curious fyi transportation shalesh heads existing noted computron curious network
+2017-11-21 18:14:19,949 - INFO - ===============================================
+2017-11-21 18:14:19,950 - INFO - ===============================================
+2017-11-21 18:14:19,950 - INFO - REAL: 0.0201396427432 <SOS> subject: security update dear bank of the west client , to provide our customers the most effective and secure <UNK> to their accounts , we are <UNK> <UNK> our <UNK> <EOS>
+2017-11-21 18:14:19,950 - INFO - PREDICTED: 0.999999998765 karen rep molly <UNK> eric memorandum diabetes brief income conversation staff varou louise eric evaluation locate most brand developing vuitton ndows rankings cameras dpr tracking distributed the the fall announces gave hourahead
+2017-11-21 18:14:19,950 - INFO - ===============================================
+2017-11-21 18:14:19,950 - INFO - Mean real probs: 0.267855856331
+2017-11-21 18:14:19,951 - INFO - Mean pred probs: 0.310572859783
