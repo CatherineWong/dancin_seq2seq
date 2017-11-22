@@ -119,8 +119,10 @@ class MultinomialNBDiscriminator(Discriminator):
         print "Mean_accuracy: %f" % mean_accuracy
         
         # ROC-AUC Score.
-        roc_auc = self.calculate_roc_auc(probs, labels)
-        print "ROC AUC: %f" % roc_auc
+        #roc_auc = self.calculate_roc_auc(probs, labels)
+        #print "ROC AUC: %f" % roc_auc
+        
+        return examples, labels, probs
     
     def get_adversarial_probs(self, examples):
         doc_terms = self.examples_to_term_doc(examples)

@@ -51,7 +51,7 @@ class DancinSeq2SeqAdversarial():
         self.dataset = dataset 
         self.vocab_size = len(self.dataset.vocab_encoder.word2index)
         self.pad_token_ind = self.dataset.vocab_encoder.word2index['<PAD>']
-        self.batch_size = 50
+        self.batch_size = 10
         
         # Initialize the models.
         self.adversarial_model = Seq2SeqAutoencoder(
@@ -121,7 +121,7 @@ class DancinSeq2SeqAdversarial():
         advantage = (reward - self.reward_baseline).detach() # Detach to avoid accumulating gradients.
 
         # Sum the log_probs of the sampled sentences over the timesteps:
-        max_probs, _ = decoder_logit.max(dim=-1)
+        max_probs, _unused = decoder_logit.max(dim=-1)
         sum_max_probs = max_probs.sum(dim=-1)
         
         reduced_loss = advantage * sum_max_probs
@@ -200,32 +200,40 @@ class DancinSeq2SeqAdversarial():
                 
                 if iter_ind % monitor_loss == 0:
                     logging.info('Epoch : %d Minibatch : %d Loss : %.5f' % (epoch, iter_ind, np.mean(losses)))
-                    del losses
                     losses = []
+                    
+                    # Memory check
+                    #print "NUM OBJECTS: " + str(len([obj for obj in gc.get_objects() if torch.is_tensor(obj) or (hasattr(obj, 'data') and torch.is_tensor(obj.data))]))
                 
                 if iter_ind % print_samples == 0:
                     # Print samples.
                     word_probs = decoder_indices.data.cpu().numpy()
                     output_lines_trg = input_lines_src.data.cpu().numpy()
-                    for sentence_pred, sentence_real in zip(word_probs[:5], output_lines_trg[:5]):
-                        decoded_real = dataset.vocab_encoder.decode_numpy(sentence_real[::-1])
-                        decoded_pred = dataset.vocab_encoder.decode_numpy(sentence_pred)
-                        
-                        logging.info('===============================================')
-                        logging.info("REAL: " + decoded_real)
-                        logging.info("PREDICTED: " + decoded_pred)
-                        logging.info('===============================================')
-                    # Evaluate the samples.
-                    real_probs = self.discriminator_model.get_adversarial_probs(output_lines_trg[:5])
-                    pred_probs = self.discriminator_model.get_adversarial_probs(word_probs[:5])
-                    logging.info("Real probs: " + str(real_probs))
-                    logging.info("Pred probs: " + str(pred_probs))
-                gc.collect()
+                    real_probs = self.discriminator_model.get_adversarial_probs(output_lines_trg[:10])
+                    pred_probs = self.discriminator_model.get_adversarial_probs(word_probs[:10])
+                    for sentence_pred, sentence_real, real_prob, pred_prob in zip(word_probs[:10], 
+                                                                                  output_lines_trg[:10],
+                                                                                  real_probs,
+                                                                                  pred_probs):
+                        if pred_prob > real_prob:
+                            decoded_real = dataset.vocab_encoder.decode_numpy(sentence_real[::-1])
+                            decoded_pred = dataset.vocab_encoder.decode_numpy(sentence_pred)
+
+                            logging.info('===============================================')
+                            logging.info("REAL: " + str(real_prob) + " " + decoded_real)
+                            logging.info("PREDICTED: " + str(pred_prob) + " " + decoded_pred)
+                            logging.info('===============================================')
+                            del decoded_real, decoded_pred
+                    # Evaluate the samples and print ones where the probability increased.
+                    
+                    logging.info("Mean real probs: " + str(np.mean(real_probs)))
+                    logging.info("Mean pred probs: " + str(np.mean(pred_probs)))
+                    del real_probs, pred_probs, word_probs, output_lines_trg
                 
                 del input_lines_src, reward, decoder_logit, decoder_indices
+                gc.collect()
             if epoch % write_checkpoint == 0:
                 self.save_model()
-            
         
     def evaluate(self, dataset, split, verbose=True):
         raise Exception("Not implemented")
@@ -251,7 +259,7 @@ if __name__ == "__main__":
     truncation_len=30
     adversarial_weight = adversarial_weights[-1] # The weight to give to "fooling" the discriminator
     autoencoder_weight = 1 - adversarial_weight
-    easy_dataset = False # Whether to use lower confidence spam.
+    easy_dataset = True # Whether to use lower confidence spam.
     
     experiment_name = "%d_trunc_%d_adv_%d_auto_%d_easy_dancin" % (truncation_len, 
                                                                   adversarial_weight*100, 
@@ -280,7 +288,7 @@ if __name__ == "__main__":
     
     # If True, use the easy spam dataset composed of lower confidence scores.
     if easy_dataset:
-        raise Exception("Not yet implemented: easy_datset")
+        spam_dataset = SpamDataset(truncation_len=truncation_len, encoded_files=['encoded_spam_low_conf.txt'])
     else:
         spam_dataset = SpamDataset(truncation_len=truncation_len, encoded_files=['encoded_spam.txt'])
     
@@ -304,7 +312,7 @@ if __name__ == "__main__":
     adversarial.train(
         dataset=spam_dataset, 
         epochs=1000, 
-        write_checkpoint=1,
-        monitor_loss=1000,
-        print_samples=1000)
-    checkpoint = adversarial.save_model(checkpoint_name=experiment_name)
+        write_checkpoint=100,
+        monitor_loss=100,
+        print_samples=100)
+    #checkpoint = adversarial.save_model(checkpoint_name=experiment_name)

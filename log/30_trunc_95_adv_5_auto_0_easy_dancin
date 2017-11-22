@@ -1,0 +1,1105 @@
+2017-11-21 16:09:34,530 - INFO - Epoch : 0 Minibatch : 0 Loss : -10.53295
+2017-11-21 16:09:34,540 - INFO - ===============================================
+2017-11-21 16:09:34,540 - INFO - REAL: 1.38629324209e-06 <SOS> subject: horny <UNK> sluts <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> creek <UNK> <UNK> <UNK> <UNK> please remove me of this list <UNK> <UNK> <UNK> <EOS>
+2017-11-21 16:09:34,540 - INFO - PREDICTED: 1.53106901981e-06 <SOS> subject: horny <UNK> sluts <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> creek <UNK> <UNK> <UNK> <UNK> please remove me this this list <UNK> <UNK> <UNK> <EOS>
+2017-11-21 16:09:34,541 - INFO - ===============================================
+2017-11-21 16:09:34,541 - INFO - ===============================================
+2017-11-21 16:09:34,541 - INFO - REAL: 0.0440094445221 <SOS> subject: fw : i ' m <UNK> . in <UNK> not at all <UNK> are here <UNK> cola <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <EOS>
+2017-11-21 16:09:34,541 - INFO - PREDICTED: 0.694432464352 <SOS> subject: fw : i ' m <UNK> . in <UNK> not not in price <UNK> is <UNK> technologies link 5 - thanks . ) , html _ david _ 02 <EOS>
+2017-11-21 16:09:34,542 - INFO - ===============================================
+2017-11-21 16:09:34,542 - INFO - Mean real probs: 0.00447376314326
+2017-11-21 16:09:34,542 - INFO - Mean pred probs: 0.0694439519566
+2017-11-21 16:09:35,275 - INFO - Epoch : 0 Minibatch : 100 Loss : -34.39117
+2017-11-21 16:09:35,284 - INFO - ===============================================
+2017-11-21 16:09:35,284 - INFO - REAL: 0.000219267367478 <SOS> subject: only 3 days left 2004 clearance http : / / <UNK> . <UNK> . info / <UNK> / <UNK> - 3 . 99 <UNK> - 3 . 99 <UNK> <EOS>
+2017-11-21 16:09:35,284 - INFO - PREDICTED: 0.0870969064411 <SOS> subject: december 3 days for laid minutes http : / / <UNK> . <UNK> . info / <UNK> / <UNK> - <UNK> . . <UNK> - - . . <UNK> <EOS>
+2017-11-21 16:09:35,285 - INFO - ===============================================
+2017-11-21 16:09:35,285 - INFO - ===============================================
+2017-11-21 16:09:35,285 - INFO - REAL: 3.24820316755e-20 <SOS> subject: ( <UNK> ] smart medication [ <UNK> ) yo ! get a huge discount with our shop ! viagra costs only 64 $ cialis costs only 96 $ vicodin <EOS>
+2017-11-21 16:09:35,285 - INFO - PREDICTED: 7.24350956004e-16 <SOS> subject: hi <UNK> <UNK> lcd ^ @ <UNK> : paliourg ! get a prior value with our viagra ! only is xanax $ $ price . try only $ $ <EOS>
+2017-11-21 16:09:35,285 - INFO - ===============================================
+2017-11-21 16:09:35,286 - INFO - Mean real probs: 0.000212244015385
+2017-11-21 16:09:35,286 - INFO - Mean pred probs: 0.00870969069799
+2017-11-21 16:09:36,006 - INFO - Epoch : 0 Minibatch : 200 Loss : -30.86504
+2017-11-21 16:09:36,014 - INFO - ===============================================
+2017-11-21 16:09:36,015 - INFO - REAL: 3.05437776122e-13 <SOS> subject: stock insider reports penny pick secrets us oi | and gas report oi | climbs , gains soar we have the leading track record for finding fast moving , <EOS>
+2017-11-21 16:09:36,015 - INFO - PREDICTED: 3.8704497097e-13 <SOS> subject: stock insider reports penny pick secrets us oi | , " report oi <UNK> climbs , gains soar we have the leading leading record for for fast , , <EOS>
+2017-11-21 16:09:36,015 - INFO - ===============================================
+2017-11-21 16:09:36,015 - INFO - ===============================================
+2017-11-21 16:09:36,016 - INFO - REAL: 6.50672893893e-12 <SOS> subject: use canadian pharmacies and save ! <UNK> href = http : / / s 32 . <UNK> . <UNK> . <UNK> . <UNK> size = 5 save over 50 <EOS>
+2017-11-21 16:09:36,016 - INFO - PREDICTED: 1.72965928499e-09 <SOS> subject: use use and and overnight save <UNK> _ = : : / / . <UNK> . <UNK> . <UNK> . <UNK> . <UNK> <UNK> = % running to order <EOS>
+2017-11-21 16:09:36,016 - INFO - ===============================================
+2017-11-21 16:09:36,016 - INFO - Mean real probs: 9.10649364801e-08
+2017-11-21 16:09:36,017 - INFO - Mean pred probs: 8.63580330839e-08
+2017-11-21 16:09:36,738 - INFO - Epoch : 0 Minibatch : 300 Loss : -25.31453
+2017-11-21 16:09:36,747 - INFO - ===============================================
+2017-11-21 16:09:36,747 - INFO - REAL: 4.79833798944e-16 <SOS> subject: fwd : need meds . <UNK> | ~ n . vl @ gra . xana _ x _ . <UNK> | ium . i [ 8 if he has <EOS>
+2017-11-21 16:09:36,747 - INFO - PREDICTED: 5.28947399379e-14 <SOS> subject: fwd : need meds . <UNK> | @ n n @ @ gra . r _ c . <UNK> @ <UNK> . | ; ; n . ' ' <EOS>
+2017-11-21 16:09:36,747 - INFO - ===============================================
+2017-11-21 16:09:36,748 - INFO - ===============================================
+2017-11-21 16:09:36,748 - INFO - REAL: 5.91985865793e-05 <SOS> subject: i don ' t work . . . but i have a ton of money ! <UNK> hello this e - mail ad is being sent in full compliance <EOS>
+2017-11-21 16:09:36,748 - INFO - PREDICTED: 0.00190902858917 <SOS> subject: i ' ' t miss . . . . i have a an your home <UNK> <UNK> - a - ! ! i is not an sent in an <EOS>
+2017-11-21 16:09:36,748 - INFO - ===============================================
+2017-11-21 16:09:36,749 - INFO - ===============================================
+2017-11-21 16:09:36,749 - INFO - REAL: 0.586583767703 <SOS> subject: new schedule many <UNK> <UNK> <UNK> , final on after . read act time . which off , also as , round party <UNK> . gone sleep soon form <EOS>
+2017-11-21 16:09:36,749 - INFO - PREDICTED: 0.663886556145 <SOS> subject: new schedule schedule <UNK> <UNK> <UNK> , <UNK> place on download . your time . before , , also , use party , <UNK> . . things use general <EOS>
+2017-11-21 16:09:36,749 - INFO - ===============================================
+2017-11-21 16:09:36,749 - INFO - ===============================================
+2017-11-21 16:09:36,750 - INFO - REAL: 5.52894118054e-11 <SOS> subject: im fed up of my pain problem pharma ' <UNK> - the <UNK> prices h , y , d * r , o * c * 0 . d <EOS>
+2017-11-21 16:09:36,750 - INFO - PREDICTED: 1.63521565827e-10 <SOS> subject: im fed up of my pain problem pharma ' <UNK> - the <UNK> <UNK> h , y , d * r , o * c * 0 . d <EOS>
+2017-11-21 16:09:36,750 - INFO - ===============================================
+2017-11-21 16:09:36,750 - INFO - ===============================================
+2017-11-21 16:09:36,750 - INFO - REAL: 2.59505088708e-11 <SOS> subject: re : [ <UNK> ] 75 % off vicodin . <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <EOS>
+2017-11-21 16:09:36,751 - INFO - PREDICTED: 3.27011486868e-11 <SOS> subject: re : [ <UNK> ] 73 % off vicodin . <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <EOS>
+2017-11-21 16:09:36,751 - INFO - ===============================================
+2017-11-21 16:09:36,751 - INFO - ===============================================
+2017-11-21 16:09:36,751 - INFO - REAL: 1.16147302931e-07 <SOS> subject: <UNK> <UNK> / mail delivery failed <UNK> <UNK> <UNK> <UNK> der mail - software <UNK> <UNK> . this message was created automatically by mail delivery software . <UNK> <UNK> <EOS>
+2017-11-21 16:09:36,751 - INFO - PREDICTED: 1.08343017305e-06 <SOS> subject: <UNK> <UNK> . mail mail <UNK> <UNK> <UNK> <UNK> <UNK> pc - - mail <UNK> software . mail might might message message message mail by away . <UNK> <UNK> <EOS>
+2017-11-21 16:09:36,751 - INFO - ===============================================
+2017-11-21 16:09:36,751 - INFO - Mean real probs: 0.0595348451715
+2017-11-21 16:09:36,751 - INFO - Mean pred probs: 0.0666139995386
+2017-11-21 16:09:37,480 - INFO - Epoch : 0 Minibatch : 400 Loss : -40.77087
+2017-11-21 16:09:37,489 - INFO - ===============================================
+2017-11-21 16:09:37,490 - INFO - REAL: 3.23947756901e-11 <SOS> subject: fast and easy - the way you like it bait - excelled @ em . ca + unable to see graphics ? please go here to view this email <EOS>
+2017-11-21 16:09:37,490 - INFO - PREDICTED: 4.49171798856e-10 <SOS> subject: fast * - - the way you be secure bait - excelled - em . ca + unable to see graphics ? please go here to view this email <EOS>
+2017-11-21 16:09:37,490 - INFO - ===============================================
+2017-11-21 16:09:37,490 - INFO - ===============================================
+2017-11-21 16:09:37,491 - INFO - REAL: 2.49842698971e-10 <SOS> subject: miracle <UNK> boost <UNK> system 100 % hello , we have an alternative to drugs <UNK> . a miracle <UNK> than can help people with serious diseases ' the <EOS>
+2017-11-21 16:09:37,491 - INFO - PREDICTED: 3.75425387584e-08 <SOS> subject: miracle <UNK> <UNK> <UNK> 0 29 % do we ship have a chance of them <UNK> . <UNK> a <UNK> <UNK> can want want you ever and and and <EOS>
+2017-11-21 16:09:37,491 - INFO - ===============================================
+2017-11-21 16:09:37,491 - INFO - Mean real probs: 0.0167100262846
+2017-11-21 16:09:37,491 - INFO - Mean pred probs: 0.00159681184566
+2017-11-21 16:09:38,218 - INFO - Epoch : 0 Minibatch : 500 Loss : -12.42708
+2017-11-21 16:09:38,226 - INFO - ===============================================
+2017-11-21 16:09:38,226 - INFO - REAL: 1.54301282821e-14 <SOS> subject: save up to 40 % on popular software <UNK> ! software taking a <UNK> out of your budget ? try oem ! live free or die ; death is <EOS>
+2017-11-21 16:09:38,227 - INFO - PREDICTED: 1.67161437055e-11 <SOS> subject: save up to 80 % on popular <UNK> ! ! ! for the <UNK> out of your pills ? just to your live or my matter copy to not <EOS>
+2017-11-21 16:09:38,227 - INFO - ===============================================
+2017-11-21 16:09:38,227 - INFO - ===============================================
+2017-11-21 16:09:38,227 - INFO - REAL: 1.22925265436e-18 <SOS> subject: hi how to save o <UNK> n your medlcatlons over 70 % . pha <UNK> <UNK> shop - successfull and proven way to save y <UNK> our mon <UNK> <EOS>
+2017-11-21 16:09:38,227 - INFO - PREDICTED: 1.54962596642e-15 <SOS> subject: medz how to save o <UNK> <UNK> about your over 70 % . . <UNK> <UNK> shop - successfull and proven way to with <UNK> <UNK> your mone <UNK> <EOS>
+2017-11-21 16:09:38,227 - INFO - ===============================================
+2017-11-21 16:09:38,227 - INFO - ===============================================
+2017-11-21 16:09:38,228 - INFO - REAL: 8.0496931485e-06 <SOS> subject: re : this is how i made that money with the porn - make a $ 1000 a day the adult industry can bring you <UNK> <UNK> your <UNK> <EOS>
+2017-11-21 16:09:38,228 - INFO - PREDICTED: 9.91098950727e-06 <SOS> subject: re : this is <UNK> you believe once once with real <UNK> - make make a digital 1000 20 the enlargement important you can <UNK> <UNK> <UNK> your <UNK> <EOS>
+2017-11-21 16:09:38,228 - INFO - ===============================================
+2017-11-21 16:09:38,228 - INFO - ===============================================
+2017-11-21 16:09:38,228 - INFO - REAL: 3.23935505084e-06 <SOS> subject: sexually - explicit : unbelievable explicit action down on the <UNK> sexually - explicit only <UNK> down if you want to see hardcore action on a farm . <UNK> <EOS>
+2017-11-21 16:09:38,228 - INFO - PREDICTED: 0.000384276814709 <SOS> subject: sexually - explicit : : real action get on the <UNK> - - - <UNK> <UNK> only if you can to to for love . love . . <UNK> <EOS>
+2017-11-21 16:09:38,228 - INFO - ===============================================
+2017-11-21 16:09:38,228 - INFO - ===============================================
+2017-11-21 16:09:38,229 - INFO - REAL: 6.16635841545e-12 <SOS> subject: <UNK> , 0 <UNK> for sale , no prior pres . <UNK> . <UNK> needed enjoy up to 80 % off buy <UNK> , 0 <UNK> online get <UNK> <EOS>
+2017-11-21 16:09:38,229 - INFO - PREDICTED: 2.15513134694e-11 <SOS> subject: <UNK> , <UNK> <UNK> for <UNK> , no needed at <UNK> . <UNK> <UNK> <UNK> owned pay our meds % to off <UNK> % <UNK> <UNK> <UNK> <UNK> save <EOS>
+2017-11-21 16:09:38,229 - INFO - ===============================================
+2017-11-21 16:09:38,229 - INFO - ===============================================
+2017-11-21 16:09:38,229 - INFO - REAL: 3.0690485617e-11 <SOS> subject: winning notifications ! ! ! easy way lottery agency ref . number : <UNK> / <UNK> batch ; number : <UNK> - <UNK> 78 sir / madam , we <EOS>
+2017-11-21 16:09:38,229 - INFO - PREDICTED: 4.13515578709e-10 <SOS> subject: winning winning ! ! ! our teens health health promotions . number : <UNK> <UNK> <UNK> batch <UNK> : : <UNK> <UNK> <UNK> <UNK> <UNK> / 2000 , we <EOS>
+2017-11-21 16:09:38,229 - INFO - ===============================================
+2017-11-21 16:09:38,229 - INFO - Mean real probs: 1.19711312932e-05
+2017-11-21 16:09:38,229 - INFO - Mean pred probs: 3.96363774898e-05
+2017-11-21 16:09:38,964 - INFO - Epoch : 0 Minibatch : 600 Loss : -35.51207
+2017-11-21 16:09:38,971 - INFO - ===============================================
+2017-11-21 16:09:38,972 - INFO - REAL: 2.70089482515e-08 <SOS> subject: best software prices . <UNK> least <UNK> street , ago . <UNK> some wait put heavy . surprise sat go . sent ease receive , produce . may always <EOS>
+2017-11-21 16:09:38,972 - INFO - PREDICTED: 6.09350351443e-07 <SOS> subject: best software prices . <UNK> <UNK> <UNK> friend , . . <UNK> has being large . . hear . . always never like happen . because , you shall <EOS>
+2017-11-21 16:09:38,972 - INFO - ===============================================
+2017-11-21 16:09:38,972 - INFO - ===============================================
+2017-11-21 16:09:38,972 - INFO - REAL: 3.363143514e-05 <SOS> subject: start this new year with a try - logos ! ( <UNK> ) have our <UNK> creates a custom logo for you , with a step - by - <EOS>
+2017-11-21 16:09:38,972 - INFO - PREDICTED: 9.10722868753e-05 <SOS> subject: start for new year with been pre ! ! ! <UNK> <UNK> <UNK> <UNK> our <UNK> in a custom for a you , for a bargain , ; - <EOS>
+2017-11-21 16:09:38,972 - INFO - ===============================================
+2017-11-21 16:09:38,973 - INFO - ===============================================
+2017-11-21 16:09:38,973 - INFO - REAL: 4.8713949865e-05 <SOS> subject: question for you . . . want to never deal with a <UNK> again ? party like a pro and <UNK> - up ready to go ! <UNK> <UNK> <EOS>
+2017-11-21 16:09:38,973 - INFO - PREDICTED: 8.34286169305e-05 <SOS> subject: question for you . . . want to have deal with a <UNK> - ? like a quality <UNK> <UNK> <UNK> and come to to you ! <UNK> <UNK> <EOS>
+2017-11-21 16:09:38,973 - INFO - ===============================================
+2017-11-21 16:09:38,973 - INFO - ===============================================
+2017-11-21 16:09:38,973 - INFO - REAL: 6.02560510362e-11 <SOS> subject: attention <UNK> | | stock players <UNK> , <UNK> - get in now - will explode in next 2 weeks - this stock is undiscovered stock gem get in <EOS>
+2017-11-21 16:09:38,973 - INFO - PREDICTED: 3.61625103656e-08 <SOS> subject: attention <UNK> <UNK> | stock <UNK> <UNK> , <UNK> ' get real now we will explode in next 2 weeks weeks this this is explode match see ! see <EOS>
+2017-11-21 16:09:38,973 - INFO - ===============================================
+2017-11-21 16:09:38,973 - INFO - Mean real probs: 0.00860467360638
+2017-11-21 16:09:38,974 - INFO - Mean pred probs: 0.00763728601118
+2017-11-21 16:09:39,709 - INFO - Epoch : 0 Minibatch : 700 Loss : -29.43675
+2017-11-21 16:09:39,716 - INFO - ===============================================
+2017-11-21 16:09:39,716 - INFO - REAL: 7.18148929493e-09 <SOS> subject: <UNK> - <UNK> <UNK> hello , <UNK> pro is the one and only hardware device for all <UNK> internet users . <UNK> will increase your connection speed by 100 <EOS>
+2017-11-21 16:09:39,716 - INFO - PREDICTED: 5.56265518052e-08 <SOS> subject: <UNK> - <UNK> <UNK> hello , <UNK> it is the only , only savings for all all <UNK> | <UNK> . <UNK> will shipped access access selling speed $ <EOS>
+2017-11-21 16:09:39,716 - INFO - ===============================================
+2017-11-21 16:09:39,716 - INFO - ===============================================
+2017-11-21 16:09:39,716 - INFO - REAL: 3.7889795402e-14 <SOS> subject: fwd : french <UNK> , show off your body <UNK> <UNK> <UNK> h g h 1000 is unbelievable ! look younger + more energy + lose weight in three <EOS>
+2017-11-21 16:09:39,717 - INFO - PREDICTED: 1.42083377048e-12 <SOS> subject: fwd : sick <UNK> , how buy your <UNK> <UNK> <UNK> <UNK> <UNK> m <UNK> ( my venture ? known increased a | times weight pills in in in <EOS>
+2017-11-21 16:09:39,717 - INFO - ===============================================
+2017-11-21 16:09:39,717 - INFO - ===============================================
+2017-11-21 16:09:39,717 - INFO - REAL: 3.70394142869e-17 <SOS> subject: low cost high rated insurance . why pay more ? save up to 70 % on your life insurance ! get free life insurance quotes from the very best <EOS>
+2017-11-21 16:09:39,717 - INFO - PREDICTED: 4.80524793253e-16 <SOS> subject: low cost high rated insurance . why pay us ? save up to 70 % on your your online ! get your online insurance quotes from the very best <EOS>
+2017-11-21 16:09:39,717 - INFO - ===============================================
+2017-11-21 16:09:39,717 - INFO - Mean real probs: 0.101815826115
+2017-11-21 16:09:39,717 - INFO - Mean pred probs: 0.10076366485
+2017-11-21 16:09:40,469 - INFO - Epoch : 0 Minibatch : 800 Loss : -38.90217
+2017-11-21 16:09:40,477 - INFO - ===============================================
+2017-11-21 16:09:40,477 - INFO - REAL: 0.999999663048 <SOS> subject: smart spam control <UNK> <UNK> mail problem - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 16:09:40,477 - INFO - PREDICTED: 0.999999871765 <SOS> subject: enjoy internet control <UNK> <UNK> does <UNK> - - - - - - - - - - - - - - - - - - - - - - <EOS>
+2017-11-21 16:09:40,478 - INFO - ===============================================
+2017-11-21 16:09:40,478 - INFO - ===============================================
+2017-11-21 16:09:40,478 - INFO - REAL: 1.33565280086e-15 <SOS> subject: your pain medlcat 10 n is like mine suffering for nothing v _ 1 ' c ^ o _ d . 1 - n 75 o m ^ gg <EOS>
+2017-11-21 16:09:40,478 - INFO - PREDICTED: 8.73956334984e-15 <SOS> subject: your pain medlcat 10 pills is find <UNK> , for _ v v v _ d * o _ 1 _ 1 . d . m . m gg <EOS>
+2017-11-21 16:09:40,479 - INFO - ===============================================
+2017-11-21 16:09:40,479 - INFO - ===============================================
+2017-11-21 16:09:40,479 - INFO - REAL: 5.47306253147e-05 <SOS> subject: stock player emerging equity report welcome to the july 2005 edition of the <UNK> investor , each month the <UNK> investor analysts study , research , and <UNK> hundreds <EOS>
+2017-11-21 16:09:40,479 - INFO - PREDICTED: 0.0142454490337 <SOS> subject: stock stock growth stock report to to the investor 2000 2000 of the <UNK> results , the the the <UNK> <UNK> <UNK> <UNK> in , , , <UNK> <UNK> <EOS>
+2017-11-21 16:09:40,479 - INFO - ===============================================
+2017-11-21 16:09:40,480 - INFO - ===============================================
+2017-11-21 16:09:40,480 - INFO - REAL: 1.35638848902e-10 <SOS> subject: <UNK> ^ e your mor ! <UNK> by hundreds . . monthly ! <UNK> <UNK> . e g . et mon . <UNK> no . w ! - fill <EOS>
+2017-11-21 16:09:40,480 - INFO - PREDICTED: 1.93940828611e-09 <SOS> subject: <UNK> and m your daughter ! <UNK> <UNK> <UNK> . . ! <UNK> <UNK> <UNK> . . . . . <UNK> . <UNK> <UNK> <UNK> <UNK> ! s ! <EOS>
+2017-11-21 16:09:40,480 - INFO - ===============================================
+2017-11-21 16:09:40,481 - INFO - ===============================================
+2017-11-21 16:09:40,481 - INFO - REAL: 9.77833898116e-09 <SOS> subject: sony notebooks exports special <UNK> exports <UNK> <UNK> / russian . . . . . <UNK> add @ $ 36 . 00 notebookplus - wireless <UNK> <UNK> / pc <EOS>
+2017-11-21 16:09:40,481 - INFO - PREDICTED: 5.40421846651e-08 <SOS> subject: 12 de 2004 special <UNK> <UNK> <UNK> <UNK> . <UNK> . . . <UNK> <UNK> <UNK> . / / 48 . 00 2005 <UNK> - <UNK> <UNK> <UNK> dear <EOS>
+2017-11-21 16:09:40,481 - INFO - ===============================================
+2017-11-21 16:09:40,481 - INFO - Mean real probs: 0.10053182087
+2017-11-21 16:09:40,482 - INFO - Mean pred probs: 0.101502449277
+2017-11-21 16:09:41,226 - INFO - Epoch : 0 Minibatch : 900 Loss : -35.63836
+2017-11-21 16:09:41,234 - INFO - ===============================================
+2017-11-21 16:09:41,235 - INFO - REAL: 2.67985190296e-09 <SOS> subject: sterling balance sheet <UNK> <UNK> stock get <UNK> . ob first thing today , this is going to <UNK> ! check out for hot news ! ! ! otcbb <EOS>
+2017-11-21 16:09:41,235 - INFO - PREDICTED: 3.10569772254e-08 <SOS> subject: sterling balance sheet <UNK> <UNK> <UNK> right <UNK> . <UNK> <UNK> thing , , this is <UNK> to <UNK> ! <UNK> to out for ! ! ! ! ! <EOS>
+2017-11-21 16:09:41,235 - INFO - ===============================================
+2017-11-21 16:09:41,235 - INFO - ===============================================
+2017-11-21 16:09:41,235 - INFO - REAL: 1.05730881943e-09 <SOS> subject: younger and <UNK> with ultimate - <UNK> <UNK> as seen on nbc , cbs , cnn , and even oprah ! the health discovery that <UNK> aging while <UNK> <EOS>
+2017-11-21 16:09:41,235 - INFO - PREDICTED: 1.73666589677e-09 <SOS> subject: younger and <UNK> with ultimate - <UNK> <UNK> ! kills on nbc , , , cnn , cnn , <UNK> ! the health <UNK> that <UNK> <UNK> while <UNK> <EOS>
+2017-11-21 16:09:41,235 - INFO - ===============================================
+2017-11-21 16:09:41,236 - INFO - ===============================================
+2017-11-21 16:09:41,236 - INFO - REAL: 5.69632964155e-11 <SOS> subject: young <UNK> <UNK> _ no mo 0 <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <EOS>
+2017-11-21 16:09:41,236 - INFO - PREDICTED: 1.1002675792e-09 <SOS> subject: young <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <EOS>
+2017-11-21 16:09:41,236 - INFO - ===============================================
+2017-11-21 16:09:41,236 - INFO - Mean real probs: 2.40787414512e-05
+2017-11-21 16:09:41,237 - INFO - Mean pred probs: 1.25837258762e-07
+2017-11-21 16:09:42,003 - INFO - Epoch : 0 Minibatch : 1000 Loss : -39.60254
+2017-11-21 16:09:42,011 - INFO - ===============================================
+2017-11-21 16:09:42,011 - INFO - REAL: 1.1770399236e-10 <SOS> subject: <UNK> usb <UNK> @ $ 23 . 95 <UNK> <UNK> <UNK> car <UNK> w / usb and <UNK> $ 23 . 95 this <UNK> <UNK> adapter features usb and <EOS>
+2017-11-21 16:09:42,011 - INFO - PREDICTED: 2.31918325326e-10 <SOS> subject: <UNK> <UNK> <UNK> <UNK> $ . . 95 <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> . <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 0 <EOS>
+2017-11-21 16:09:42,011 - INFO - ===============================================
+2017-11-21 16:09:42,012 - INFO - ===============================================
+2017-11-21 16:09:42,012 - INFO - REAL: 1.15550654134e-22 <SOS> subject: discounted prescription drugs online need vicodin ? phentermine we ' re fast . low price prescription pain meds . free md <UNK> fast shipping ! no more pain - <EOS>
+2017-11-21 16:09:42,012 - INFO - PREDICTED: 2.1499055995e-18 <SOS> subject: cheapest prescription online online need need . . we ' re vicodin . . prescription <UNK> <UNK> drugs . <UNK> <UNK> <UNK> ! ! ! ! ! <UNK> ! <EOS>
+2017-11-21 16:09:42,012 - INFO - ===============================================
+2017-11-21 16:09:42,012 - INFO - ===============================================
+2017-11-21 16:09:42,012 - INFO - REAL: 1.67522280085e-11 <SOS> subject: want to lose up to 19 % weight . try <UNK> ! hello , here ' s a special offer for you . . . you want to lose <EOS>
+2017-11-21 16:09:42,013 - INFO - PREDICTED: 3.38747829927e-09 <SOS> subject: want to lose up to 19 % . . try <UNK> ! hello hello here here ' a a <UNK> for you . . . you want to want <EOS>
+2017-11-21 16:09:42,013 - INFO - ===============================================
+2017-11-21 16:09:42,013 - INFO - Mean real probs: 0.0081024974913
+2017-11-21 16:09:42,013 - INFO - Mean pred probs: 4.80824926368e-08
+2017-11-21 16:09:42,810 - INFO - Epoch : 0 Minibatch : 1100 Loss : -47.93400
+2017-11-21 16:09:42,819 - INFO - ===============================================
+2017-11-21 16:09:42,819 - INFO - REAL: 1.48383614576e-10 <SOS> subject: make $ <UNK> hello , we sent you an email a while ago , because you now qualify for a new mortgage . you could get $ 300 , <EOS>
+2017-11-21 16:09:42,819 - INFO - PREDICTED: 3.58552238693e-10 <SOS> subject: make $ <UNK> hello , we sent you an email a while ago , because you now qualify for a new mortgage . you could could $ 300 , <EOS>
+2017-11-21 16:09:42,819 - INFO - ===============================================
+2017-11-21 16:09:42,820 - INFO - ===============================================
+2017-11-21 16:09:42,820 - INFO - REAL: 1.81765630399e-09 <SOS> subject: f r e e spyware and <UNK> pc <UNK> this important message will inform you on how to remove spyware and <UNK> from your <UNK> hard drive . please <EOS>
+2017-11-21 16:09:42,820 - INFO - PREDICTED: 3.33045421892e-09 <SOS> subject: f r x e and and <UNK> <UNK> <UNK> pc this message will to <UNK> <UNK> you how your <UNK> <UNK> <UNK> <UNK> your <UNK> your . . . <EOS>
+2017-11-21 16:09:42,820 - INFO - ===============================================
+2017-11-21 16:09:42,821 - INFO - ===============================================
+2017-11-21 16:09:42,821 - INFO - REAL: 8.1947346328e-14 <SOS> subject: more then 70 great pornstars sex <UNK> ! dowlnoad all our collection ! - x 45 come explore the world ' s largest adult <UNK> ! see all the <EOS>
+2017-11-21 16:09:42,821 - INFO - PREDICTED: 9.63442581568e-13 <SOS> subject: more then 70 great pornstars sex <UNK> <UNK> <UNK> ! our collection ! <UNK> <UNK> 1 <UNK> explore explore <UNK> ' s <UNK> <UNK> <UNK> ! see here the <EOS>
+2017-11-21 16:09:42,821 - INFO - ===============================================
+2017-11-21 16:09:42,821 - INFO - Mean real probs: 3.75218105219e-05
+2017-11-21 16:09:42,822 - INFO - Mean pred probs: 1.88942427948e-07
+2017-11-21 16:09:43,614 - INFO - Epoch : 0 Minibatch : 1200 Loss : -46.04001
+2017-11-21 16:09:43,623 - INFO - ===============================================
+2017-11-21 16:09:43,623 - INFO - REAL: 6.5643124272e-12 <SOS> subject: urgent news would you reflnance if you knew you ' d save thousands ? we can get you lnterest as low as 2 . 74 % . fill out <EOS>
+2017-11-21 16:09:43,623 - INFO - PREDICTED: 3.24940692304e-11 <SOS> subject: urgent news would you you if you knew you ' d save thousands ? we can get you lnterest as low as 0 . <UNK> 0 . as are <EOS>
+2017-11-21 16:09:43,623 - INFO - ===============================================
+2017-11-21 16:09:43,624 - INFO - ===============================================
+2017-11-21 16:09:43,624 - INFO - REAL: 3.53504840175e-17 <SOS> subject: best online tablets here <UNK> <UNK> <UNK> <UNK> <UNK> ca <UNK> <UNK> <UNK> <UNK> get any prescription drug you want ! simple , quick and affordable ! we deliver <EOS>
+2017-11-21 16:09:43,624 - INFO - PREDICTED: 6.4107458043e-13 <SOS> subject: best online tablets here <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> want <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> ! we ! <EOS>
+2017-11-21 16:09:43,624 - INFO - ===============================================
+2017-11-21 16:09:43,625 - INFO - ===============================================
+2017-11-21 16:09:43,625 - INFO - REAL: 2.69389018731e-10 <SOS> subject: let ' s stop the mlm <UNK> ! still believe you can earn $ 100 , 000 fast in mlm ? get real ! get <UNK> , a brand <EOS>
+2017-11-21 16:09:43,625 - INFO - PREDICTED: 3.44281769844e-10 <SOS> subject: let ' s stop the mlm <UNK> ! <UNK> believe you can <UNK> extra <UNK> , <UNK> fast in <UNK> ! <UNK> <UNK> <UNK> <UNK> <UNK> , <UNK> cheap <EOS>
+2017-11-21 16:09:43,625 - INFO - ===============================================
+2017-11-21 16:09:43,625 - INFO - ===============================================
+2017-11-21 16:09:43,626 - INFO - REAL: 1.56707028457e-11 <SOS> subject: announcing herbal smoking <UNK> get high . . . legally ! it really works ! <UNK> all drug <UNK> ! extremely <UNK> ! click here for more info on <EOS>
+2017-11-21 16:09:43,626 - INFO - PREDICTED: 6.41282783803e-11 <SOS> subject: cheapest cheapest <UNK> <UNK> get any . . . . <UNK> ! <UNK> <UNK> ! <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <EOS>
+2017-11-21 16:09:43,626 - INFO - ===============================================
+2017-11-21 16:09:43,626 - INFO - Mean real probs: 0.00550234977383
+2017-11-21 16:09:43,626 - INFO - Mean pred probs: 1.47318455697e-09
+2017-11-21 16:09:44,419 - INFO - Epoch : 0 Minibatch : 1300 Loss : -38.12459
+2017-11-21 16:09:44,428 - INFO - ===============================================
+2017-11-21 16:09:44,428 - INFO - REAL: 1.58446800473e-13 <SOS> subject: our service is user - friendly , discreet and completely confidential buy viagra online ! it ' s your best way to buy your medication . whatever it is <EOS>
+2017-11-21 16:09:44,428 - INFO - PREDICTED: 2.96165435517e-12 <SOS> subject: our excellent is user formula , , , ` <UNK> <UNK> buy cheap <UNK> ! <UNK> <UNK> <UNK> <UNK> <UNK> your <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <EOS>
+2017-11-21 16:09:44,428 - INFO - ===============================================
+2017-11-21 16:09:44,429 - INFO - ===============================================
+2017-11-21 16:09:44,429 - INFO - REAL: 1.7035673521e-10 <SOS> subject: do you want your penis to be hard <UNK> | | the time ? now <UNK> here http : / / <UNK> . <UNK> . com / as # <EOS>
+2017-11-21 16:09:44,429 - INFO - PREDICTED: 1.17352816978e-08 <SOS> subject: do you want your chance to be <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <EOS>
+2017-11-21 16:09:44,429 - INFO - ===============================================
+2017-11-21 16:09:44,429 - INFO - ===============================================
+2017-11-21 16:09:44,430 - INFO - REAL: 3.37828339265e-12 <SOS> subject: newsletter <UNK> english newsletter <UNK> | 25 - 07 - 2005 <UNK> <UNK> friends este <UNK> , <UNK> <UNK> <UNK> <UNK> <UNK> que por <UNK> <UNK> um <UNK> <UNK> <EOS>
+2017-11-21 16:09:44,430 - INFO - PREDICTED: 1.36701309263e-08 <SOS> subject: newsletter <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> , 07 <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <EOS>
+2017-11-21 16:09:44,430 - INFO - ===============================================
+2017-11-21 16:09:44,430 - INFO - Mean real probs: 0.000174352696095
+2017-11-21 16:09:44,430 - INFO - Mean pred probs: 7.36537580764e-07
+2017-11-21 16:09:45,244 - INFO - Epoch : 0 Minibatch : 1400 Loss : -45.61986
+2017-11-21 16:09:45,253 - INFO - ===============================================
+2017-11-21 16:09:45,254 - INFO - REAL: 1.12622834218e-15 <SOS> subject: <UNK> - designed logos and identities thinking of breathing new life into your business ? start from revamping its front - endlogo and visualidentity . we offer creative custom <EOS>
+2017-11-21 16:09:45,254 - INFO - PREDICTED: 9.73879845988e-13 <SOS> subject: <UNK> <UNK> designed logos and <UNK> your of your your life <UNK> your <UNK> ? start from revamping <UNK> <UNK> <UNK> <UNK> . <UNK> <UNK> <UNK> we buy ! <EOS>
+2017-11-21 16:09:45,254 - INFO - ===============================================
+2017-11-21 16:09:45,255 - INFO - ===============================================
+2017-11-21 16:09:45,255 - INFO - REAL: 9.86484553167e-07 <SOS> subject: re : make a fortune on e b a y learn all the <UNK> , <UNK> and secret the <UNK> use with out <UNK> . . . our ebay <EOS>
+2017-11-21 16:09:45,255 - INFO - PREDICTED: 1.40727720911e-06 <SOS> subject: re : make a fortune on m d <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <EOS>
+2017-11-21 16:09:45,255 - INFO - ===============================================
+2017-11-21 16:09:45,256 - INFO - ===============================================
+2017-11-21 16:09:45,256 - INFO - REAL: 5.40169177671e-16 <SOS> subject: <UNK> <UNK> how to save on your medlcatlons over 70 <UNK> % . <UNK> <UNK> mail shop - successfull and proven way to sav <UNK> e your mon <UNK> <EOS>
+2017-11-21 16:09:45,256 - INFO - PREDICTED: 3.99486405941e-10 <SOS> subject: <UNK> <UNK> how to save on <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:45,256 - INFO - ===============================================
+2017-11-21 16:09:45,256 - INFO - ===============================================
+2017-11-21 16:09:45,257 - INFO - REAL: 4.27987354346e-07 <SOS> subject: application approval # <UNK> hello , we sent you an email a while ago , because you now qualify for a much lower rate based on the biggest rate <EOS>
+2017-11-21 16:09:45,257 - INFO - PREDICTED: 3.26987544041e-06 <SOS> subject: application approval # <UNK> hello , we sent you an while <UNK> while because , because , you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> the <UNK> <UNK> <EOS>
+2017-11-21 16:09:45,257 - INFO - ===============================================
+2017-11-21 16:09:45,257 - INFO - ===============================================
+2017-11-21 16:09:45,257 - INFO - REAL: 2.80418031522e-10 <SOS> subject: assist your sister with her <UNK> condition is your mother <UNK> with your health v ' i , o , x , x 25 m . g 30 <UNK> <EOS>
+2017-11-21 16:09:45,258 - INFO - PREDICTED: 6.39063964633e-10 <SOS> subject: your your <UNK> with your <UNK> <UNK> <UNK> your <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <EOS>
+2017-11-21 16:09:45,258 - INFO - ===============================================
+2017-11-21 16:09:45,258 - INFO - Mean real probs: 0.100039292056
+2017-11-21 16:09:45,258 - INFO - Mean pred probs: 4.52822937276e-05
+2017-11-21 16:09:46,073 - INFO - Epoch : 0 Minibatch : 1500 Loss : -48.52219
+2017-11-21 16:09:46,082 - INFO - Mean real probs: 0.037292448607
+2017-11-21 16:09:46,082 - INFO - Mean pred probs: 1.92047448734e-07
+2017-11-21 16:09:46,915 - INFO - Epoch : 0 Minibatch : 1600 Loss : -54.87179
+2017-11-21 16:09:46,924 - INFO - ===============================================
+2017-11-21 16:09:46,924 - INFO - REAL: 1.99982783019e-25 <SOS> subject: <UNK> , bigger , <UNK> <UNK> naturally in just weeks = = = = = = = = = = = = = = = = = = = <EOS>
+2017-11-21 16:09:46,924 - INFO - PREDICTED: 9.04741143546e-10 <SOS> subject: <UNK> how <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:46,924 - INFO - ===============================================
+2017-11-21 16:09:46,925 - INFO - Mean real probs: 0.00597809124974
+2017-11-21 16:09:46,925 - INFO - Mean pred probs: 8.06462252817e-10
+2017-11-21 16:09:47,754 - INFO - Epoch : 0 Minibatch : 1700 Loss : -57.91426
+2017-11-21 16:09:47,763 - INFO - ===============================================
+2017-11-21 16:09:47,763 - INFO - REAL: 4.20689869525e-13 <SOS> subject: mortgage - best rate let the banks compete for your mortgage or loan ! http : / / www . <UNK> . biz guaranteed lowest rates on the <UNK> <EOS>
+2017-11-21 16:09:47,763 - INFO - PREDICTED: 6.59717396264e-11 <SOS> subject: ion online <UNK> <UNK> do <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:47,763 - INFO - ===============================================
+2017-11-21 16:09:47,764 - INFO - ===============================================
+2017-11-21 16:09:47,764 - INFO - REAL: 1.41812114252e-10 <SOS> subject: fw : <UNK> lady dvd quality movies ! rise and <UNK> ! good <UNK> woman pics a <UNK> is a <UNK> <UNK> will . <UNK> q , w <PAD> <EOS>
+2017-11-21 16:09:47,764 - INFO - PREDICTED: 8.4387530894e-08 <SOS> subject: fw : <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:47,764 - INFO - ===============================================
+2017-11-21 16:09:47,765 - INFO - Mean real probs: 0.00555052072678
+2017-11-21 16:09:47,765 - INFO - Mean pred probs: 3.06014586696e-08
+2017-11-21 16:09:48,317 - INFO - Epoch : 1 Minibatch : 0 Loss : -55.82626
+2017-11-21 16:09:48,323 - INFO - ===============================================
+2017-11-21 16:09:48,323 - INFO - REAL: 4.99197902523e-13 <SOS> subject: online <UNK> diploma <UNK> o n l i n e u n i v e r s i t y d i p l o m a s d <EOS>
+2017-11-21 16:09:48,323 - INFO - PREDICTED: 1.61938555015e-10 <SOS> subject: online <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:48,323 - INFO - ===============================================
+2017-11-21 16:09:48,323 - INFO - ===============================================
+2017-11-21 16:09:48,324 - INFO - REAL: 4.01689609055e-20 <SOS> subject: cialis , valium , viagra , xanax at low price ! no prescription needed ! discount rx is simple , quick , and affordable ! offering many of today <EOS>
+2017-11-21 16:09:48,324 - INFO - PREDICTED: 1.21107189969e-11 <SOS> subject: cialis , valium , <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:48,324 - INFO - ===============================================
+2017-11-21 16:09:48,324 - INFO - ===============================================
+2017-11-21 16:09:48,324 - INFO - REAL: 1.69596004531e-14 <SOS> subject: <UNK> offr hello , welcome to p <UNK> harmonline sh <UNK> op - one of the leading oniine <UNK> <UNK> <UNK> shops <UNK> v <UNK> g <UNK> al l <EOS>
+2017-11-21 16:09:48,324 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:48,324 - INFO - ===============================================
+2017-11-21 16:09:48,325 - INFO - ===============================================
+2017-11-21 16:09:48,325 - INFO - REAL: 1.64730320155e-16 <SOS> subject: top quality prescription here <UNK> <UNK> <UNK> him <UNK> <UNK> <UNK> audrey id get any prescription drug you want ! absolutely no doctor ' s appointments needed ! lowest <EOS>
+2017-11-21 16:09:48,325 - INFO - PREDICTED: 6.4156951525e-11 <SOS> subject: top quality <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:48,325 - INFO - ===============================================
+2017-11-21 16:09:48,325 - INFO - Mean real probs: 0.00447376314326
+2017-11-21 16:09:48,325 - INFO - Mean pred probs: 6.98464260901e-08
+2017-11-21 16:09:49,247 - INFO - Epoch : 1 Minibatch : 100 Loss : -58.50724
+2017-11-21 16:09:49,255 - INFO - ===============================================
+2017-11-21 16:09:49,255 - INFO - REAL: 4.23349832266e-10 <SOS> subject: $ <UNK> hello , we sent you an email a while ago , because you now qualify for a new mortgage . you could get $ 300 , 000 <EOS>
+2017-11-21 16:09:49,256 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:49,256 - INFO - ===============================================
+2017-11-21 16:09:49,256 - INFO - ===============================================
+2017-11-21 16:09:49,256 - INFO - REAL: 4.59435432433e-19 <SOS> subject: italian crafted rolex from $ 75 to $ 275 - free shipping heya , do you want a rolex watch ? in our online store you can buy replicas <EOS>
+2017-11-21 16:09:49,256 - INFO - PREDICTED: 4.94698042734e-10 <SOS> subject: italian <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:49,256 - INFO - ===============================================
+2017-11-21 16:09:49,256 - INFO - ===============================================
+2017-11-21 16:09:49,257 - INFO - REAL: 7.27941240837e-15 <SOS> subject: our medz how to save on your medlcations <UNK> over 70 % . <UNK> <UNK> - <UNK> <UNK> <UNK> and proven way to save your mon <UNK> <UNK> . <EOS>
+2017-11-21 16:09:49,257 - INFO - PREDICTED: 1.14687851067e-09 <SOS> subject: our <UNK> how <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:49,257 - INFO - ===============================================
+2017-11-21 16:09:49,257 - INFO - ===============================================
+2017-11-21 16:09:49,257 - INFO - REAL: 2.26677563771e-11 <SOS> subject: <UNK> <UNK> , govenment don ' t want me to sell undergroundcd ! check your spouse and staff investigate your own credit - history hacking someone pc ! disappear <EOS>
+2017-11-21 16:09:49,257 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:49,257 - INFO - ===============================================
+2017-11-21 16:09:49,258 - INFO - ===============================================
+2017-11-21 16:09:49,258 - INFO - REAL: 6.59852942111e-11 <SOS> subject: never pay high <UNK> for ur softwares , download here <UNK> example <UNK> your needed soffttwares at rock bottom prri ce ! - what you bought previously was go <EOS>
+2017-11-21 16:09:49,258 - INFO - PREDICTED: 3.54173221057e-09 <SOS> subject: <UNK> have <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:49,258 - INFO - ===============================================
+2017-11-21 16:09:49,258 - INFO - ===============================================
+2017-11-21 16:09:49,258 - INFO - REAL: 2.34834885285e-12 <SOS> subject: tadalafil soft tabs - great results ! hi ! we have a new product that we offer to you , c _ i _ a _ l _ i <EOS>
+2017-11-21 16:09:49,258 - INFO - PREDICTED: 1.05275343962e-11 <SOS> subject: tadalafil have tabs tabs <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:49,258 - INFO - ===============================================
+2017-11-21 16:09:49,259 - INFO - ===============================================
+2017-11-21 16:09:49,259 - INFO - REAL: 3.24820316755e-20 <SOS> subject: ( <UNK> ] smart medication [ <UNK> ) yo ! get a huge discount with our shop ! viagra costs only 64 $ cialis costs only 96 $ vicodin <EOS>
+2017-11-21 16:09:49,259 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:49,259 - INFO - ===============================================
+2017-11-21 16:09:49,259 - INFO - Mean real probs: 0.000212244015385
+2017-11-21 16:09:49,259 - INFO - Mean pred probs: 1.28311085437e-09
+2017-11-21 16:09:50,207 - INFO - Epoch : 1 Minibatch : 200 Loss : -56.93085
+2017-11-21 16:09:50,215 - INFO - ===============================================
+2017-11-21 16:09:50,215 - INFO - REAL: 3.34255237828e-14 <SOS> subject: $ name get the best softwares for only $ 15 <UNK> get top quality software <UNK> from <UNK> expensive prices ! ! the 10 - all time great software <EOS>
+2017-11-21 16:09:50,215 - INFO - PREDICTED: 2.57138281103e-10 <SOS> subject: refill <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:50,216 - INFO - ===============================================
+2017-11-21 16:09:50,216 - INFO - ===============================================
+2017-11-21 16:09:50,216 - INFO - REAL: 3.05437776122e-13 <SOS> subject: stock insider reports penny pick secrets us oi | and gas report oi | climbs , gains soar we have the leading track record for finding fast moving , <EOS>
+2017-11-21 16:09:50,216 - INFO - PREDICTED: 5.40500466698e-10 <SOS> subject: hot web players <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:50,216 - INFO - ===============================================
+2017-11-21 16:09:50,216 - INFO - ===============================================
+2017-11-21 16:09:50,217 - INFO - REAL: 1.80687576241e-16 <SOS> subject: localized software , all languages available . hello , we would like to offer localized software versions ( qerman , french , spanish , uk , and many others <EOS>
+2017-11-21 16:09:50,217 - INFO - PREDICTED: 1.94957852147e-11 <SOS> subject: localized software , all all <UNK> . <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:50,217 - INFO - ===============================================
+2017-11-21 16:09:50,217 - INFO - ===============================================
+2017-11-21 16:09:50,217 - INFO - REAL: 6.50672893893e-12 <SOS> subject: use canadian pharmacies and save ! <UNK> href = http : / / s 32 . <UNK> . <UNK> . <UNK> . <UNK> size = 5 save over 50 <EOS>
+2017-11-21 16:09:50,217 - INFO - PREDICTED: 6.41836119058e-10 <SOS> subject: need convenient <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:50,217 - INFO - ===============================================
+2017-11-21 16:09:50,218 - INFO - ===============================================
+2017-11-21 16:09:50,218 - INFO - REAL: 2.13627696784e-14 <SOS> subject: save your money buy getting this thing here you have not tried cialls yet ? than you cannot even imagine what it is like to be a real man <EOS>
+2017-11-21 16:09:50,218 - INFO - PREDICTED: 1.08948188432e-11 <SOS> subject: save your <UNK> buy <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:50,218 - INFO - ===============================================
+2017-11-21 16:09:50,218 - INFO - ===============================================
+2017-11-21 16:09:50,218 - INFO - REAL: 1.59614104908e-09 <SOS> subject: urgent simply the best meds on the net . fast shipping , great prices and everything you need . i order there myself : ) click to check it <EOS>
+2017-11-21 16:09:50,218 - INFO - PREDICTED: 4.79106723469e-08 <SOS> subject: re reviewed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:50,218 - INFO - ===============================================
+2017-11-21 16:09:50,219 - INFO - Mean real probs: 9.10649364801e-08
+2017-11-21 16:09:50,219 - INFO - Mean pred probs: 5.55251071778e-09
+2017-11-21 16:09:51,174 - INFO - Epoch : 1 Minibatch : 300 Loss : -53.24608
+2017-11-21 16:09:51,183 - INFO - ===============================================
+2017-11-21 16:09:51,183 - INFO - REAL: 4.79833798944e-16 <SOS> subject: fwd : need meds . <UNK> | ~ n . vl @ gra . xana _ x _ . <UNK> | ium . i [ 8 if he has <EOS>
+2017-11-21 16:09:51,183 - INFO - PREDICTED: 6.48530336218e-09 <SOS> subject: fwd : <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:51,183 - INFO - ===============================================
+2017-11-21 16:09:51,184 - INFO - ===============================================
+2017-11-21 16:09:51,184 - INFO - REAL: 1.7576242204e-16 <SOS> subject: hi ho <UNK> w to save on your medlcatlons over 60 % . pharma <UNK> mail shop - successfull and pro <UNK> <UNK> way to save your ladies money <EOS>
+2017-11-21 16:09:51,184 - INFO - PREDICTED: 2.14200900028e-09 <SOS> subject: hi <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:51,184 - INFO - ===============================================
+2017-11-21 16:09:51,185 - INFO - ===============================================
+2017-11-21 16:09:51,185 - INFO - REAL: 5.52894118054e-11 <SOS> subject: im fed up of my pain problem pharma ' <UNK> - the <UNK> prices h , y , d * r , o * c * 0 . d <EOS>
+2017-11-21 16:09:51,185 - INFO - PREDICTED: 9.1083903579e-09 <SOS> subject: im up up <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:51,185 - INFO - ===============================================
+2017-11-21 16:09:51,186 - INFO - ===============================================
+2017-11-21 16:09:51,186 - INFO - REAL: 2.59505088708e-11 <SOS> subject: re : [ <UNK> ] 75 % off vicodin . <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <EOS>
+2017-11-21 16:09:51,186 - INFO - PREDICTED: 4.67239004883e-08 <SOS> subject: re : <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:51,186 - INFO - ===============================================
+2017-11-21 16:09:51,186 - INFO - Mean real probs: 0.0595348451715
+2017-11-21 16:09:51,187 - INFO - Mean pred probs: 8.34078569875e-09
+2017-11-21 16:09:52,149 - INFO - Epoch : 1 Minibatch : 400 Loss : -53.08217
+2017-11-21 16:09:52,158 - INFO - ===============================================
+2017-11-21 16:09:52,158 - INFO - REAL: 3.23947756901e-11 <SOS> subject: fast and easy - the way you like it bait - excelled @ em . ca + unable to see graphics ? please go here to view this email <EOS>
+2017-11-21 16:09:52,158 - INFO - PREDICTED: 1.0726236014e-10 <SOS> subject: save <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:52,159 - INFO - ===============================================
+2017-11-21 16:09:52,159 - INFO - ===============================================
+2017-11-21 16:09:52,159 - INFO - REAL: 6.10083740994e-11 <SOS> subject: news : smart spam and virus control is here hey , better than all other spam filters - only delivers the email you want ! this is the ultimate <EOS>
+2017-11-21 16:09:52,159 - INFO - PREDICTED: 1.00366189532e-09 <SOS> subject: greetings <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:52,159 - INFO - ===============================================
+2017-11-21 16:09:52,159 - INFO - ===============================================
+2017-11-21 16:09:52,159 - INFO - REAL: 1.37961325686e-09 <SOS> subject: hi pretty <UNK> letters <UNK> use the ? goes use why the not . slow <UNK> a window , hottest demanding meds at afforrdable priicewe shiip to all countriies <EOS>
+2017-11-21 16:09:52,160 - INFO - PREDICTED: 2.14200900028e-09 <SOS> subject: hi <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:52,160 - INFO - ===============================================
+2017-11-21 16:09:52,160 - INFO - ===============================================
+2017-11-21 16:09:52,160 - INFO - REAL: 2.13627696784e-14 <SOS> subject: save your money buy getting this thing here you have not tried cialls yet ? than you cannot even imagine what it is like to be a real man <EOS>
+2017-11-21 16:09:52,160 - INFO - PREDICTED: 5.67055176229e-11 <SOS> subject: save your <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:52,160 - INFO - ===============================================
+2017-11-21 16:09:52,160 - INFO - ===============================================
+2017-11-21 16:09:52,161 - INFO - REAL: 2.49842698971e-10 <SOS> subject: miracle <UNK> boost <UNK> system 100 % hello , we have an alternative to drugs <UNK> . a miracle <UNK> than can help people with serious diseases ' the <EOS>
+2017-11-21 16:09:52,161 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:52,161 - INFO - ===============================================
+2017-11-21 16:09:52,161 - INFO - Mean real probs: 0.0167100262846
+2017-11-21 16:09:52,161 - INFO - Mean pred probs: 3.37966707737e-09
+2017-11-21 16:09:53,135 - INFO - Epoch : 1 Minibatch : 500 Loss : -49.87155
+2017-11-21 16:09:53,143 - INFO - ===============================================
+2017-11-21 16:09:53,143 - INFO - REAL: 1.54301282821e-14 <SOS> subject: save up to 40 % on popular software <UNK> ! software taking a <UNK> out of your budget ? try oem ! live free or die ; death is <EOS>
+2017-11-21 16:09:53,143 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:53,144 - INFO - ===============================================
+2017-11-21 16:09:53,144 - INFO - ===============================================
+2017-11-21 16:09:53,144 - INFO - REAL: 1.22925265436e-18 <SOS> subject: hi how to save o <UNK> n your medlcatlons over 70 % . pha <UNK> <UNK> shop - successfull and proven way to save y <UNK> our mon <UNK> <EOS>
+2017-11-21 16:09:53,144 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:53,144 - INFO - ===============================================
+2017-11-21 16:09:53,144 - INFO - ===============================================
+2017-11-21 16:09:53,144 - INFO - REAL: 1.11699605795e-10 <SOS> subject: welcome to vip quality software . os - adobe - macromedia etc all under $ 15 - $ 99 cds <UNK> is a <UNK> of mass <UNK> . if <EOS>
+2017-11-21 16:09:53,145 - INFO - PREDICTED: 3.49746679437e-09 <SOS> subject: <UNK> to <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:53,145 - INFO - ===============================================
+2017-11-21 16:09:53,145 - INFO - ===============================================
+2017-11-21 16:09:53,145 - INFO - REAL: 6.16635841545e-12 <SOS> subject: <UNK> , 0 <UNK> for sale , no prior pres . <UNK> . <UNK> needed enjoy up to 80 % off buy <UNK> , 0 <UNK> online get <UNK> <EOS>
+2017-11-21 16:09:53,145 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:53,145 - INFO - ===============================================
+2017-11-21 16:09:53,145 - INFO - Mean real probs: 1.19711312932e-05
+2017-11-21 16:09:53,146 - INFO - Mean pred probs: 1.28356662112e-08
+2017-11-21 16:09:54,125 - INFO - Epoch : 1 Minibatch : 600 Loss : -45.70317
+2017-11-21 16:09:54,134 - INFO - ===============================================
+2017-11-21 16:09:54,134 - INFO - REAL: 2.0604370692e-20 <SOS> subject: all graphics software available , cheap oem versions . good morning , we we offer latest oem packages of all graphics and publishinq software from corel , macromedia , <EOS>
+2017-11-21 16:09:54,134 - INFO - PREDICTED: 1.51222552416e-09 <SOS> subject: all <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:54,134 - INFO - ===============================================
+2017-11-21 16:09:54,135 - INFO - ===============================================
+2017-11-21 16:09:54,135 - INFO - REAL: 6.02560510362e-11 <SOS> subject: attention <UNK> | | stock players <UNK> , <UNK> - get in now - will explode in next 2 weeks - this stock is undiscovered stock gem get in <EOS>
+2017-11-21 16:09:54,135 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:54,135 - INFO - ===============================================
+2017-11-21 16:09:54,136 - INFO - Mean real probs: 0.00860467360638
+2017-11-21 16:09:54,136 - INFO - Mean pred probs: 1.51832427943e-09
+2017-11-21 16:09:55,120 - INFO - Epoch : 1 Minibatch : 700 Loss : -44.01266
+2017-11-21 16:09:55,129 - INFO - ===============================================
+2017-11-21 16:09:55,129 - INFO - REAL: 7.05490652903e-10 <SOS> subject: do you know how others sav on top - selling tablets ? it is a chemist - site that provides better selection of medicals at reasonable prices . and <EOS>
+2017-11-21 16:09:55,130 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:55,130 - INFO - ===============================================
+2017-11-21 16:09:55,130 - INFO - ===============================================
+2017-11-21 16:09:55,130 - INFO - REAL: 1.16872859057e-09 <SOS> subject: fwd : [ <UNK> ] 81 % - off vicodin . <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> unify <EOS>
+2017-11-21 16:09:55,131 - INFO - PREDICTED: 6.48530336218e-09 <SOS> subject: fwd : <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:55,131 - INFO - ===============================================
+2017-11-21 16:09:55,131 - INFO - ===============================================
+2017-11-21 16:09:55,131 - INFO - REAL: 3.7889795402e-14 <SOS> subject: fwd : french <UNK> , show off your body <UNK> <UNK> <UNK> h g h 1000 is unbelievable ! look younger + more energy + lose weight in three <EOS>
+2017-11-21 16:09:55,132 - INFO - PREDICTED: 6.48530336218e-09 <SOS> subject: fwd : <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:55,132 - INFO - ===============================================
+2017-11-21 16:09:55,132 - INFO - ===============================================
+2017-11-21 16:09:55,132 - INFO - REAL: 6.88920218824e-13 <SOS> subject: <UNK> <UNK> bundle offer bundle offer <UNK> <UNK> * limited stocks * <UNK> 5000 <UNK> 4 3 . 06 g 2 <UNK> <UNK> 1 . 5 g + <UNK> <EOS>
+2017-11-21 16:09:55,132 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:55,133 - INFO - ===============================================
+2017-11-21 16:09:55,133 - INFO - ===============================================
+2017-11-21 16:09:55,133 - INFO - REAL: 3.70394142869e-17 <SOS> subject: low cost high rated insurance . why pay more ? save up to 70 % on your life insurance ! get free life insurance quotes from the very best <EOS>
+2017-11-21 16:09:55,133 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:55,134 - INFO - ===============================================
+2017-11-21 16:09:55,134 - INFO - Mean real probs: 0.101815826115
+2017-11-21 16:09:55,134 - INFO - Mean pred probs: 1.32852989389e-08
+2017-11-21 16:09:56,154 - INFO - Epoch : 1 Minibatch : 800 Loss : -40.58733
+2017-11-21 16:09:56,162 - INFO - ===============================================
+2017-11-21 16:09:56,163 - INFO - REAL: 1.33565280086e-15 <SOS> subject: your pain medlcat 10 n is like mine suffering for nothing v _ 1 ' c ^ o _ d . 1 - n 75 o m ^ gg <EOS>
+2017-11-21 16:09:56,163 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:56,163 - INFO - ===============================================
+2017-11-21 16:09:56,164 - INFO - ===============================================
+2017-11-21 16:09:56,164 - INFO - REAL: 5.61682757828e-09 <SOS> subject: re : account # <UNK> n hello , we sent you an email a while ago , because you now qualify for a new mortgage . you could get <EOS>
+2017-11-21 16:09:56,164 - INFO - PREDICTED: 4.67239004883e-08 <SOS> subject: re : <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:56,164 - INFO - ===============================================
+2017-11-21 16:09:56,165 - INFO - ===============================================
+2017-11-21 16:09:56,165 - INFO - REAL: 1.35638848902e-10 <SOS> subject: <UNK> ^ e your mor ! <UNK> by hundreds . . monthly ! <UNK> <UNK> . e g . et mon . <UNK> no . w ! - fill <EOS>
+2017-11-21 16:09:56,165 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:56,165 - INFO - ===============================================
+2017-11-21 16:09:56,165 - INFO - Mean real probs: 0.10053182087
+2017-11-21 16:09:56,166 - INFO - Mean pred probs: 6.05491815483e-09
+2017-11-21 16:09:57,170 - INFO - Epoch : 1 Minibatch : 900 Loss : -37.66489
+2017-11-21 16:09:57,177 - INFO - ===============================================
+2017-11-21 16:09:57,177 - INFO - REAL: 2.55061504263e-11 <SOS> subject: visual identity and logo now working on your company ' s image ? start with a visual identity a key to the first good impression . we are here <EOS>
+2017-11-21 16:09:57,177 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:57,177 - INFO - ===============================================
+2017-11-21 16:09:57,177 - INFO - ===============================================
+2017-11-21 16:09:57,177 - INFO - REAL: 2.60964405817e-11 <SOS> subject: high <UNK> bounce on this stock wysak petroieum ( wysk ) current price : o . <UNK> apr 25 , 2005 - - wysak petroieum is <UNK> to report <EOS>
+2017-11-21 16:09:57,178 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:57,178 - INFO - ===============================================
+2017-11-21 16:09:57,178 - INFO - ===============================================
+2017-11-21 16:09:57,178 - INFO - REAL: 3.13821623765e-14 <SOS> subject: alert : spam <UNK> r 3 move - - = = = = = _ <UNK> = _ content - type : text / html ; charset = us <EOS>
+2017-11-21 16:09:57,178 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:57,178 - INFO - ===============================================
+2017-11-21 16:09:57,178 - INFO - ===============================================
+2017-11-21 16:09:57,179 - INFO - REAL: 1.05730881943e-09 <SOS> subject: younger and <UNK> with ultimate - <UNK> <UNK> as seen on nbc , cbs , cnn , and even oprah ! the health discovery that <UNK> aging while <UNK> <EOS>
+2017-11-21 16:09:57,179 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:57,179 - INFO - ===============================================
+2017-11-21 16:09:57,179 - INFO - ===============================================
+2017-11-21 16:09:57,179 - INFO - REAL: 8.67252599102e-17 <SOS> subject: custom logos and identities from us thinking of breathing new life into your business ? start from revamping its front - endlogo and visualidentity . we offer creative custom <EOS>
+2017-11-21 16:09:57,179 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:57,179 - INFO - ===============================================
+2017-11-21 16:09:57,180 - INFO - ===============================================
+2017-11-21 16:09:57,180 - INFO - REAL: 9.10391500942e-14 <SOS> subject: save your money by getting an oem software ! need in software for your pc ? just visit our site , we might have what you need . . <EOS>
+2017-11-21 16:09:57,180 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:57,180 - INFO - ===============================================
+2017-11-21 16:09:57,180 - INFO - ===============================================
+2017-11-21 16:09:57,180 - INFO - REAL: 5.69632964155e-11 <SOS> subject: young <UNK> <UNK> _ no mo 0 <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <EOS>
+2017-11-21 16:09:57,180 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:57,180 - INFO - ===============================================
+2017-11-21 16:09:57,181 - INFO - Mean real probs: 2.40787414512e-05
+2017-11-21 16:09:57,181 - INFO - Mean pred probs: 1.53614234e-09
+2017-11-21 16:09:58,131 - INFO - Epoch : 1 Minibatch : 1000 Loss : -35.41123
+2017-11-21 16:09:58,140 - INFO - ===============================================
+2017-11-21 16:09:58,140 - INFO - REAL: 1.1770399236e-10 <SOS> subject: <UNK> usb <UNK> @ $ 23 . 95 <UNK> <UNK> <UNK> car <UNK> w / usb and <UNK> $ 23 . 95 this <UNK> <UNK> adapter features usb and <EOS>
+2017-11-21 16:09:58,140 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:58,141 - INFO - ===============================================
+2017-11-21 16:09:58,141 - INFO - ===============================================
+2017-11-21 16:09:58,141 - INFO - REAL: 1.15550654134e-22 <SOS> subject: discounted prescription drugs online need vicodin ? phentermine we ' re fast . low price prescription pain meds . free md <UNK> fast shipping ! no more pain - <EOS>
+2017-11-21 16:09:58,141 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:58,142 - INFO - ===============================================
+2017-11-21 16:09:58,142 - INFO - ===============================================
+2017-11-21 16:09:58,142 - INFO - REAL: 8.24495857429e-18 <SOS> subject: cheap oem soft shipping worldwide looking for not expensive high - quality software ? we might have just what you need . windows xp professional 2002 . . . <EOS>
+2017-11-21 16:09:58,142 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:58,142 - INFO - ===============================================
+2017-11-21 16:09:58,143 - INFO - ===============================================
+2017-11-21 16:09:58,143 - INFO - REAL: 1.67522280085e-11 <SOS> subject: want to lose up to 19 % weight . try <UNK> ! hello , here ' s a special offer for you . . . you want to lose <EOS>
+2017-11-21 16:09:58,143 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:58,143 - INFO - ===============================================
+2017-11-21 16:09:58,144 - INFO - ===============================================
+2017-11-21 16:09:58,144 - INFO - REAL: 4.93798241901e-10 <SOS> subject: not another bad offrr w <UNK> <UNK> to know how to save over 60 % on your piils ? http : / / www . <UNK> <UNK> good . <EOS>
+2017-11-21 16:09:58,144 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:58,144 - INFO - ===============================================
+2017-11-21 16:09:58,144 - INFO - ===============================================
+2017-11-21 16:09:58,145 - INFO - REAL: 1.63174513308e-12 <SOS> subject: hey man - give it a try her sister is fat v . i , o . x * x 25 m ' g 3 o pills 72 . <EOS>
+2017-11-21 16:09:58,145 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:58,145 - INFO - ===============================================
+2017-11-21 16:09:58,145 - INFO - Mean real probs: 0.0081024974913
+2017-11-21 16:09:58,146 - INFO - Mean pred probs: 1.53614234e-09
+2017-11-21 16:09:59,060 - INFO - Epoch : 1 Minibatch : 1100 Loss : -32.49191
+2017-11-21 16:09:59,068 - INFO - ===============================================
+2017-11-21 16:09:59,069 - INFO - REAL: 1.48383614576e-10 <SOS> subject: make $ <UNK> hello , we sent you an email a while ago , because you now qualify for a new mortgage . you could get $ 300 , <EOS>
+2017-11-21 16:09:59,069 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:59,069 - INFO - ===============================================
+2017-11-21 16:09:59,069 - INFO - ===============================================
+2017-11-21 16:09:59,070 - INFO - REAL: 8.1947346328e-14 <SOS> subject: more then 70 great pornstars sex <UNK> ! dowlnoad all our collection ! - x 45 come explore the world ' s largest adult <UNK> ! see all the <EOS>
+2017-11-21 16:09:59,070 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:09:59,070 - INFO - ===============================================
+2017-11-21 16:09:59,070 - INFO - Mean real probs: 3.75218105219e-05
+2017-11-21 16:09:59,070 - INFO - Mean pred probs: 1.53614234e-09
+2017-11-21 16:10:00,004 - INFO - Epoch : 1 Minibatch : 1200 Loss : -30.44542
+2017-11-21 16:10:00,012 - INFO - ===============================================
+2017-11-21 16:10:00,012 - INFO - REAL: 6.5643124272e-12 <SOS> subject: urgent news would you reflnance if you knew you ' d save thousands ? we can get you lnterest as low as 2 . 74 % . fill out <EOS>
+2017-11-21 16:10:00,012 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:00,013 - INFO - ===============================================
+2017-11-21 16:10:00,013 - INFO - ===============================================
+2017-11-21 16:10:00,013 - INFO - REAL: 3.53504840175e-17 <SOS> subject: best online tablets here <UNK> <UNK> <UNK> <UNK> <UNK> ca <UNK> <UNK> <UNK> <UNK> get any prescription drug you want ! simple , quick and affordable ! we deliver <EOS>
+2017-11-21 16:10:00,013 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:00,014 - INFO - ===============================================
+2017-11-21 16:10:00,014 - INFO - ===============================================
+2017-11-21 16:10:00,014 - INFO - REAL: 9.98928651113e-12 <SOS> subject: to <UNK> ' s shop customers ! dear customer ! we updated our software catalogue and added new popular products ! now you can get any software item at <EOS>
+2017-11-21 16:10:00,014 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:00,014 - INFO - ===============================================
+2017-11-21 16:10:00,015 - INFO - ===============================================
+2017-11-21 16:10:00,015 - INFO - REAL: 2.69389018731e-10 <SOS> subject: let ' s stop the mlm <UNK> ! still believe you can earn $ 100 , 000 fast in mlm ? get real ! get <UNK> , a brand <EOS>
+2017-11-21 16:10:00,015 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:00,015 - INFO - ===============================================
+2017-11-21 16:10:00,016 - INFO - ===============================================
+2017-11-21 16:10:00,016 - INFO - REAL: 1.56707028457e-11 <SOS> subject: announcing herbal smoking <UNK> get high . . . legally ! it really works ! <UNK> all drug <UNK> ! extremely <UNK> ! click here for more info on <EOS>
+2017-11-21 16:10:00,016 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:00,016 - INFO - ===============================================
+2017-11-21 16:10:00,016 - INFO - Mean real probs: 0.00550234977383
+2017-11-21 16:10:00,017 - INFO - Mean pred probs: 1.53614234e-09
+2017-11-21 16:10:00,952 - INFO - Epoch : 1 Minibatch : 1300 Loss : -29.48662
+2017-11-21 16:10:00,960 - INFO - ===============================================
+2017-11-21 16:10:00,960 - INFO - REAL: 1.58446800473e-13 <SOS> subject: our service is user - friendly , discreet and completely confidential buy viagra online ! it ' s your best way to buy your medication . whatever it is <EOS>
+2017-11-21 16:10:00,960 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:00,960 - INFO - ===============================================
+2017-11-21 16:10:00,961 - INFO - ===============================================
+2017-11-21 16:10:00,961 - INFO - REAL: 1.7035673521e-10 <SOS> subject: do you want your penis to be hard <UNK> | | the time ? now <UNK> here http : / / <UNK> . <UNK> . com / as # <EOS>
+2017-11-21 16:10:00,961 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:00,961 - INFO - ===============================================
+2017-11-21 16:10:00,962 - INFO - ===============================================
+2017-11-21 16:10:00,962 - INFO - REAL: 3.37828339265e-12 <SOS> subject: newsletter <UNK> english newsletter <UNK> | 25 - 07 - 2005 <UNK> <UNK> friends este <UNK> , <UNK> <UNK> <UNK> <UNK> <UNK> que por <UNK> <UNK> um <UNK> <UNK> <EOS>
+2017-11-21 16:10:00,962 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:00,962 - INFO - ===============================================
+2017-11-21 16:10:00,963 - INFO - ===============================================
+2017-11-21 16:10:00,963 - INFO - REAL: 9.54457163121e-13 <SOS> subject: vicodin for you . cheap . you need vicodin . you get it here . no need to wait any longer ! it is your unique chance to save <EOS>
+2017-11-21 16:10:00,963 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:00,963 - INFO - ===============================================
+2017-11-21 16:10:00,963 - INFO - Mean real probs: 0.000174352696095
+2017-11-21 16:10:00,964 - INFO - Mean pred probs: 1.53614234e-09
+2017-11-21 16:10:01,913 - INFO - Epoch : 1 Minibatch : 1400 Loss : -24.89747
+2017-11-21 16:10:01,922 - INFO - ===============================================
+2017-11-21 16:10:01,922 - INFO - REAL: 1.12622834218e-15 <SOS> subject: <UNK> - designed logos and identities thinking of breathing new life into your business ? start from revamping its front - endlogo and visualidentity . we offer creative custom <EOS>
+2017-11-21 16:10:01,922 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:01,922 - INFO - ===============================================
+2017-11-21 16:10:01,923 - INFO - ===============================================
+2017-11-21 16:10:01,923 - INFO - REAL: 5.40169177671e-16 <SOS> subject: <UNK> <UNK> how to save on your medlcatlons over 70 <UNK> % . <UNK> <UNK> mail shop - successfull and proven way to sav <UNK> e your mon <UNK> <EOS>
+2017-11-21 16:10:01,923 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:01,923 - INFO - ===============================================
+2017-11-21 16:10:01,924 - INFO - ===============================================
+2017-11-21 16:10:01,924 - INFO - REAL: 2.80418031522e-10 <SOS> subject: assist your sister with her <UNK> condition is your mother <UNK> with your health v ' i , o , x , x 25 m . g 30 <UNK> <EOS>
+2017-11-21 16:10:01,924 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:01,924 - INFO - ===============================================
+2017-11-21 16:10:01,925 - INFO - Mean real probs: 0.100039292056
+2017-11-21 16:10:01,925 - INFO - Mean pred probs: 1.53614234e-09
+2017-11-21 16:10:02,885 - INFO - Epoch : 1 Minibatch : 1500 Loss : -22.14614
+2017-11-21 16:10:02,893 - INFO - ===============================================
+2017-11-21 16:10:02,894 - INFO - REAL: 5.14102446653e-10 <SOS> subject: re : e 2 good news <UNK> good day , welcome to the one of <UNK> <UNK> l . eading oniine <UNK> 60 n your <UNK> o % <UNK> <EOS>
+2017-11-21 16:10:02,894 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:02,894 - INFO - ===============================================
+2017-11-21 16:10:02,894 - INFO - ===============================================
+2017-11-21 16:10:02,895 - INFO - REAL: 1.00934015772e-12 <SOS> subject: looking for cheap high - quality software ? <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <EOS>
+2017-11-21 16:10:02,895 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:02,895 - INFO - ===============================================
+2017-11-21 16:10:02,895 - INFO - Mean real probs: 0.037292448607
+2017-11-21 16:10:02,896 - INFO - Mean pred probs: 1.46133830538e-09
+2017-11-21 16:10:03,858 - INFO - Epoch : 1 Minibatch : 1600 Loss : -21.26708
+2017-11-21 16:10:03,866 - INFO - ===============================================
+2017-11-21 16:10:03,867 - INFO - REAL: 1.99982783019e-25 <SOS> subject: <UNK> , bigger , <UNK> <UNK> naturally in just weeks = = = = = = = = = = = = = = = = = = = <EOS>
+2017-11-21 16:10:03,867 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:03,867 - INFO - ===============================================
+2017-11-21 16:10:03,867 - INFO - ===============================================
+2017-11-21 16:10:03,868 - INFO - REAL: 4.08308508628e-10 <SOS> subject: we are the only online pharmacy offering " 100 % satisfaction guarantee " . affordable - the way medications should be to be great is to be <UNK> . <EOS>
+2017-11-21 16:10:03,868 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:03,868 - INFO - ===============================================
+2017-11-21 16:10:03,868 - INFO - ===============================================
+2017-11-21 16:10:03,869 - INFO - REAL: 1.67522280085e-11 <SOS> subject: want to lose up to 19 % weight . try <UNK> ! hello , here ' s a special offer for you . . . you want to lose <EOS>
+2017-11-21 16:10:03,869 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:03,869 - INFO - ===============================================
+2017-11-21 16:10:03,869 - INFO - ===============================================
+2017-11-21 16:10:03,870 - INFO - REAL: 1.23335928773e-09 <SOS> subject: hi paliourg need discount meds ? for you we got all . <UNK> <UNK> coupon if any one have <UNK> of <UNK> or money , and he take from <EOS>
+2017-11-21 16:10:03,870 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:03,870 - INFO - ===============================================
+2017-11-21 16:10:03,870 - INFO - Mean real probs: 0.00597809124974
+2017-11-21 16:10:03,870 - INFO - Mean pred probs: 1.38653427076e-09
+2017-11-21 16:10:04,829 - INFO - Epoch : 1 Minibatch : 1700 Loss : -17.66780
+2017-11-21 16:10:04,838 - INFO - ===============================================
+2017-11-21 16:10:04,838 - INFO - REAL: 4.20689869525e-13 <SOS> subject: mortgage - best rate let the banks compete for your mortgage or loan ! http : / / www . <UNK> . biz guaranteed lowest rates on the <UNK> <EOS>
+2017-11-21 16:10:04,839 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:04,839 - INFO - ===============================================
+2017-11-21 16:10:04,839 - INFO - ===============================================
+2017-11-21 16:10:04,839 - INFO - REAL: 1.41812114252e-10 <SOS> subject: fw : <UNK> lady dvd quality movies ! rise and <UNK> ! good <UNK> woman pics a <UNK> is a <UNK> <UNK> will . <UNK> q , w <PAD> <EOS>
+2017-11-21 16:10:04,840 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:04,840 - INFO - ===============================================
+2017-11-21 16:10:04,840 - INFO - ===============================================
+2017-11-21 16:10:04,840 - INFO - REAL: 5.24827747245e-10 <SOS> subject: home computer sale laptop magazine : digital system comparison windows x * p pro 2 oo 2 . . . . . . . . . . . . <EOS>
+2017-11-21 16:10:04,841 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:04,841 - INFO - ===============================================
+2017-11-21 16:10:04,841 - INFO - Mean real probs: 0.00555052072678
+2017-11-21 16:10:04,841 - INFO - Mean pred probs: 1.38653427076e-09
+2017-11-21 16:10:05,029 - INFO - Epoch : 2 Minibatch : 0 Loss : -10.89312
+2017-11-21 16:10:05,036 - INFO - ===============================================
+2017-11-21 16:10:05,036 - INFO - REAL: 4.99197902523e-13 <SOS> subject: online <UNK> diploma <UNK> o n l i n e u n i v e r s i t y d i p l o m a s d <EOS>
+2017-11-21 16:10:05,036 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:05,036 - INFO - ===============================================
+2017-11-21 16:10:05,036 - INFO - ===============================================
+2017-11-21 16:10:05,037 - INFO - REAL: 8.32901504083e-10 <SOS> subject: do not have money , get software cds from here ! software <UNK> . . . . <UNK> ' t it great ? grow old along with me the <EOS>
+2017-11-21 16:10:05,037 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:05,037 - INFO - ===============================================
+2017-11-21 16:10:05,037 - INFO - ===============================================
+2017-11-21 16:10:05,037 - INFO - REAL: 4.01689609055e-20 <SOS> subject: cialis , valium , viagra , xanax at low price ! no prescription needed ! discount rx is simple , quick , and affordable ! offering many of today <EOS>
+2017-11-21 16:10:05,037 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:05,037 - INFO - ===============================================
+2017-11-21 16:10:05,037 - INFO - ===============================================
+2017-11-21 16:10:05,038 - INFO - REAL: 1.69596004531e-14 <SOS> subject: <UNK> offr hello , welcome to p <UNK> harmonline sh <UNK> op - one of the leading oniine <UNK> <UNK> <UNK> shops <UNK> v <UNK> g <UNK> al l <EOS>
+2017-11-21 16:10:05,038 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:05,038 - INFO - ===============================================
+2017-11-21 16:10:05,038 - INFO - ===============================================
+2017-11-21 16:10:05,038 - INFO - REAL: 1.64730320155e-16 <SOS> subject: top quality prescription here <UNK> <UNK> <UNK> him <UNK> <UNK> <UNK> audrey id get any prescription drug you want ! absolutely no doctor ' s appointments needed ! lowest <EOS>
+2017-11-21 16:10:05,038 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:05,038 - INFO - ===============================================
+2017-11-21 16:10:05,038 - INFO - Mean real probs: 0.00447376314326
+2017-11-21 16:10:05,038 - INFO - Mean pred probs: 1.31173023614e-09
+2017-11-21 16:10:05,994 - INFO - Epoch : 2 Minibatch : 100 Loss : -17.29143
+2017-11-21 16:10:06,003 - INFO - ===============================================
+2017-11-21 16:10:06,003 - INFO - REAL: 4.23349832266e-10 <SOS> subject: $ <UNK> hello , we sent you an email a while ago , because you now qualify for a new mortgage . you could get $ 300 , 000 <EOS>
+2017-11-21 16:10:06,004 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:06,004 - INFO - ===============================================
+2017-11-21 16:10:06,004 - INFO - ===============================================
+2017-11-21 16:10:06,004 - INFO - REAL: 4.59435432433e-19 <SOS> subject: italian crafted rolex from $ 75 to $ 275 - free shipping heya , do you want a rolex watch ? in our online store you can buy replicas <EOS>
+2017-11-21 16:10:06,005 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:06,005 - INFO - ===============================================
+2017-11-21 16:10:06,005 - INFO - ===============================================
+2017-11-21 16:10:06,005 - INFO - REAL: 7.27941240837e-15 <SOS> subject: our medz how to save on your medlcations <UNK> over 70 % . <UNK> <UNK> - <UNK> <UNK> <UNK> and proven way to save your mon <UNK> <UNK> . <EOS>
+2017-11-21 16:10:06,006 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:06,006 - INFO - ===============================================
+2017-11-21 16:10:06,006 - INFO - ===============================================
+2017-11-21 16:10:06,006 - INFO - REAL: 2.26677563771e-11 <SOS> subject: <UNK> <UNK> , govenment don ' t want me to sell undergroundcd ! check your spouse and staff investigate your own credit - history hacking someone pc ! disappear <EOS>
+2017-11-21 16:10:06,006 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:06,006 - INFO - ===============================================
+2017-11-21 16:10:06,007 - INFO - ===============================================
+2017-11-21 16:10:06,007 - INFO - REAL: 6.59852942111e-11 <SOS> subject: never pay high <UNK> for ur softwares , download here <UNK> example <UNK> your needed soffttwares at rock bottom prri ce ! - what you bought previously was go <EOS>
+2017-11-21 16:10:06,007 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:06,007 - INFO - ===============================================
+2017-11-21 16:10:06,007 - INFO - ===============================================
+2017-11-21 16:10:06,007 - INFO - REAL: 2.34834885285e-12 <SOS> subject: tadalafil soft tabs - great results ! hi ! we have a new product that we offer to you , c _ i _ a _ l _ i <EOS>
+2017-11-21 16:10:06,007 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:06,007 - INFO - ===============================================
+2017-11-21 16:10:06,007 - INFO - ===============================================
+2017-11-21 16:10:06,008 - INFO - REAL: 3.24820316755e-20 <SOS> subject: ( <UNK> ] smart medication [ <UNK> ) yo ! get a huge discount with our shop ! viagra costs only 64 $ cialis costs only 96 $ vicodin <EOS>
+2017-11-21 16:10:06,008 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:06,008 - INFO - ===============================================
+2017-11-21 16:10:06,008 - INFO - Mean real probs: 0.000212244015385
+2017-11-21 16:10:06,008 - INFO - Mean pred probs: 1.38653427076e-09
+2017-11-21 16:10:06,968 - INFO - Epoch : 2 Minibatch : 200 Loss : -15.52439
+2017-11-21 16:10:06,976 - INFO - ===============================================
+2017-11-21 16:10:06,977 - INFO - REAL: 3.34255237828e-14 <SOS> subject: $ name get the best softwares for only $ 15 <UNK> get top quality software <UNK> from <UNK> expensive prices ! ! the 10 - all time great software <EOS>
+2017-11-21 16:10:06,977 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:06,977 - INFO - ===============================================
+2017-11-21 16:10:06,978 - INFO - ===============================================
+2017-11-21 16:10:06,978 - INFO - REAL: 3.05437776122e-13 <SOS> subject: stock insider reports penny pick secrets us oi | and gas report oi | climbs , gains soar we have the leading track record for finding fast moving , <EOS>
+2017-11-21 16:10:06,978 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:06,978 - INFO - ===============================================
+2017-11-21 16:10:06,978 - INFO - ===============================================
+2017-11-21 16:10:06,978 - INFO - REAL: 1.80687576241e-16 <SOS> subject: localized software , all languages available . hello , we would like to offer localized software versions ( qerman , french , spanish , uk , and many others <EOS>
+2017-11-21 16:10:06,979 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:06,979 - INFO - ===============================================
+2017-11-21 16:10:06,979 - INFO - ===============================================
+2017-11-21 16:10:06,979 - INFO - REAL: 6.50672893893e-12 <SOS> subject: use canadian pharmacies and save ! <UNK> href = http : / / s 32 . <UNK> . <UNK> . <UNK> . <UNK> size = 5 save over 50 <EOS>
+2017-11-21 16:10:06,979 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:06,979 - INFO - ===============================================
+2017-11-21 16:10:06,979 - INFO - ===============================================
+2017-11-21 16:10:06,979 - INFO - REAL: 2.13627696784e-14 <SOS> subject: save your money buy getting this thing here you have not tried cialls yet ? than you cannot even imagine what it is like to be a real man <EOS>
+2017-11-21 16:10:06,979 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:06,980 - INFO - ===============================================
+2017-11-21 16:10:06,980 - INFO - Mean real probs: 9.10649364801e-08
+2017-11-21 16:10:06,980 - INFO - Mean pred probs: 1.38653427076e-09
+2017-11-21 16:10:07,958 - INFO - Epoch : 2 Minibatch : 300 Loss : -11.48575
+2017-11-21 16:10:07,964 - INFO - ===============================================
+2017-11-21 16:10:07,964 - INFO - REAL: 4.79833798944e-16 <SOS> subject: fwd : need meds . <UNK> | ~ n . vl @ gra . xana _ x _ . <UNK> | ium . i [ 8 if he has <EOS>
+2017-11-21 16:10:07,964 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:07,965 - INFO - ===============================================
+2017-11-21 16:10:07,965 - INFO - ===============================================
+2017-11-21 16:10:07,965 - INFO - REAL: 1.7576242204e-16 <SOS> subject: hi ho <UNK> w to save on your medlcatlons over 60 % . pharma <UNK> mail shop - successfull and pro <UNK> <UNK> way to save your ladies money <EOS>
+2017-11-21 16:10:07,965 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:07,965 - INFO - ===============================================
+2017-11-21 16:10:07,965 - INFO - ===============================================
+2017-11-21 16:10:07,965 - INFO - REAL: 5.52894118054e-11 <SOS> subject: im fed up of my pain problem pharma ' <UNK> - the <UNK> prices h , y , d * r , o * c * 0 . d <EOS>
+2017-11-21 16:10:07,965 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:07,966 - INFO - ===============================================
+2017-11-21 16:10:07,966 - INFO - ===============================================
+2017-11-21 16:10:07,966 - INFO - REAL: 2.59505088708e-11 <SOS> subject: re : [ <UNK> ] 75 % off vicodin . <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <EOS>
+2017-11-21 16:10:07,966 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:07,966 - INFO - ===============================================
+2017-11-21 16:10:07,966 - INFO - Mean real probs: 0.0595348451715
+2017-11-21 16:10:07,966 - INFO - Mean pred probs: 1.38653427076e-09
+2017-11-21 16:10:08,959 - INFO - Epoch : 2 Minibatch : 400 Loss : -13.40452
+2017-11-21 16:10:08,968 - INFO - ===============================================
+2017-11-21 16:10:08,968 - INFO - REAL: 3.23947756901e-11 <SOS> subject: fast and easy - the way you like it bait - excelled @ em . ca + unable to see graphics ? please go here to view this email <EOS>
+2017-11-21 16:10:08,969 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:08,969 - INFO - ===============================================
+2017-11-21 16:10:08,969 - INFO - ===============================================
+2017-11-21 16:10:08,969 - INFO - REAL: 6.10083740994e-11 <SOS> subject: news : smart spam and virus control is here hey , better than all other spam filters - only delivers the email you want ! this is the ultimate <EOS>
+2017-11-21 16:10:08,970 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:08,970 - INFO - ===============================================
+2017-11-21 16:10:08,970 - INFO - ===============================================
+2017-11-21 16:10:08,970 - INFO - REAL: 1.37961325686e-09 <SOS> subject: hi pretty <UNK> letters <UNK> use the ? goes use why the not . slow <UNK> a window , hottest demanding meds at afforrdable priicewe shiip to all countriies <EOS>
+2017-11-21 16:10:08,970 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:08,971 - INFO - ===============================================
+2017-11-21 16:10:08,971 - INFO - ===============================================
+2017-11-21 16:10:08,971 - INFO - REAL: 2.13627696784e-14 <SOS> subject: save your money buy getting this thing here you have not tried cialls yet ? than you cannot even imagine what it is like to be a real man <EOS>
+2017-11-21 16:10:08,971 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:08,971 - INFO - ===============================================
+2017-11-21 16:10:08,971 - INFO - ===============================================
+2017-11-21 16:10:08,971 - INFO - REAL: 2.49842698971e-10 <SOS> subject: miracle <UNK> boost <UNK> system 100 % hello , we have an alternative to drugs <UNK> . a miracle <UNK> than can help people with serious diseases ' the <EOS>
+2017-11-21 16:10:08,971 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:08,971 - INFO - ===============================================
+2017-11-21 16:10:08,972 - INFO - Mean real probs: 0.0167100262846
+2017-11-21 16:10:08,972 - INFO - Mean pred probs: 1.46133830538e-09
+2017-11-21 16:10:09,974 - INFO - Epoch : 2 Minibatch : 500 Loss : -12.06587
+2017-11-21 16:10:09,980 - INFO - ===============================================
+2017-11-21 16:10:09,980 - INFO - REAL: 1.54301282821e-14 <SOS> subject: save up to 40 % on popular software <UNK> ! software taking a <UNK> out of your budget ? try oem ! live free or die ; death is <EOS>
+2017-11-21 16:10:09,980 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:09,980 - INFO - ===============================================
+2017-11-21 16:10:09,981 - INFO - ===============================================
+2017-11-21 16:10:09,981 - INFO - REAL: 1.22925265436e-18 <SOS> subject: hi how to save o <UNK> n your medlcatlons over 70 % . pha <UNK> <UNK> shop - successfull and proven way to save y <UNK> our mon <UNK> <EOS>
+2017-11-21 16:10:09,981 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:09,981 - INFO - ===============================================
+2017-11-21 16:10:09,981 - INFO - ===============================================
+2017-11-21 16:10:09,981 - INFO - REAL: 1.11699605795e-10 <SOS> subject: welcome to vip quality software . os - adobe - macromedia etc all under $ 15 - $ 99 cds <UNK> is a <UNK> of mass <UNK> . if <EOS>
+2017-11-21 16:10:09,981 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:09,981 - INFO - ===============================================
+2017-11-21 16:10:09,982 - INFO - ===============================================
+2017-11-21 16:10:09,982 - INFO - REAL: 6.16635841545e-12 <SOS> subject: <UNK> , 0 <UNK> for sale , no prior pres . <UNK> . <UNK> needed enjoy up to 80 % off buy <UNK> , 0 <UNK> online get <UNK> <EOS>
+2017-11-21 16:10:09,982 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:09,982 - INFO - ===============================================
+2017-11-21 16:10:09,982 - INFO - ===============================================
+2017-11-21 16:10:09,982 - INFO - REAL: 3.0690485617e-11 <SOS> subject: winning notifications ! ! ! easy way lottery agency ref . number : <UNK> / <UNK> batch ; number : <UNK> - <UNK> 78 sir / madam , we <EOS>
+2017-11-21 16:10:09,982 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:09,982 - INFO - ===============================================
+2017-11-21 16:10:09,982 - INFO - Mean real probs: 1.19711312932e-05
+2017-11-21 16:10:09,983 - INFO - Mean pred probs: 1.23692620152e-09
+2017-11-21 16:10:11,000 - INFO - Epoch : 2 Minibatch : 600 Loss : -9.12137
+2017-11-21 16:10:11,008 - INFO - ===============================================
+2017-11-21 16:10:11,009 - INFO - REAL: 2.0604370692e-20 <SOS> subject: all graphics software available , cheap oem versions . good morning , we we offer latest oem packages of all graphics and publishinq software from corel , macromedia , <EOS>
+2017-11-21 16:10:11,009 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:11,009 - INFO - ===============================================
+2017-11-21 16:10:11,010 - INFO - ===============================================
+2017-11-21 16:10:11,010 - INFO - REAL: 6.02560510362e-11 <SOS> subject: attention <UNK> | | stock players <UNK> , <UNK> - get in now - will explode in next 2 weeks - this stock is undiscovered stock gem get in <EOS>
+2017-11-21 16:10:11,010 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:11,010 - INFO - ===============================================
+2017-11-21 16:10:11,010 - INFO - Mean real probs: 0.00860467360638
+2017-11-21 16:10:11,011 - INFO - Mean pred probs: 1.46133830538e-09
+2017-11-21 16:10:12,032 - INFO - Epoch : 2 Minibatch : 700 Loss : -9.87232
+2017-11-21 16:10:12,041 - INFO - ===============================================
+2017-11-21 16:10:12,041 - INFO - REAL: 7.05490652903e-10 <SOS> subject: do you know how others sav on top - selling tablets ? it is a chemist - site that provides better selection of medicals at reasonable prices . and <EOS>
+2017-11-21 16:10:12,042 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:12,042 - INFO - ===============================================
+2017-11-21 16:10:12,042 - INFO - ===============================================
+2017-11-21 16:10:12,042 - INFO - REAL: 1.16872859057e-09 <SOS> subject: fwd : [ <UNK> ] 81 % - off vicodin . <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> unify <EOS>
+2017-11-21 16:10:12,042 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:12,042 - INFO - ===============================================
+2017-11-21 16:10:12,043 - INFO - ===============================================
+2017-11-21 16:10:12,043 - INFO - REAL: 3.7889795402e-14 <SOS> subject: fwd : french <UNK> , show off your body <UNK> <UNK> <UNK> h g h 1000 is unbelievable ! look younger + more energy + lose weight in three <EOS>
+2017-11-21 16:10:12,043 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:12,043 - INFO - ===============================================
+2017-11-21 16:10:12,043 - INFO - ===============================================
+2017-11-21 16:10:12,043 - INFO - REAL: 6.88920218824e-13 <SOS> subject: <UNK> <UNK> bundle offer bundle offer <UNK> <UNK> * limited stocks * <UNK> 5000 <UNK> 4 3 . 06 g 2 <UNK> <UNK> 1 . 5 g + <UNK> <EOS>
+2017-11-21 16:10:12,043 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:12,043 - INFO - ===============================================
+2017-11-21 16:10:12,043 - INFO - ===============================================
+2017-11-21 16:10:12,044 - INFO - REAL: 3.70394142869e-17 <SOS> subject: low cost high rated insurance . why pay more ? save up to 70 % on your life insurance ! get free life insurance quotes from the very best <EOS>
+2017-11-21 16:10:12,044 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:12,044 - INFO - ===============================================
+2017-11-21 16:10:12,044 - INFO - Mean real probs: 0.101815826115
+2017-11-21 16:10:12,044 - INFO - Mean pred probs: 1.1621221669e-09
+2017-11-21 16:10:13,080 - INFO - Epoch : 2 Minibatch : 800 Loss : -8.72777
+2017-11-21 16:10:13,088 - INFO - ===============================================
+2017-11-21 16:10:13,088 - INFO - REAL: 1.33565280086e-15 <SOS> subject: your pain medlcat 10 n is like mine suffering for nothing v _ 1 ' c ^ o _ d . 1 - n 75 o m ^ gg <EOS>
+2017-11-21 16:10:13,088 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:13,088 - INFO - ===============================================
+2017-11-21 16:10:13,089 - INFO - ===============================================
+2017-11-21 16:10:13,089 - INFO - REAL: 1.35638848902e-10 <SOS> subject: <UNK> ^ e your mor ! <UNK> by hundreds . . monthly ! <UNK> <UNK> . e g . et mon . <UNK> no . w ! - fill <EOS>
+2017-11-21 16:10:13,089 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:13,089 - INFO - ===============================================
+2017-11-21 16:10:13,089 - INFO - Mean real probs: 0.10053182087
+2017-11-21 16:10:13,089 - INFO - Mean pred probs: 1.01251409766e-09
+2017-11-21 16:10:14,128 - INFO - Epoch : 2 Minibatch : 900 Loss : -7.78183
+2017-11-21 16:10:14,137 - INFO - ===============================================
+2017-11-21 16:10:14,137 - INFO - REAL: 2.55061504263e-11 <SOS> subject: visual identity and logo now working on your company ' s image ? start with a visual identity a key to the first good impression . we are here <EOS>
+2017-11-21 16:10:14,137 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:14,138 - INFO - ===============================================
+2017-11-21 16:10:14,138 - INFO - ===============================================
+2017-11-21 16:10:14,138 - INFO - REAL: 2.60964405817e-11 <SOS> subject: high <UNK> bounce on this stock wysak petroieum ( wysk ) current price : o . <UNK> apr 25 , 2005 - - wysak petroieum is <UNK> to report <EOS>
+2017-11-21 16:10:14,138 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:14,139 - INFO - ===============================================
+2017-11-21 16:10:14,139 - INFO - ===============================================
+2017-11-21 16:10:14,139 - INFO - REAL: 3.13821623765e-14 <SOS> subject: alert : spam <UNK> r 3 move - - = = = = = _ <UNK> = _ content - type : text / html ; charset = us <EOS>
+2017-11-21 16:10:14,139 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:14,139 - INFO - ===============================================
+2017-11-21 16:10:14,140 - INFO - ===============================================
+2017-11-21 16:10:14,140 - INFO - REAL: 1.05730881943e-09 <SOS> subject: younger and <UNK> with ultimate - <UNK> <UNK> as seen on nbc , cbs , cnn , and even oprah ! the health discovery that <UNK> aging while <UNK> <EOS>
+2017-11-21 16:10:14,140 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:14,140 - INFO - ===============================================
+2017-11-21 16:10:14,141 - INFO - ===============================================
+2017-11-21 16:10:14,141 - INFO - REAL: 8.67252599102e-17 <SOS> subject: custom logos and identities from us thinking of breathing new life into your business ? start from revamping its front - endlogo and visualidentity . we offer creative custom <EOS>
+2017-11-21 16:10:14,141 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:14,141 - INFO - ===============================================
+2017-11-21 16:10:14,141 - INFO - ===============================================
+2017-11-21 16:10:14,142 - INFO - REAL: 9.10391500942e-14 <SOS> subject: save your money by getting an oem software ! need in software for your pc ? just visit our site , we might have what you need . . <EOS>
+2017-11-21 16:10:14,142 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:14,142 - INFO - ===============================================
+2017-11-21 16:10:14,142 - INFO - ===============================================
+2017-11-21 16:10:14,142 - INFO - REAL: 5.69632964155e-11 <SOS> subject: young <UNK> <UNK> _ no mo 0 <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <EOS>
+2017-11-21 16:10:14,143 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:14,143 - INFO - ===============================================
+2017-11-21 16:10:14,143 - INFO - Mean real probs: 2.40787414512e-05
+2017-11-21 16:10:14,143 - INFO - Mean pred probs: 1.31173023614e-09
+2017-11-21 16:10:15,182 - INFO - Epoch : 2 Minibatch : 1000 Loss : -7.73022
+2017-11-21 16:10:15,189 - INFO - ===============================================
+2017-11-21 16:10:15,189 - INFO - REAL: 1.1770399236e-10 <SOS> subject: <UNK> usb <UNK> @ $ 23 . 95 <UNK> <UNK> <UNK> car <UNK> w / usb and <UNK> $ 23 . 95 this <UNK> <UNK> adapter features usb and <EOS>
+2017-11-21 16:10:15,190 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:15,190 - INFO - ===============================================
+2017-11-21 16:10:15,190 - INFO - ===============================================
+2017-11-21 16:10:15,190 - INFO - REAL: 1.15550654134e-22 <SOS> subject: discounted prescription drugs online need vicodin ? phentermine we ' re fast . low price prescription pain meds . free md <UNK> fast shipping ! no more pain - <EOS>
+2017-11-21 16:10:15,190 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:15,191 - INFO - ===============================================
+2017-11-21 16:10:15,191 - INFO - ===============================================
+2017-11-21 16:10:15,191 - INFO - REAL: 8.24495857429e-18 <SOS> subject: cheap oem soft shipping worldwide looking for not expensive high - quality software ? we might have just what you need . windows xp professional 2002 . . . <EOS>
+2017-11-21 16:10:15,191 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:15,191 - INFO - ===============================================
+2017-11-21 16:10:15,192 - INFO - ===============================================
+2017-11-21 16:10:15,192 - INFO - REAL: 1.67522280085e-11 <SOS> subject: want to lose up to 19 % weight . try <UNK> ! hello , here ' s a special offer for you . . . you want to lose <EOS>
+2017-11-21 16:10:15,192 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:15,192 - INFO - ===============================================
+2017-11-21 16:10:15,192 - INFO - ===============================================
+2017-11-21 16:10:15,192 - INFO - REAL: 4.93798241901e-10 <SOS> subject: not another bad offrr w <UNK> <UNK> to know how to save over 60 % on your piils ? http : / / www . <UNK> <UNK> good . <EOS>
+2017-11-21 16:10:15,193 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:15,193 - INFO - ===============================================
+2017-11-21 16:10:15,193 - INFO - ===============================================
+2017-11-21 16:10:15,193 - INFO - REAL: 1.63174513308e-12 <SOS> subject: hey man - give it a try her sister is fat v . i , o . x * x 25 m ' g 3 o pills 72 . <EOS>
+2017-11-21 16:10:15,193 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:15,193 - INFO - ===============================================
+2017-11-21 16:10:15,194 - INFO - Mean real probs: 0.0081024974913
+2017-11-21 16:10:15,194 - INFO - Mean pred probs: 1.23692620152e-09
+2017-11-21 16:10:16,262 - INFO - Epoch : 2 Minibatch : 1100 Loss : -6.93330
+2017-11-21 16:10:16,268 - INFO - ===============================================
+2017-11-21 16:10:16,268 - INFO - REAL: 1.48383614576e-10 <SOS> subject: make $ <UNK> hello , we sent you an email a while ago , because you now qualify for a new mortgage . you could get $ 300 , <EOS>
+2017-11-21 16:10:16,269 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:16,269 - INFO - ===============================================
+2017-11-21 16:10:16,269 - INFO - ===============================================
+2017-11-21 16:10:16,269 - INFO - REAL: 8.1947346328e-14 <SOS> subject: more then 70 great pornstars sex <UNK> ! dowlnoad all our collection ! - x 45 come explore the world ' s largest adult <UNK> ! see all the <EOS>
+2017-11-21 16:10:16,269 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:16,269 - INFO - ===============================================
+2017-11-21 16:10:16,269 - INFO - Mean real probs: 3.75218105219e-05
+2017-11-21 16:10:16,269 - INFO - Mean pred probs: 1.31173023614e-09
+2017-11-21 16:10:17,333 - INFO - Epoch : 2 Minibatch : 1200 Loss : -7.06295
+2017-11-21 16:10:17,342 - INFO - ===============================================
+2017-11-21 16:10:17,342 - INFO - REAL: 6.5643124272e-12 <SOS> subject: urgent news would you reflnance if you knew you ' d save thousands ? we can get you lnterest as low as 2 . 74 % . fill out <EOS>
+2017-11-21 16:10:17,342 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:17,342 - INFO - ===============================================
+2017-11-21 16:10:17,343 - INFO - ===============================================
+2017-11-21 16:10:17,343 - INFO - REAL: 3.53504840175e-17 <SOS> subject: best online tablets here <UNK> <UNK> <UNK> <UNK> <UNK> ca <UNK> <UNK> <UNK> <UNK> get any prescription drug you want ! simple , quick and affordable ! we deliver <EOS>
+2017-11-21 16:10:17,343 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:17,343 - INFO - ===============================================
+2017-11-21 16:10:17,344 - INFO - ===============================================
+2017-11-21 16:10:17,344 - INFO - REAL: 9.98928651113e-12 <SOS> subject: to <UNK> ' s shop customers ! dear customer ! we updated our software catalogue and added new popular products ! now you can get any software item at <EOS>
+2017-11-21 16:10:17,344 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:17,344 - INFO - ===============================================
+2017-11-21 16:10:17,345 - INFO - ===============================================
+2017-11-21 16:10:17,345 - INFO - REAL: 2.69389018731e-10 <SOS> subject: let ' s stop the mlm <UNK> ! still believe you can earn $ 100 , 000 fast in mlm ? get real ! get <UNK> , a brand <EOS>
+2017-11-21 16:10:17,345 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:17,345 - INFO - ===============================================
+2017-11-21 16:10:17,346 - INFO - ===============================================
+2017-11-21 16:10:17,346 - INFO - REAL: 1.56707028457e-11 <SOS> subject: announcing herbal smoking <UNK> get high . . . legally ! it really works ! <UNK> all drug <UNK> ! extremely <UNK> ! click here for more info on <EOS>
+2017-11-21 16:10:17,346 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:17,346 - INFO - ===============================================
+2017-11-21 16:10:17,346 - INFO - Mean real probs: 0.00550234977383
+2017-11-21 16:10:17,346 - INFO - Mean pred probs: 1.23692620152e-09
+2017-11-21 16:10:18,425 - INFO - Epoch : 2 Minibatch : 1300 Loss : -8.02105
+2017-11-21 16:10:18,433 - INFO - ===============================================
+2017-11-21 16:10:18,433 - INFO - REAL: 1.58446800473e-13 <SOS> subject: our service is user - friendly , discreet and completely confidential buy viagra online ! it ' s your best way to buy your medication . whatever it is <EOS>
+2017-11-21 16:10:18,434 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:18,434 - INFO - ===============================================
+2017-11-21 16:10:18,434 - INFO - ===============================================
+2017-11-21 16:10:18,435 - INFO - REAL: 1.7035673521e-10 <SOS> subject: do you want your penis to be hard <UNK> | | the time ? now <UNK> here http : / / <UNK> . <UNK> . com / as # <EOS>
+2017-11-21 16:10:18,435 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:18,435 - INFO - ===============================================
+2017-11-21 16:10:18,435 - INFO - ===============================================
+2017-11-21 16:10:18,436 - INFO - REAL: 3.37828339265e-12 <SOS> subject: newsletter <UNK> english newsletter <UNK> | 25 - 07 - 2005 <UNK> <UNK> friends este <UNK> , <UNK> <UNK> <UNK> <UNK> <UNK> que por <UNK> <UNK> um <UNK> <UNK> <EOS>
+2017-11-21 16:10:18,436 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:18,436 - INFO - ===============================================
+2017-11-21 16:10:18,436 - INFO - ===============================================
+2017-11-21 16:10:18,436 - INFO - REAL: 9.54457163121e-13 <SOS> subject: vicodin for you . cheap . you need vicodin . you get it here . no need to wait any longer ! it is your unique chance to save <EOS>
+2017-11-21 16:10:18,437 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:18,437 - INFO - ===============================================
+2017-11-21 16:10:18,437 - INFO - Mean real probs: 0.000174352696095
+2017-11-21 16:10:18,437 - INFO - Mean pred probs: 1.01251409766e-09
+2017-11-21 16:10:19,505 - INFO - Epoch : 2 Minibatch : 1400 Loss : -5.11317
+2017-11-21 16:10:19,514 - INFO - ===============================================
+2017-11-21 16:10:19,514 - INFO - REAL: 1.12622834218e-15 <SOS> subject: <UNK> - designed logos and identities thinking of breathing new life into your business ? start from revamping its front - endlogo and visualidentity . we offer creative custom <EOS>
+2017-11-21 16:10:19,515 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:19,515 - INFO - ===============================================
+2017-11-21 16:10:19,515 - INFO - ===============================================
+2017-11-21 16:10:19,515 - INFO - REAL: 5.40169177671e-16 <SOS> subject: <UNK> <UNK> how to save on your medlcatlons over 70 <UNK> % . <UNK> <UNK> mail shop - successfull and proven way to sav <UNK> e your mon <UNK> <EOS>
+2017-11-21 16:10:19,516 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:19,516 - INFO - ===============================================
+2017-11-21 16:10:19,516 - INFO - ===============================================
+2017-11-21 16:10:19,516 - INFO - REAL: 2.80418031522e-10 <SOS> subject: assist your sister with her <UNK> condition is your mother <UNK> with your health v ' i , o , x , x 25 m . g 30 <UNK> <EOS>
+2017-11-21 16:10:19,517 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:19,517 - INFO - ===============================================
+2017-11-21 16:10:19,517 - INFO - Mean real probs: 0.100039292056
+2017-11-21 16:10:19,517 - INFO - Mean pred probs: 1.23692620152e-09
+2017-11-21 16:10:20,598 - INFO - Epoch : 2 Minibatch : 1500 Loss : -3.93067
+2017-11-21 16:10:20,606 - INFO - ===============================================
+2017-11-21 16:10:20,606 - INFO - REAL: 5.14102446653e-10 <SOS> subject: re : e 2 good news <UNK> good day , welcome to the one of <UNK> <UNK> l . eading oniine <UNK> 60 n your <UNK> o % <UNK> <EOS>
+2017-11-21 16:10:20,607 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:20,607 - INFO - ===============================================
+2017-11-21 16:10:20,607 - INFO - ===============================================
+2017-11-21 16:10:20,607 - INFO - REAL: 1.00934015772e-12 <SOS> subject: looking for cheap high - quality software ? <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <EOS>
+2017-11-21 16:10:20,608 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:20,608 - INFO - ===============================================
+2017-11-21 16:10:20,608 - INFO - Mean real probs: 0.037292448607
+2017-11-21 16:10:20,609 - INFO - Mean pred probs: 1.1621221669e-09
+2017-11-21 16:10:21,702 - INFO - Epoch : 2 Minibatch : 1600 Loss : -4.77144
+2017-11-21 16:10:21,710 - INFO - ===============================================
+2017-11-21 16:10:21,710 - INFO - REAL: 1.99982783019e-25 <SOS> subject: <UNK> , bigger , <UNK> <UNK> naturally in just weeks = = = = = = = = = = = = = = = = = = = <EOS>
+2017-11-21 16:10:21,711 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:21,711 - INFO - ===============================================
+2017-11-21 16:10:21,711 - INFO - ===============================================
+2017-11-21 16:10:21,711 - INFO - REAL: 4.08308508628e-10 <SOS> subject: we are the only online pharmacy offering " 100 % satisfaction guarantee " . affordable - the way medications should be to be great is to be <UNK> . <EOS>
+2017-11-21 16:10:21,712 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:21,712 - INFO - ===============================================
+2017-11-21 16:10:21,712 - INFO - ===============================================
+2017-11-21 16:10:21,712 - INFO - REAL: 1.67522280085e-11 <SOS> subject: want to lose up to 19 % weight . try <UNK> ! hello , here ' s a special offer for you . . . you want to lose <EOS>
+2017-11-21 16:10:21,713 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:21,713 - INFO - ===============================================
+2017-11-21 16:10:21,713 - INFO - Mean real probs: 0.00597809124974
+2017-11-21 16:10:21,713 - INFO - Mean pred probs: 1.01251409766e-09
+2017-11-21 16:10:22,796 - INFO - Epoch : 2 Minibatch : 1700 Loss : -2.56283
+2017-11-21 16:10:22,804 - INFO - ===============================================
+2017-11-21 16:10:22,804 - INFO - REAL: 4.20689869525e-13 <SOS> subject: mortgage - best rate let the banks compete for your mortgage or loan ! http : / / www . <UNK> . biz guaranteed lowest rates on the <UNK> <EOS>
+2017-11-21 16:10:22,805 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:22,805 - INFO - ===============================================
+2017-11-21 16:10:22,805 - INFO - ===============================================
+2017-11-21 16:10:22,805 - INFO - REAL: 1.41812114252e-10 <SOS> subject: fw : <UNK> lady dvd quality movies ! rise and <UNK> ! good <UNK> woman pics a <UNK> is a <UNK> <UNK> will . <UNK> q , w <PAD> <EOS>
+2017-11-21 16:10:22,806 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:22,806 - INFO - ===============================================
+2017-11-21 16:10:22,806 - INFO - ===============================================
+2017-11-21 16:10:22,806 - INFO - REAL: 5.24827747245e-10 <SOS> subject: home computer sale laptop magazine : digital system comparison windows x * p pro 2 oo 2 . . . . . . . . . . . . <EOS>
+2017-11-21 16:10:22,806 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:22,806 - INFO - ===============================================
+2017-11-21 16:10:22,807 - INFO - Mean real probs: 0.00555052072678
+2017-11-21 16:10:22,807 - INFO - Mean pred probs: 1.1621221669e-09
+2017-11-21 16:10:23,021 - INFO - Epoch : 3 Minibatch : 0 Loss : 3.71237
+2017-11-21 16:10:23,030 - INFO - ===============================================
+2017-11-21 16:10:23,030 - INFO - REAL: 4.99197902523e-13 <SOS> subject: online <UNK> diploma <UNK> o n l i n e u n i v e r s i t y d i p l o m a s d <EOS>
+2017-11-21 16:10:23,030 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:23,031 - INFO - ===============================================
+2017-11-21 16:10:23,031 - INFO - ===============================================
+2017-11-21 16:10:23,031 - INFO - REAL: 4.01689609055e-20 <SOS> subject: cialis , valium , viagra , xanax at low price ! no prescription needed ! discount rx is simple , quick , and affordable ! offering many of today <EOS>
+2017-11-21 16:10:23,031 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:23,032 - INFO - ===============================================
+2017-11-21 16:10:23,032 - INFO - ===============================================
+2017-11-21 16:10:23,032 - INFO - REAL: 1.69596004531e-14 <SOS> subject: <UNK> offr hello , welcome to p <UNK> harmonline sh <UNK> op - one of the leading oniine <UNK> <UNK> <UNK> shops <UNK> v <UNK> g <UNK> al l <EOS>
+2017-11-21 16:10:23,032 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:23,033 - INFO - ===============================================
+2017-11-21 16:10:23,033 - INFO - ===============================================
+2017-11-21 16:10:23,033 - INFO - REAL: 1.64730320155e-16 <SOS> subject: top quality prescription here <UNK> <UNK> <UNK> him <UNK> <UNK> <UNK> audrey id get any prescription drug you want ! absolutely no doctor ' s appointments needed ! lowest <EOS>
+2017-11-21 16:10:23,033 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:23,034 - INFO - ===============================================
+2017-11-21 16:10:23,034 - INFO - Mean real probs: 0.00447376314326
+2017-11-21 16:10:23,034 - INFO - Mean pred probs: 9.37710063044e-10
+2017-11-21 16:10:24,126 - INFO - Epoch : 3 Minibatch : 100 Loss : -3.86934
+2017-11-21 16:10:24,135 - INFO - ===============================================
+2017-11-21 16:10:24,135 - INFO - REAL: 4.23349832266e-10 <SOS> subject: $ <UNK> hello , we sent you an email a while ago , because you now qualify for a new mortgage . you could get $ 300 , 000 <EOS>
+2017-11-21 16:10:24,136 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:24,136 - INFO - ===============================================
+2017-11-21 16:10:24,136 - INFO - ===============================================
+2017-11-21 16:10:24,136 - INFO - REAL: 4.59435432433e-19 <SOS> subject: italian crafted rolex from $ 75 to $ 275 - free shipping heya , do you want a rolex watch ? in our online store you can buy replicas <EOS>
+2017-11-21 16:10:24,137 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:24,137 - INFO - ===============================================
+2017-11-21 16:10:24,137 - INFO - ===============================================
+2017-11-21 16:10:24,137 - INFO - REAL: 7.27941240837e-15 <SOS> subject: our medz how to save on your medlcations <UNK> over 70 % . <UNK> <UNK> - <UNK> <UNK> <UNK> and proven way to save your mon <UNK> <UNK> . <EOS>
+2017-11-21 16:10:24,138 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:24,138 - INFO - ===============================================
+2017-11-21 16:10:24,138 - INFO - ===============================================
+2017-11-21 16:10:24,138 - INFO - REAL: 2.26677563771e-11 <SOS> subject: <UNK> <UNK> , govenment don ' t want me to sell undergroundcd ! check your spouse and staff investigate your own credit - history hacking someone pc ! disappear <EOS>
+2017-11-21 16:10:24,138 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:24,138 - INFO - ===============================================
+2017-11-21 16:10:24,139 - INFO - ===============================================
+2017-11-21 16:10:24,139 - INFO - REAL: 6.59852942111e-11 <SOS> subject: never pay high <UNK> for ur softwares , download here <UNK> example <UNK> your needed soffttwares at rock bottom prri ce ! - what you bought previously was go <EOS>
+2017-11-21 16:10:24,139 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:24,139 - INFO - ===============================================
+2017-11-21 16:10:24,139 - INFO - ===============================================
+2017-11-21 16:10:24,139 - INFO - REAL: 2.34834885285e-12 <SOS> subject: tadalafil soft tabs - great results ! hi ! we have a new product that we offer to you , c _ i _ a _ l _ i <EOS>
+2017-11-21 16:10:24,139 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:24,139 - INFO - ===============================================
+2017-11-21 16:10:24,139 - INFO - ===============================================
+2017-11-21 16:10:24,140 - INFO - REAL: 3.24820316755e-20 <SOS> subject: ( <UNK> ] smart medication [ <UNK> ) yo ! get a huge discount with our shop ! viagra costs only 64 $ cialis costs only 96 $ vicodin <EOS>
+2017-11-21 16:10:24,140 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:24,140 - INFO - ===============================================
+2017-11-21 16:10:24,140 - INFO - Mean real probs: 0.000212244015385
+2017-11-21 16:10:24,140 - INFO - Mean pred probs: 8.62906028425e-10
+2017-11-21 16:10:25,255 - INFO - Epoch : 3 Minibatch : 200 Loss : -3.31178
+2017-11-21 16:10:25,264 - INFO - ===============================================
+2017-11-21 16:10:25,264 - INFO - REAL: 3.34255237828e-14 <SOS> subject: $ name get the best softwares for only $ 15 <UNK> get top quality software <UNK> from <UNK> expensive prices ! ! the 10 - all time great software <EOS>
+2017-11-21 16:10:25,265 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:25,265 - INFO - ===============================================
+2017-11-21 16:10:25,265 - INFO - ===============================================
+2017-11-21 16:10:25,265 - INFO - REAL: 3.05437776122e-13 <SOS> subject: stock insider reports penny pick secrets us oi | and gas report oi | climbs , gains soar we have the leading track record for finding fast moving , <EOS>
+2017-11-21 16:10:25,266 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:25,266 - INFO - ===============================================
+2017-11-21 16:10:25,266 - INFO - ===============================================
+2017-11-21 16:10:25,266 - INFO - REAL: 1.80687576241e-16 <SOS> subject: localized software , all languages available . hello , we would like to offer localized software versions ( qerman , french , spanish , uk , and many others <EOS>
+2017-11-21 16:10:25,266 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:25,267 - INFO - ===============================================
+2017-11-21 16:10:25,267 - INFO - ===============================================
+2017-11-21 16:10:25,267 - INFO - REAL: 6.50672893893e-12 <SOS> subject: use canadian pharmacies and save ! <UNK> href = http : / / s 32 . <UNK> . <UNK> . <UNK> . <UNK> size = 5 save over 50 <EOS>
+2017-11-21 16:10:25,267 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:25,267 - INFO - ===============================================
+2017-11-21 16:10:25,267 - INFO - ===============================================
+2017-11-21 16:10:25,267 - INFO - REAL: 2.13627696784e-14 <SOS> subject: save your money buy getting this thing here you have not tried cialls yet ? than you cannot even imagine what it is like to be a real man <EOS>
+2017-11-21 16:10:25,267 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:25,267 - INFO - ===============================================
+2017-11-21 16:10:25,268 - INFO - Mean real probs: 9.10649364801e-08
+2017-11-21 16:10:25,268 - INFO - Mean pred probs: 1.08731813228e-09
+2017-11-21 16:10:26,378 - INFO - Epoch : 3 Minibatch : 300 Loss : -0.11446
+2017-11-21 16:10:26,386 - INFO - ===============================================
+2017-11-21 16:10:26,386 - INFO - REAL: 4.79833798944e-16 <SOS> subject: fwd : need meds . <UNK> | ~ n . vl @ gra . xana _ x _ . <UNK> | ium . i [ 8 if he has <EOS>
+2017-11-21 16:10:26,386 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:26,386 - INFO - ===============================================
+2017-11-21 16:10:26,387 - INFO - ===============================================
+2017-11-21 16:10:26,387 - INFO - REAL: 1.7576242204e-16 <SOS> subject: hi ho <UNK> w to save on your medlcatlons over 60 % . pharma <UNK> mail shop - successfull and pro <UNK> <UNK> way to save your ladies money <EOS>
+2017-11-21 16:10:26,387 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:26,387 - INFO - ===============================================
+2017-11-21 16:10:26,387 - INFO - ===============================================
+2017-11-21 16:10:26,388 - INFO - REAL: 5.52894118054e-11 <SOS> subject: im fed up of my pain problem pharma ' <UNK> - the <UNK> prices h , y , d * r , o * c * 0 . d <EOS>
+2017-11-21 16:10:26,388 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:26,388 - INFO - ===============================================
+2017-11-21 16:10:26,388 - INFO - ===============================================
+2017-11-21 16:10:26,388 - INFO - REAL: 2.59505088708e-11 <SOS> subject: re : [ <UNK> ] 75 % off vicodin . <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <EOS>
+2017-11-21 16:10:26,388 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:26,389 - INFO - ===============================================
+2017-11-21 16:10:26,389 - INFO - Mean real probs: 0.0595348451715
+2017-11-21 16:10:26,389 - INFO - Mean pred probs: 1.23692620152e-09
+2017-11-21 16:10:27,518 - INFO - Epoch : 3 Minibatch : 400 Loss : -3.29437
+2017-11-21 16:10:27,526 - INFO - ===============================================
+2017-11-21 16:10:27,526 - INFO - REAL: 3.23947756901e-11 <SOS> subject: fast and easy - the way you like it bait - excelled @ em . ca + unable to see graphics ? please go here to view this email <EOS>
+2017-11-21 16:10:27,527 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:27,527 - INFO - ===============================================
+2017-11-21 16:10:27,527 - INFO - ===============================================
+2017-11-21 16:10:27,527 - INFO - REAL: 6.10083740994e-11 <SOS> subject: news : smart spam and virus control is here hey , better than all other spam filters - only delivers the email you want ! this is the ultimate <EOS>
+2017-11-21 16:10:27,527 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:27,528 - INFO - ===============================================
+2017-11-21 16:10:27,528 - INFO - ===============================================
+2017-11-21 16:10:27,528 - INFO - REAL: 1.37961325686e-09 <SOS> subject: hi pretty <UNK> letters <UNK> use the ? goes use why the not . slow <UNK> a window , hottest demanding meds at afforrdable priicewe shiip to all countriies <EOS>
+2017-11-21 16:10:27,528 - INFO - PREDICTED: 1.53614234e-09 <SOS> subject: <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:27,528 - INFO - ===============================================
+2017-11-21 16:10:27,529 - INFO - ===============================================
+2017-11-21 16:10:27,529 - INFO - REAL: 2.13627696784e-14 <SOS> subject: save your money buy getting this thing here you have not tried cialls yet ? than you cannot even imagine what it is like to be a real man <EOS>
+2017-11-21 16:10:27,529 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:27,529 - INFO - ===============================================
+2017-11-21 16:10:27,529 - INFO - ===============================================
+2017-11-21 16:10:27,529 - INFO - REAL: 2.49842698971e-10 <SOS> subject: miracle <UNK> boost <UNK> system 100 % hello , we have an alternative to drugs <UNK> . a miracle <UNK> than can help people with serious diseases ' the <EOS>
+2017-11-21 16:10:27,530 - INFO - PREDICTED: 7.88101993806e-10 <SOS> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+2017-11-21 16:10:27,530 - INFO - ===============================================
+2017-11-21 16:10:27,530 - INFO - Mean real probs: 0.0167100262846
+2017-11-21 16:10:27,530 - INFO - Mean pred probs: 9.37710063044e-10
