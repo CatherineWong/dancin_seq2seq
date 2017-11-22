@@ -1,4 +1,4 @@
-# DANCin Seq2Seq: Dueling Adversarial Neural Classifiation in Seq2Seq Models
+# DANCin Seq2Seq: Dueling Adversarial Neural Classification in Seq2Seq Models
 CS332 (Advanced Topics in RL) Final Project, Autumn 2017
 
 Fool me once, shame on me. Fool me twice, maybe you're using an adversarial discriminator<--autoencoder-->generator formulation to
